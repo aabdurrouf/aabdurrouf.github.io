@@ -63,12 +63,23 @@ spatially resolved stellar populations of Supernova‑host galaxies in the local
 + (2023) Co‑mentoring undergraduate student [Turaba Rahman](https://www.linkedin.com/in/turabarahman/), from Kent State University, USA, at the 2023 [SASP (Space Astronomy Summer Program)](https://www.stsci.edu/opportunities/space-astronomy-summer-program) held by STScI.
 + (2022) Lecturer at the [International Virtual Course (IVC) on Astrophysical Modeling and Computation](https://www.as.itb.ac.id/ivcas2022/), held by Institut Teknologi Bandung (ITB), Indonesia. Lecture materials on [GitHub repository](https://github.com/aabdurrouf/ivcitb2022).
 
+---
 
 ## Major Collaborations
 
 + **[Cosmic Spring JWST](https://cosmic-spring.github.io/)** (2022-present)
 + **[Euclid Consortium](https://www.euclid-ec.org/)** (2021-present)
 + **BEACON JWST** (2023-present)
++ **[VST-SMASH](https://arxiv.org/abs/2411.09608)** (2023-present)
++ **[SDSS-IV/MaNGA](https://www.sdss4.org/surveys/manga/)** (2019-2022)
 
 ---
+
+## Public Outreach Talk
+
++ 100-hour Astronomy as part of the IAU Global Outreach Project organized by the National Research and Innovation Agency of Indonesia (BRIN). Talk title: *The science missions of the Hubble and James Webb Space Telescopes*. [Recording](https://youtu.be/pk20TgxSSn4)
++ Virtual public lecture at the Physics Department, Brawijaya University, Indonesia. Talk title: *Astrostatistics and Big data for understanding the evolution of the universe*. [Recording](https://www.youtube.com/watch?v=UlsinoWFCaU)
+
+--- 
+
 
