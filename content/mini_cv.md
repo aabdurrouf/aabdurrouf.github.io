@@ -77,6 +77,7 @@ spatially resolved stellar populations of Supernova‑host galaxies in the local
 
 ## Public Outreach Talk
 
++ Physics talk at the Department of Physics, IPB University, Indonesia. Talk title: *The Hunt for First Galaxies in the Universe with JWST*. [Recording](https://www.youtube.com/watch?v=D6IXPF-vmzk&t=0s)
 + 100-hour Astronomy as part of the IAU Global Outreach Project organized by the National Research and Innovation Agency of Indonesia (BRIN). Talk title: *The science missions of the Hubble and James Webb Space Telescopes*. [Recording](https://youtu.be/pk20TgxSSn4)
 + Virtual public lecture at the Physics Department, Brawijaya University, Indonesia. Talk title: *Astrostatistics and Big Data for Understanding the universe's evolution*. [Recording](https://www.youtube.com/watch?v=UlsinoWFCaU)
 
