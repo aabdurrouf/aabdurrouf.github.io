@@ -9,6 +9,7 @@ description: "Publications of Abdurro'uf"
 
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
+**[38]** _Euclid preparation: Extracting physical parameters from galaxies with machine learning_, Euclid Collaboration: I. Kovačić, M. Baes, A. Nersesian, N. Andreadis, L. Nemani, **Abdurro’uf**, et al., 2024, submitted to A&A.
 
 **[37]** _No Evidence of a Dichotomy in the Elliptical Galaxy Population_, Rog´erio Monteiro‑Oliveira, Yen‑Ting Lin, Wei‑Huai Chen, Chen‑Yu Chuang, **Abdurro’uf**, Po‑Feng Wu, 2024, submitted to ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240916349M/abstract))
 
