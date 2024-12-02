@@ -69,7 +69,7 @@ spatially resolved stellar populations of Supernova‑host galaxies in the local
 
 + **[Cosmic Spring JWST](https://cosmic-spring.github.io/)** (2022-present)
 + **[Euclid Consortium](https://www.euclid-ec.org/)** (2021-present)
-+ **BEACON JWST** (2023-present)
++ **[BEACON JWST](https://beacon-jwst.github.io/index.html)** (2023-present)
 + **[VST-SMASH](https://arxiv.org/abs/2411.09608)** (2023-present)
 + **[SDSS-IV/MaNGA](https://www.sdss4.org/surveys/manga/)** (2019-2022)
 
