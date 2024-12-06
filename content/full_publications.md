@@ -9,6 +9,8 @@ description: "Publications of Abdurro'uf"
 
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
+**[39]** _BEACON: JWST NIRCam Pure-parallel Imaging Survey. I. Survey Design and Initial Results_, Takahiro Morishita, Charlotte A. Mason, Kimi C. Kreilgaard, Michele Trenti, Tommaso Treu, Benedetta Vulcani, Yechi Zhang, **Abdurro'uf**, Anahita Alavi, Hakim Atek, Yannick Bahe, Marusa Bradac, Larry D. Bradley, Andrew J. Bunker, Dan Coe, James Colbert, Viola Gelli, Matthew J. Hayes, Tucker Jones, Tadayuki Kodama, Nicha Leethochawalit, Zhaoran Liu, Matthew A. Malkan, Vihang Mehta, Benjamin Metha, Andrew B. Newman, Marc Rafelski, Guido Roberts-Borsani, Michael J. Rutkowski, Claudia Scarlata, Massimo Stiavelli, Ryo A. Sutanto, Kosuke Takahashi, Harry I. Teplitz, Xin Wang, 2024, submitted to ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241204211M/abstract))
+
 **[38]** _Euclid preparation: Extracting physical parameters from galaxies with machine learning_, Euclid Collaboration: I. Kovačić, M. Baes, A. Nersesian, N. Andreadis, L. Nemani, **Abdurro’uf**, et al., 2024, submitted to A&A.
 
 **[37]** _No Evidence of a Dichotomy in the Elliptical Galaxy Population_, Rog´erio Monteiro‑Oliveira, Yen‑Ting Lin, Wei‑Huai Chen, Chen‑Yu Chuang, **Abdurro’uf**, Po‑Feng Wu, 2024, submitted to ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240916349M/abstract))
