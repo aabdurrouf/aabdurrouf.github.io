@@ -49,7 +49,7 @@ List of my publications can be seen at:
 
 ## Community Service
 
-+ Journal referee for ApJ, A&A
++ Journal referee for ApJ, A&A, MNRAS
 + Proposal review external panel for ALMA Large Program in Cycle 11
 
 ---
