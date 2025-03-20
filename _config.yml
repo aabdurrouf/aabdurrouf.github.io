@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Abdurrouf"
+title                    : "Dr. Abdurro'uf"
 title_separator          : "-"
-name                     : &name "Dr. Abdurrouf"
+name                     : &name "Dr. Abdurro'uf"
 description              : &description "Astrophysicist studying galaxy formation and evolution across cosmic time"
 url                      : https://aabdurrouf.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "aabdurrouf.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Abdurrouf"
+  name             : "Dr. Abdurro'uf"
   pronouns         : # example: "she/her"  
   bio              : "Astrophysicist studying galaxy formation and evolution across cosmic time"
   location         : "Baltimore, MD, USA"
