@@ -1,6 +1,6 @@
 ---
 title: "piXedfit"
-excerpt: "piXedfit: Pixelized Spectral Energy Distribution (SED) Fitting<br/><img src='/images/pixedfit.png'>"
+excerpt: "piXedfit: Pixelized Spectral Energy Distribution (SED) Fitting<br/><img src='/images/pixedfit.png' width='150' height='150'>"
 collection: portfolio
 ---
 
