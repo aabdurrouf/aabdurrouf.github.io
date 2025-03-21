@@ -1,6 +1,6 @@
 ---
 title: "AHC"
-excerpt: "Accurate Hijri Calculator <br/><img src='/images/ahc_logo.png'>"
+excerpt: "Accurate Hijri Calculator <br/><img src='/images/ahc_logo.png' width='150' height='150'>"
 collection: portfolio
 ---
 
