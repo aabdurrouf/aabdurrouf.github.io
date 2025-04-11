@@ -57,7 +57,7 @@ Major Collaborations
 
 Outreach and Selected Talks
 ======
-* 2025 - Invited talk at Workshop of Astronomical Observation, [AOS Indonesia](https://sites.google.com/view/aosindonesia/home?authuser=0), held in Institut Teknologi Bandung (ITB), Indonesia. Talk title: Observations of early galaxies in the era of JWST. [Slides](https://docs.google.com/presentation/d/1f74U8yS71F8zpfSwYlIktmDR24SUGtaQ/edit?usp=sharing&ouid=112608123390795379693&rtpof=true&sd=true)
+* 2025 - Invited talk at Workshop of Observational Astronomy, [AOS Indonesia](https://sites.google.com/view/aosindonesia/home?authuser=0), held in Institut Teknologi Bandung (ITB), Indonesia. Talk title: Observations of early galaxies in the era of JWST. [Slides](https://docs.google.com/presentation/d/1f74U8yS71F8zpfSwYlIktmDR24SUGtaQ/edit?usp=sharing&ouid=112608123390795379693&rtpof=true&sd=true)
 * 2023 - Physics talk at the Department of Physics, IPB University, Indonesia. Talk title: The Hunt for First Galaxies in the Universe with JWST. [Recording](https://www.youtube.com/watch?v=D6IXPF-vmzk&t=0s)
 * 2022 - 100-hour Astronomy as part of the IAU Global Outreach Project organized by the National Research and Innovation Agency of Indonesia (BRIN). Talk title: The science missions of the Hubble and James Webb Space Telescopes. [Recording](https://youtu.be/pk20TgxSSn4)
 * 2021 - Virtual public lecture at the Physics Department, Brawijaya University, Indonesia. Talk title: Astrostatistics and Big Data for Understanding the Universe's evolution. [Recording](https://www.youtube.com/watch?v=UlsinoWFCaU)
