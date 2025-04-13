@@ -25,7 +25,7 @@ Academic Appointment
 Honors, Awards, and Funding
 ======
 * Funding for Cycle 2 JWST GO 4246 program ($223,764) as PI, Physical Properties of a Possible Galaxy Merger at z=10.2 (2024-present)
-* The Japanese Government MEXT Scholarship**, for Master and Doctoral studies at Tohoku University (2013-2018)
+* The Japanese Government MEXT Scholarship, for Master and Doctoral studies at Tohoku University (2013-2018)
 * Silver medal, Physics category in the National Olympiad of Mathematics and Natural Sciences for undergraduate students in Indonesia (2013)
 * Silver medal, Physics category in the National Olympiad of Mathematics and Natural Sciences for undergraduate students in Indonesia (2012)
 
