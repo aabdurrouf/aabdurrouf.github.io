@@ -11,6 +11,8 @@ redirect_from:
 
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
+**[42]** Stellar Mass Assembly History of Massive Quiescent Galaxies since z~4: Insights from Spatially Resolved SED Fitting with JWST Data, Novan Saputra Haryana, Masayuki Akiyama, **Abdurro’uf**, Hesti Retno Tri Wulandari, Juan Pablo Alfonzo, Kianhong Lee, Naoki Matsumoto, Ryo Albert Sutanto, Muhammad Nur Ihsan Effendi, Itsna Khoirul Fitriana, Ibnu Nurul Huda, Anton Timur Jaelani, Sultan Hadi Kusuma, Lucky Puspitarini, and Dian Puspita Triani, 2025, submitted to ApJ.
+
 **[41]** _Euclid Preparation. Spatially Resolving Stellar Populations of Local Galaxies with Euclid: A Proof of Concept Using Synthetic Images with the TNG50 Simulation_, Euclid Collaboration: **Abdurro'uf**, Crescenzo Tortora, Maarten Baes, et al., 2025, submitted to A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250315635E/abstract))
 
 **[40]** _Euclid Quick Data Release (Q1). A first view of the star-forming main sequence in the Euclid Deep Fields_, Euclid Collaboration: A. Enia, L. Pozzetti, M. Bolzonella, L. Bisigello, W. G. Hartley, C. Saulder, E. Daddi, M. Siudek, G. Zamorani, P. Cassata, F. Gentile, L. Wang, G. Rodighiero, V. Allevato, P. Corcho-Caballero, H. Domínguez Sánchez, C. Tortora, M. Baes, **Abdurro'uf**, A. Nersesian, 2025, submitted to A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250315314E/abstract))
