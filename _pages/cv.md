@@ -59,7 +59,9 @@ Major Collaborations
 Outreach and Selected Talks
 ======
 * 2025 - Invited talk at Workshop of Observational Astronomy, [AOS Indonesia](https://sites.google.com/view/aosindonesia/home?authuser=0), held in Institut Teknologi Bandung (ITB), Indonesia. Talk title: Observations of early galaxies in the era of JWST. [Slides](https://docs.google.com/presentation/d/1f74U8yS71F8zpfSwYlIktmDR24SUGtaQ/edit?usp=sharing&ouid=112608123390795379693&rtpof=true&sd=true)
+* 2025 - Contributed talk at the 245th meeting of the American Astronomical Society (AAS). Talk title: Exploring the evolution of galaxies through spatially resolved studies across cosmic time.
 * 2023 - [STScI/JHU HotSci Summer Colloquium](https://www.stsci.edu/contents/events/stsci/2023/august/2023-hotsci-at-jhu-stsci-08-30-23). Talk title: Spatially resolving properties of galaxies across cosmic time
+* 2023 - Contributed talk at the 241st meeting of the American Astronomical Society (AAS). Talk title: Spatially resolved stellar populations of galaxies at $0.3<z<6.0$: how do galaxies grow and quench over cosmic time?
 * 2023 - Physics talk at the Department of Physics, IPB University, Indonesia. Talk title: The Hunt for First Galaxies in the Universe with JWST. [Recording](https://www.youtube.com/watch?v=D6IXPF-vmzk&t=0s)
 * 2022 - Astro Lunch Seminar at the Kavli Institue for the Physics and Mathematics of the Universe (IPMU), The University of Tokyo, Japan. Talk title: Spatially resolving properties of galaxies across cosmic time in the era of high spatial resolution and deep imaging surveys.
 * 2022 - 100-hour Astronomy as part of the IAU Global Outreach Project organized by the National Research and Innovation Agency of Indonesia (BRIN). Talk title: The science missions of the Hubble and James Webb Space Telescopes. [Recording](https://youtu.be/pk20TgxSSn4)
