@@ -57,7 +57,7 @@ Major Collaborations
 * [VST-SMASH](https://arxiv.org/abs/2411.09608) (2023-present)
 * [SDSS-IV/MaNGA](https://www.sdss4.org/surveys/manga/) (2019-2022)
 
-Outreach and Selected Talks
+Selected Talks and Outreach
 ======
 * 2025 - Invited talk at [Pan Survey SED Fitting Forum](https://sites.google.com/view/sed-fitting-forum/home?authuser=0). Talk title: Spatially resolving stellar populations in galaxies across cosmic time.
 * 2025 - Invited talk at Workshop of Observational Astronomy, [AOS Indonesia](https://sites.google.com/view/aosindonesia/home?authuser=0), held in Institut Teknologi Bandung (ITB), Indonesia. Talk title: Observations of early galaxies in the era of JWST. [Recording](https://www.youtube.com/watch?v=KQSBUkfbSHE)
