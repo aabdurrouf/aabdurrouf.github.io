@@ -59,6 +59,7 @@ Major Collaborations
 
 Outreach and Selected Talks
 ======
+* 2025 - Invited talk at [Pan Survey SED Fitting Forum](https://sites.google.com/view/sed-fitting-forum/home?authuser=0). Talk title: Spatially resolving stellar populations in galaxies across cosmic time.
 * 2025 - Invited talk at Workshop of Observational Astronomy, [AOS Indonesia](https://sites.google.com/view/aosindonesia/home?authuser=0), held in Institut Teknologi Bandung (ITB), Indonesia. Talk title: Observations of early galaxies in the era of JWST. [Recording](https://www.youtube.com/watch?v=KQSBUkfbSHE)
 * 2025 - Contributed talk at the 245th meeting of the American Astronomical Society (AAS). Talk title: Exploring the evolution of galaxies through spatially resolved studies across cosmic time.
 * 2023 - [STScI/JHU HotSci Summer Colloquium](https://www.stsci.edu/contents/events/stsci/2023/august/2023-hotsci-at-jhu-stsci-08-30-23). Talk title: Spatially resolving properties of galaxies across cosmic time
