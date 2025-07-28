@@ -11,9 +11,9 @@ redirect_from:
 
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
-**[45]** _The z=9.625 Cosmic Gems Galaxy was a ``Compact Blue Monster'' Propelled by Massive Star Clusters_, E. Vanzella, M. Messa, A. Adamo, F. Loiacono, M. Oguri, et al. (incl. **Abdurro’uf**), 2025, submitted to A&A. 
+**[45]** _The z=9.625 Cosmic Gems Galaxy was a ``Compact Blue Monster'' Propelled by Massive Star Clusters_, E. Vanzella, M. Messa, A. Adamo, F. Loiacono, M. Oguri, et al. (incl. **Abdurro’uf**), 2025, submitted to A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250718699V/abstract) )
 
-**[44]** _JWST Spectroscopic Confirmation of the Cosmic Gems Arc at z=9.625. Insights into the small scale structure of a post-burst system_, M. Messa, E. Vanzella, F. Loiacono, A. Adamo, M. Oguri, K. Sharon, L.D. Bradley, L. Christensen, A. Claeyssens, J. Richard, **Abdurro'uf**, F.E. Bauer, P. Bergamini, A. Bolamperti, M. Bradač, F. Calura, D. Coe, et al., 2025, submitted to A&A.
+**[44]** _JWST Spectroscopic Confirmation of the Cosmic Gems Arc at z=9.625. Insights into the small scale structure of a post-burst system_, M. Messa, E. Vanzella, F. Loiacono, A. Adamo, M. Oguri, K. Sharon, L.D. Bradley, L. Christensen, A. Claeyssens, J. Richard, **Abdurro'uf**, F.E. Bauer, P. Bergamini, A. Bolamperti, M. Bradač, F. Calura, D. Coe, et al., 2025, submitted to A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250718705M/abstract))
 
 **[43]** _Euclid preparation. The impact of nonparametric star-formation histories on spatially resolved galaxy property estimation using synthetic Euclid images_, Euclid Collaboration: A. Nersesian, **Abdurro'uf**, M. Baes, C. Tortora, I. Kovačić, L. Bisigello, P. Corcho-Caballero, E. Durán-Camacho, L.K. Hunt, P. Iglesias-Navarro, R. Ragusa, J. Román, F. Shankar, M. Siudek, J.G. Sorce, F.R. Marleau, N. Aghanim, S. Andreon, et al., 2025, submitted to A&A. 
 
