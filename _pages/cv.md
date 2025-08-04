@@ -19,11 +19,13 @@ Education
 
 Academic Appointment
 ======
-* Postdoctoral fellow, Department of Physics and Astronomy, Johns Hopkins University, USA (2022-present)
+* Sullivan Prize Fellow, Department of Astronomy, Indiana University, USA (2025-present)
+* Postdoctoral fellow, Department of Physics and Astronomy, Johns Hopkins University, USA (2022-2025)
 * Postdoctoral fellow, Academia Sinica Institute of Astronomy and Astrophysics, Taiwan (2018-2022)
 
 Honors, Awards, and Funding
 ======
+* Sullivan Prize Fellowship
 * Funding for Cycle 2 JWST GO 4246 program ($223,764) as PI, Physical Properties of a Possible Galaxy Merger at z=10.2 (2024-present)
 * The Japanese Government MEXT Scholarship, for Master and Doctoral studies at Tohoku University (2013-2018)
 * Silver medal, Physics category in the National Olympiad of Mathematics and Natural Sciences for undergraduate students in Indonesia (2013)
