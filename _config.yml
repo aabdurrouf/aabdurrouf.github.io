@@ -26,10 +26,10 @@ author:
   name             : "Dr. Abdurro'uf"
   pronouns         : # example: "she/her"  
   bio              : "Astrophysicist studying galaxy formation and evolution across cosmic time"
-  location         : "Baltimore, MD, USA"
-  employer         : "Johns Hopkins University"
+  location         : "Bloomington, IN, USA"
+  employer         : "Indiana University"
   uri              : # URL
-  email            : "fabdurr1@jhu.edu" 
+  email            : "fnuabdur@iu.edu" 
 
   # Academic websites
   arxiv            : "https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc"
