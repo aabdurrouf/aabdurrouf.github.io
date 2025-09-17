@@ -11,6 +11,8 @@ redirect_from:
 
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
+**[46]** _HELM's deep: Highly Extincted Low-Mass galaxies seen by JWST_, L. Bisigello, G. Gandolfi, A. Grazian, G. Rodighiero, G. Girardi, A. Renzini, A. Vietri, E. McGrath, B. Holwerda, **Abdurro'uf**, M. Castellano, M. Giulietti, C. Gruppioni, N. Hathi, A.M. Koekemoer, R. Lucas, F. Pacucci, P.G. Pérez-González, L.Y.A. Yung, P. Arrabal Haro, B.E. Backhaus, M. Bagley, M. Dickinson, S. Finkelstein, J. Kartaltepe, A. Kirkpatrick, C. Papovich, N. Pirzkal, 2025, submitted to A&A.
+
 **[45]** _The z=9.625 Cosmic Gems Galaxy was a ``Compact Blue Monster'' Propelled by Massive Star Clusters_, E. Vanzella, M. Messa, A. Adamo, F. Loiacono, M. Oguri, et al. (incl. **Abdurro’uf**), 2025, submitted to A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250718699V/abstract) )
 
 **[44]** _JWST Spectroscopic Confirmation of the Cosmic Gems Arc at z=9.625. Insights into the small scale structure of a post-burst system_, M. Messa, E. Vanzella, F. Loiacono, A. Adamo, M. Oguri, K. Sharon, L.D. Bradley, L. Christensen, A. Claeyssens, J. Richard, **Abdurro'uf**, F.E. Bauer, P. Bergamini, A. Bolamperti, M. Bradač, F. Calura, D. Coe, et al., 2025, submitted to A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250718705M/abstract))
