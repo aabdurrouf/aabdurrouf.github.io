@@ -42,7 +42,8 @@ Community Service
 
 Mentoring and Teaching
 ======
-* (2024-present) co-mentoring graduate student [Novan Saputra Haryana](https://www.linkedin.com/in/novansaputra/?originalSubdomain=jp) from the Astronomical Institute at Tohoku University, Japan. His current research topic is the evolution of massive quiescent galaxies at high redshifts.
+* (2025-present) Remotely supervising undergraduate student [Đinh Trung Quốc Anh](https://www.linkedin.com/in/%C4%91inh-trung-qu%E1%BB%91c-anh/) from the International University in Vietnam. He is doing research on high-redshift galaxies using JWST data by applying SED fitting to measure their physical properties. 
+* (2024-present) co-mentoring graduate student [Novan Saputra Haryana](https://novansaputra.github.io/) from the Astronomical Institute at Tohoku University, Japan. His current research topic is the evolution of massive quiescent galaxies at high redshifts.
 * (2023-2024) Remotely supervising undergraduate student [Muhammad Nur Ihsan Effendi](https://www.linkedin.com/in/muhammad-nur-ihsan-effendi/?trk=public_profile_browsemap&originalSubdomain=id), from Institute Teknologi Bandung (ITB), Indonesia. He recently graduated with a Bachelor's thesis project on studying the structures and morphologies of galaxies at z>2 with JWST data. He is currently a graduate student at ITB.
 * (2023-2024) Remotely supervising undergraduate student [Novan Saputra Haryana](https://www.linkedin.com/in/novansaputra/?originalSubdomain=jp), from Institute Teknologi Bandung (ITB), Indonesia. He recently graduated with a Bachelor's thesis project on studying passive galaxies at 2<z<7 with JWST and HST data. From Fall 2024, he is a graduate student at Tohoku University.
 * (2022-2024) Remotely co-supervising graduate student [Han‑Tang Lin](https://www.linkedin.com/in/tylerastro/?locale=en_US), from National Central University, Taiwan. Project topic:
@@ -74,8 +75,25 @@ Selected Talks and Outreach
 * 2021 - Virtual public lecture at the Physics Department, Brawijaya University, Indonesia. Talk title: Astrostatistics and Big Data for Understanding the Universe's evolution. [Recording](https://www.youtube.com/watch?v=UlsinoWFCaU)
 * 2020 - Invited Colloquium at the Institute of Astronomy, National Tsing Hua University (NTHU), Taiwan.
 
+Recent Telescope Times
+======
+
+As PI:
+-----
+* 2024: Cycle 2 [JWST GO 4246](https://www.stsci.edu/jwst-program-info/program/?program=4246) (PI: Abdurro'uf), Physical Properties of a Possible Galaxy Merger at z = 10.2 (funded $223,764).
 
 
+As co-PI:
+-----
+* 2025: [JWST DD 9493](https://www.stsci.edu/jwst-program-info/program/?program=9493) (PI: Coulter), SN Eos: A Multiply-Imaged, 30x Magnified SN Near the Epoch of Reionization
+* 2025: [JWST DD 9478](https://www.stsci.edu/jwst-program-info/program/?program=9478) (PI: Larison), SN Ares: A Strongly Lensed, High-z CCSN with Remarkable Time Delays
+* 2025: Cycle 4 [JWST GO 6882](https://www.stsci.edu/jwst-program-info/program/?program=6882) (PI: Fujimoto), Vast Exploration for Nascent, Unexplored Sources (VENUS)
+* 2025: Cycle 4 [JWST GO 8051](https://www.stsci.edu/jwst/science-execution/program-information?id=8051) (PI: Alvarez-Marquez), MIRI Spectroscopic survey at z~10: Insights into the Nature of Primordial Galaxies
+* 2024: Cycle 3 [JWST GO 5917](https://www.stsci.edu/jwst/science-execution/program-information?id=5917) (PI: Vanzella), Mapping star cluster feedback in a galaxy 500 Myr after the Big Bang
+* 2024: Cycle 3 [JWST GO 5328](https://www.stsci.edu/jwst-program-info/program/?program=5328) (PI: Gonzalez), Measuring the form of the IMF in passive galaxies at z=1.2
+* 2024: Cycle 3 [JWST GO 5293](https://www.stsci.edu/jwst/phase2-public/5293.pdf) (PI: Xu), Galactic winds in the early universe: observing outflows in emission and absorption in a typical z~6 galaxy
+* 2023: Cycle 2 [JWST GO 4212](https://www.stsci.edu/jwst-program-info/program/?program=4212) (PI: Bradley), Unveiling the most distant lensed arc at z$\sim$6
+* 2023: Cycle 2 [JWST GO 3990](https://www.stsci.edu/jwst-program-info/program/?program=3990) (PI: Morishita), A NIRCam pure-parallel imaging survey of galaxies across the universe
 
 
 
