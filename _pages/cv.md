@@ -26,7 +26,7 @@ Academic Appointment
 Honors, Awards, and Funding
 ======
 * Sullivan Prize Fellowship
-* Funding for Cycle 2 JWST GO 4246 program ($223,764) as PI, Physical Properties of a Possible Galaxy Merger at z=10.2 (2024-present)
+* Funding for Cycle 2 JWST GO 4246 program ($223,764) as PI, Physical Properties of a Possible Galaxy Merger at z=10.2 (2024-2025)
 * The Japanese Government MEXT Scholarship, for Master and Doctoral studies at Tohoku University (2013-2018)
 * Silver medal, Physics category in the National Olympiad of Mathematics and Natural Sciences for undergraduate students in Indonesia (2013)
 * Silver medal, Physics category in the National Olympiad of Mathematics and Natural Sciences for undergraduate students in Indonesia (2012)
@@ -84,7 +84,7 @@ As PI:
 * 2024: Cycle 2 [JWST GO 4246](https://www.stsci.edu/jwst-program-info/program/?program=4246) (PI: Abdurro'uf), Physical Properties of a Possible Galaxy Merger at z = 10.2 (funded $223,764).
 
 
-As co-PI:
+As co-I:
 -----
 * 2025: [JWST DD 9493](https://www.stsci.edu/jwst-program-info/program/?program=9493) (PI: Coulter), SN Eos: A Multiply-Imaged, 30x Magnified SN Near the Epoch of Reionization
 * 2025: [JWST DD 9478](https://www.stsci.edu/jwst-program-info/program/?program=9478) (PI: Larison), SN Ares: A Strongly Lensed, High-z CCSN with Remarkable Time Delays
