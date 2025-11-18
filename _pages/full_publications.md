@@ -11,6 +11,8 @@ redirect_from:
 
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
+**[48]** _VENUS: A Strongly Lensed Clumpy Galaxy at z ∼ 11 − 12 behind the Galaxy Cluster MACS J0257.1-2325_, M. Nakane, V. Kokorev, S. Fujimoto, et al. (incl. **Abdurro'uf**), 2025, submitted to ApJ.
+
 **[47]** _VST-SMASH: VST Survey of Mass Assembly and Structural Hierarchy. I. Survey presentation and deep photometry of tracing the mass assembly in the challenging faintest-end regime_, R. Ragusa, C. Tortora, L. Hunt, M. Spavone, M. Baes, **Abdurro’uf**, M. Gatto, F. Annibali, N. Bellucco, A. Unni, E. Schinnerer, submitted to A&A.
 
 **[46]** _HELM's deep: Highly Extincted Low-Mass galaxies seen by JWST_, L. Bisigello, G. Gandolfi, A. Grazian, G. Rodighiero, G. Girardi, A. Renzini, A. Vietri, E. McGrath, B. Holwerda, **Abdurro'uf**, M. Castellano, M. Giulietti, C. Gruppioni, N. Hathi, A.M. Koekemoer, R. Lucas, F. Pacucci, P.G. Pérez-González, L.Y.A. Yung, P. Arrabal Haro, B.E. Backhaus, M. Bagley, M. Dickinson, S. Finkelstein, J. Kartaltepe, A. Kirkpatrick, C. Papovich, N. Pirzkal, 2025, submitted to A&A.
