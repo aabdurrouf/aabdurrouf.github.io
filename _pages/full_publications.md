@@ -11,7 +11,7 @@ redirect_from:
 
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
-**[50]** _Little red dot variability over a century reveals black hole envelope via a giant Einstein cross_, Zijian Zhang, Mingyu Li, Masamune Oguri, Xiaojing Lin, Kohei Inayoshi, (incl. **Abdurro'uf**), 2025, submitted to Science. 
+**[50]** _Little red dot variability over a century reveals black hole envelope via a giant Einstein cross_, Zijian Zhang, Mingyu Li, Masamune Oguri, Xiaojing Lin, Kohei Inayoshi, (incl. **Abdurro'uf**), 2025, submitted. 
 
 **[49]** _VENUS: When Red meets Blue -- A multiply imaged Little Red Dot with an apparent blue companion behind the galaxy cluster Abell 383_, Miriam Golubchik, Lukas J. Furtak, Joseph F. V. Allingham, Adi Zitrin, Hollis B. Akins, Vasily Kokorev, Seiji Fujimoto, **Abdurro'uf**, Ricardo O. Amorín, Franz E. Bauer, Rachel Bezanson, et al., 2025, submitted to A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251202117G/abstract))
 
