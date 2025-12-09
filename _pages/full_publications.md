@@ -13,7 +13,7 @@ Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard
 
 **[51]** _Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z > 6 Galaxy, the Strongly Lensed Cosmic Spear at z = 6.2_, **Abdurro'uf**, Dan Coe, Tom Resseguier, Calla Murphy, Xinfeng Xu, Angela Adamo, Namrata Roy, Alaina Henry, et al., 2025, submitted to ApJ. 
 
-**[50]** _Little red dot variability over a century reveals black hole envelope via a giant Einstein cross_, Zijian Zhang, Mingyu Li, Masamune Oguri, Xiaojing Lin, Kohei Inayoshi, (incl. **Abdurro'uf**), 2025, submitted. 
+**[50]** _Little red dot variability over a century reveals black hole envelope via a giant Einstein cross_, Zijian Zhang, Mingyu Li, Masamune Oguri, Xiaojing Lin, Kohei Inayoshi, (incl. **Abdurro'uf**), 2025, submitted. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251205180Z/abstract))
 
 **[49]** _VENUS: When Red meets Blue -- A multiply imaged Little Red Dot with an apparent blue companion behind the galaxy cluster Abell 383_, Miriam Golubchik, Lukas J. Furtak, Joseph F. V. Allingham, Adi Zitrin, Hollis B. Akins, Vasily Kokorev, Seiji Fujimoto, **Abdurro'uf**, Ricardo O. Amorín, Franz E. Bauer, Rachel Bezanson, et al., 2025, submitted to A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251202117G/abstract))
 
