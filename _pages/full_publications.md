@@ -11,7 +11,7 @@ redirect_from:
 
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
-**[51]** _Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z > 6 Galaxy, the Strongly Lensed Cosmic Spear at z = 6.2_, **Abdurro'uf**, Dan Coe, Tom Resseguier, Calla Murphy, Xinfeng Xu, Angela Adamo, Namrata Roy, Alaina Henry, et al., 2025, submitted to ApJ. 
+**[51]** _Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z > 6 Galaxy, the Strongly Lensed Cosmic Spear at z = 6.2_, **Abdurro'uf**, Dan Coe, Tom Resseguier, Calla Murphy, Xinfeng Xu, Angela Adamo, Namrata Roy, Alaina Henry, et al., 2025, submitted to ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251208054A/abstract))
 
 **[50]** _Little red dot variability over a century reveals black hole envelope via a giant Einstein cross_, Zijian Zhang, Mingyu Li, Masamune Oguri, Xiaojing Lin, Kohei Inayoshi, (incl. **Abdurro'uf**), 2025, submitted. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251205180Z/abstract))
 
