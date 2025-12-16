@@ -11,7 +11,7 @@ redirect_from:
 
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
-**[52]** _High-Redshift Galaxy Candidates at z > 6 Revealed by JWST Observations of MACS0647_, Keduse Worku, Tiger Yu-Yang Hsiao, Dan Coe, **Abdurro'uf**, Tom Resseguier, Rebecca Larson, Jacqueline Antwi-Danso, Gabriel Brammer, Vasily Kokorev, Larry Bradley, Lukas Furtak, Masamune Oguri, 2025, submitted to ApJ.
+**[52]** _High-Redshift Galaxy Candidates at z > 6 Revealed by JWST Observations of MACS0647_, Keduse Worku, Tiger Yu-Yang Hsiao, Dan Coe, **Abdurro'uf**, Tom Resseguier, Rebecca Larson, Jacqueline Antwi-Danso, Gabriel Brammer, Vasily Kokorev, Larry Bradley, Lukas Furtak, Masamune Oguri, 2025, submitted to ApJ.([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251211985W/abstract))
 
 **[51]** _Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z > 6 Galaxy, the Strongly Lensed Cosmic Spear at z = 6.2_, **Abdurro'uf**, Dan Coe, Tom Resseguier, Calla Murphy, Xinfeng Xu, Angela Adamo, Namrata Roy, Alaina Henry, et al., 2025, submitted to ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251208054A/abstract))
 
