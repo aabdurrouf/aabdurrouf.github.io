@@ -11,6 +11,8 @@ redirect_from:
 
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
+**[53]** _VST-SMASH: VST Survey of Mass Assembly and Structural Hierarchy. II. Exploring dwarf galaxies in the vicinity of NGC 5068 and of the two galaxies NGC 5084 and NGC 5087 at the edges of the Virgo Supercluster_, C. Tortora, R. Ragusa, L. Hunt, A. Unni, M. Baes, **Abdurro'uf**, F. Annibali, M. Gatto, N. R. Napolitano, H. Su, A. Venhola, 2025, submitted to A&A.
+
 **[52]** _High-Redshift Galaxy Candidates at z > 6 Revealed by JWST Observations of MACS0647_, Keduse Worku, Tiger Yu-Yang Hsiao, Dan Coe, **Abdurro'uf**, Tom Resseguier, Rebecca Larson, Jacqueline Antwi-Danso, Gabriel Brammer, Vasily Kokorev, Larry Bradley, Lukas Furtak, Masamune Oguri, 2025, submitted to ApJ.([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251211985W/abstract))
 
 **[51]** _Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z > 6 Galaxy, the Strongly Lensed Cosmic Spear at z = 6.2_, **Abdurro'uf**, Dan Coe, Tom Resseguier, Calla Murphy, Xinfeng Xu, Angela Adamo, Namrata Roy, Alaina Henry, et al., 2025, submitted to ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251208054A/abstract))
@@ -23,7 +25,7 @@ Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard
 
 **[47]** _VST-SMASH: VST Survey of Mass Assembly and Structural Hierarchy. I. Survey presentation and deep photometry of tracing the mass assembly in the challenging faintest-end regime_, R. Ragusa, C. Tortora, L. Hunt, M. Spavone, M. Baes, **Abdurro’uf**, M. Gatto, F. Annibali, N. Bellucco, A. Unni, E. Schinnerer, submitted to A&A.
 
-**[46]** _HELM's deep: Highly Extincted Low-Mass galaxies seen by JWST_, L. Bisigello, G. Gandolfi, A. Grazian, G. Rodighiero, G. Girardi, A. Renzini, A. Vietri, E. McGrath, B. Holwerda, **Abdurro'uf**, M. Castellano, M. Giulietti, C. Gruppioni, N. Hathi, A.M. Koekemoer, R. Lucas, F. Pacucci, P.G. Pérez-González, L.Y.A. Yung, P. Arrabal Haro, B.E. Backhaus, M. Bagley, M. Dickinson, S. Finkelstein, J. Kartaltepe, A. Kirkpatrick, C. Papovich, N. Pirzkal, 2025, submitted to A&A.
+**[46]** _HELM's deep: Highly Extincted Low-Mass galaxies seen by JWST_, L. Bisigello, G. Gandolfi, A. Grazian, G. Rodighiero, G. Girardi, A. Renzini, A. Vietri, E. McGrath, B. Holwerda, **Abdurro'uf**, M. Castellano, M. Giulietti, C. Gruppioni, N. Hathi, A.M. Koekemoer, R. Lucas, F. Pacucci, P.G. Pérez-González, L.Y.A. Yung, P. Arrabal Haro, B.E. Backhaus, M. Bagley, M. Dickinson, S. Finkelstein, J. Kartaltepe, A. Kirkpatrick, C. Papovich, N. Pirzkal, 2025, accepted by A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251214822B/abstract))
 
 **[45]** _The z=9.625 Cosmic Gems Galaxy was a ``Compact Blue Monster'' Propelled by Massive Star Clusters_, E. Vanzella, M. Messa, A. Adamo, F. Loiacono, M. Oguri, et al. (incl. **Abdurro’uf**), 2025, accepted by A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250718699V/abstract) )
 
