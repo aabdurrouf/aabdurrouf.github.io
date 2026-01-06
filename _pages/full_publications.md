@@ -11,6 +11,8 @@ redirect_from:
 
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
+**[54]** _BEACON: JWST NIRCam Pure-parallel Imaging Survey. II. Physical Properties of z=7-14 Galaxies_, Yechi Zhang, Takahiro Morishita, Kimi C. Kreilgaard, Charlotte A. Mason, **Abdurro'uf**, Hakim Atek, Marusa Bradac, Larry D. Bradley, et al., 2025, submitted to A&A.
+
 **[53]** _VST-SMASH: VST Survey of Mass Assembly and Structural Hierarchy. II. Exploring dwarf galaxies in the vicinity of NGC 5068 and of the two galaxies NGC 5084 and NGC 5087 at the edges of the Virgo Supercluster_, C. Tortora, R. Ragusa, L. Hunt, A. Unni, M. Baes, **Abdurro'uf**, F. Annibali, M. Gatto, N. R. Napolitano, H. Su, A. Venhola, 2025, submitted to A&A.
 
 **[52]** _High-Redshift Galaxy Candidates at z > 6 Revealed by JWST Observations of MACS0647_, Keduse Worku, Tiger Yu-Yang Hsiao, Dan Coe, **Abdurro'uf**, Tom Resseguier, Rebecca Larson, Jacqueline Antwi-Danso, Gabriel Brammer, Vasily Kokorev, Larry Bradley, Lukas Furtak, Masamune Oguri, 2025, submitted to ApJ.([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251211985W/abstract))
