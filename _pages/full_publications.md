@@ -13,7 +13,7 @@ Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard
 
 **[56]** _Euclid: Early Release Observations -- The extended stellar component of the IC10 dwarf galaxy_, F. Annibali, A.M.N. Ferguson, P.M. Sanchez-Alarcon, P. Dimauro, L.K. Hunt, R. Pascale, M. Bellazzini, A. Lançon, P. Jablonka, J.M. Howell, K. Voggel, J.-C. Cuillandre, **Abdurro'uf**, G. Battaglia, L.R. BEDIN, Michele Cantiello, et al., 2026, submitted to A&A.
 
-**[55]** _A spectroscopically confirmed, strongly lensed, metal-poor Type II supernova at z = 5.13_, David A. Coulter, Conor Larison, Justin D. R. Pierel, Seiji Fujimoto, (incl. **Abdurro'uf**), 2026, submitted. ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260104156C/abstract))
+**[55]** _A spectroscopically confirmed, strongly lensed, metal-poor Type II supernova at z = 5.13_, David A. Coulter, Conor Larison, Justin D. R. Pierel, Seiji Fujimoto, (incl. **Abdurro'uf**), 2026, submitted to Science. ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260104156C/abstract))
 
 **[54]** _BEACON: JWST NIRCam Pure-parallel Imaging Survey. II. Physical Properties of z=7-14 Galaxies_, Yechi Zhang, Takahiro Morishita, Kimi C. Kreilgaard, Charlotte A. Mason, **Abdurro'uf**, Hakim Atek, Marusa Bradac, Larry D. Bradley, et al., 2026, submitted to A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260102861Z/abstract))
 
