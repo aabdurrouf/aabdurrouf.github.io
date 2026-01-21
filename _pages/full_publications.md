@@ -11,7 +11,7 @@ redirect_from:
 
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
-**[56]** _Euclid: Early Release Observations -- The extended stellar component of the IC10 dwarf galaxy_, F. Annibali, A.M.N. Ferguson, P.M. Sanchez-Alarcon, P. Dimauro, L.K. Hunt, R. Pascale, M. Bellazzini, A. Lançon, P. Jablonka, J.M. Howell, K. Voggel, J.-C. Cuillandre, **Abdurro'uf**, G. Battaglia, L.R. BEDIN, Michele Cantiello, et al., 2026, submitted to A&A.
+**[56]** _Euclid: Early Release Observations -- The extended stellar component of the IC10 dwarf galaxy_, F. Annibali, A.M.N. Ferguson, P.M. Sanchez-Alarcon, P. Dimauro, L.K. Hunt, R. Pascale, M. Bellazzini, A. Lançon, P. Jablonka, J.M. Howell, K. Voggel, J.-C. Cuillandre, **Abdurro'uf**, G. Battaglia, L.R. BEDIN, Michele Cantiello, et al., 2026, submitted to A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260111997A/abstract))
 
 **[55]** _A spectroscopically confirmed, strongly lensed, metal-poor Type II supernova at z = 5.13_, David A. Coulter, Conor Larison, Justin D. R. Pierel, Seiji Fujimoto, (incl. **Abdurro'uf**), 2026, submitted to Science. ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260104156C/abstract))
 
