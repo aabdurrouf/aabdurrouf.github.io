@@ -14,6 +14,8 @@ Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard
 2026
 ----
 
+**[60]** _GalSyn I: A Forward-Modeling Framework for Synthetic Galaxy Observations from Hydrodynamical Simulations and First Data Release from IllustrisTNG_, **Abdurro'uf**, Henry C. Ferguson, Samir Salim, Kartheik G. Iyer, Larry Bradley, Dan Coe, Novan Saputra Haryana, Sultan Hassan, Intae Jung, Gourav Khullar, Takahiro Morishita, Lamiya Mowla, 2026, submitted to AAS journals.
+
 **[59]** _PRISMS. UNCOVER-26185, a metal-poor SFG at z=10.05 with no evidence for a X-ray-luminous AGN_, J. Alvarez-Marquez, L. Colina, A. Crespo-Gomez, S. Kendrew, J. Zavala, R. Marques-Chaves, C. Prieto-Jimenez, **Abdurro’uf**, C. Blanco-Prieto, L. A. Boogaard, M. Castellano, A. Fontana, Y. Fudamoto, S. Fujimoto, M. Garcia-Marin, Y. Harikane, S. Harish, T. Hashimoto, T. Hsiao, E. Iani, A. K. Inoue, D. Langeroodi, R. Lin, J. Melinder, L. Napolitano, G. OAN stlin, P. G. P.rez-Gonzalez,
 P. Rinaldi, B. Rodriguez Del Pino, P. Santini, Y. Sugahara, T. Treu, A. Varo-O’ferral, and G. Wright, 2026, submitted to A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260202323A/abstract))
 
