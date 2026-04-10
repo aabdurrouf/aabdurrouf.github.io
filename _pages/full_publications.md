@@ -14,7 +14,7 @@ Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard
 2026
 ----
 
-**[61]** _Interplay of Compaction, Quenching, and Black Hole Growth in the Most Massive Galaxies since z~5: Insights from JWST and Chandra Data_, by Novan Haryana, Masayuki Akiyama, **Abdurro'uf**, Suchetha Cooray, Itsna Fitriana, Dian Triani, Bovornpratch Vijarnwannaluk, Juan Alfonzo, Irham Andika, Muhammad Effendi, Ibnu Huda, Takumi Kakimoto, Anton Jaelani, Ronaldo Laishram, Naoki Matsumoto, Abdurrahman Naufal, Lucky Puspitarini, and Ryo Sutanto, 2026, submitted to ApJ.
+**[61]** _Interplay of Compaction, Quenching, and Black Hole Growth in the Most Massive Galaxies since z~5: Insights from JWST and Chandra Data_, Novan Haryana, Masayuki Akiyama, **Abdurro'uf**, Suchetha Cooray, Itsna Fitriana, Dian Triani, Bovornpratch Vijarnwannaluk, Juan Alfonzo, Irham Andika, Muhammad Effendi, Ibnu Huda, Takumi Kakimoto, Anton Jaelani, Ronaldo Laishram, Naoki Matsumoto, Abdurrahman Naufal, Lucky Puspitarini, and Ryo Sutanto, 2026, submitted to ApJ.
 
 **[60]** _GalSyn I: A Forward-Modeling Framework for Synthetic Galaxy Observations from Hydrodynamical Simulations and First Data Release from IllustrisTNG_, **Abdurro'uf**, Henry C. Ferguson, Samir Salim, Kartheik G. Iyer, Larry Bradley, Dan Coe, Novan Saputra Haryana, Sultan Hassan, Intae Jung, Gourav Khullar, Takahiro Morishita, Lamiya Mowla, 2026, submitted to AAS journals. ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260323986A/abstract))
 
