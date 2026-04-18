@@ -88,6 +88,10 @@ As PI:
 
 As co-I:
 -----
+* 2026: Cycle 5 [JWST GO 12581](https://www.stsci.edu/jwst-program-info/program/?program=12581) (PI: Fujimoto), Vast Exploration for Nascent, Unexplored Sources (VENUS)
+* 2026: Cycle 5 [JWST GO 10518](https://www.stsci.edu/jwst-program-info/program/?program=10518) (PI: Cleri), CEDAR: Characterizing Electron Densities At Reionization
+* 2026: Cycle 5 [JWST GO 10005](https://www.stsci.edu/jwst-program-info/program/?program=10005&pi=1) (PI: Sun), Little Red Dots in a Time (Delay) Machine: Monitoring Gravitationally Lensed, Multiply Imaged LRDs over 160 years
+* 2026: Cycle 5 [JWST GO 12299](https://www.stsci.edu/jwst-program-info/investigators/?program=12299) (PI: Larison), Catching Eos by the Tail
 * 2025: [JWST DD 9493](https://www.stsci.edu/jwst-program-info/program/?program=9493) (PI: Coulter), SN Eos: A Multiply-Imaged, 30x Magnified SN Near the Epoch of Reionization
 * 2025: [JWST DD 9478](https://www.stsci.edu/jwst-program-info/program/?program=9478) (PI: Larison), SN Ares: A Strongly Lensed, High-z CCSN with Remarkable Time Delays
 * 2025: Cycle 4 [JWST GO 6882](https://www.stsci.edu/jwst-program-info/program/?program=6882) (PI: Fujimoto), Vast Exploration for Nascent, Unexplored Sources (VENUS)
