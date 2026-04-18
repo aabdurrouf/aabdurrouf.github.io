@@ -1,6 +1,6 @@
 ---
 title: "GalSyn"
-excerpt: "GalSyn: Galaxy Synthesizer<br/><img src='/images/galsyn_logo.png' width='150' height='150'>"
+excerpt: "GalSyn: Galaxy Synthesizer<br/><img src='/images/galsyn_logo.png' width='200' height='200'>"
 collection: portfolio
 ---
 
