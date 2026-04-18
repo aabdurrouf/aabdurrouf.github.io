@@ -14,6 +14,8 @@ Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard
 2026
 ----
 
+**[62]** _BEACON: JWST NIRCam Pure-parallel Imaging Survey. III. Constraints on the UV LF and the Clustering of z ∼ 7 − 14 Galaxies_, Kimi C. Kreilgaard, Charlotte A. Mason, Takahiro Morishita, Yechi Zhang, Viola Gelli, Nicha Leethochawalit, Tommaso Treu, Michele Trenti, **Abdurro’uf**, Hakim Atek, Maruˇsa Bradaˇc, Larry D. Bradley, Andrew J. Bunker, Novan Saputra Haryana, Matthew J. Hayes, Zhaoran Liu, Vihang Mehta, Marc Rafelski, Guido Roberts-Borsani, Claudia Scarlata, Massimo Stiavelli, Ryo A. Sutanto, Kosuke Takahashi, Benedetta Vulcani, 2026, submitted to ApJ. 
+
 **[61]** _Interplay of Compaction, Quenching, and Black Hole Growth in the Most Massive Galaxies since z~5: Insights from JWST and Chandra Data_, Novan Haryana, Masayuki Akiyama, **Abdurro'uf**, Suchetha Cooray, Itsna Fitriana, Dian Triani, Bovornpratch Vijarnwannaluk, Juan Alfonzo, Irham Andika, Muhammad Effendi, Ibnu Huda, Takumi Kakimoto, Anton Jaelani, Ronaldo Laishram, Naoki Matsumoto, Abdurrahman Naufal, Lucky Puspitarini, and Ryo Sutanto, 2026, submitted to ApJ.
 
 **[60]** _GalSyn I: A Forward-Modeling Framework for Synthetic Galaxy Observations from Hydrodynamical Simulations and First Data Release from IllustrisTNG_, **Abdurro'uf**, Henry C. Ferguson, Samir Salim, Kartheik G. Iyer, Larry Bradley, Dan Coe, Novan Saputra Haryana, Sultan Hassan, Intae Jung, Gourav Khullar, Takahiro Morishita, Lamiya Mowla, 2026, submitted to AAS journals. ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260323986A/abstract))
