@@ -13,6 +13,7 @@ Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard
 
 2026
 ----
+**[63]** _Two Exciting High-redshift Galaxy Candidates Turn Out to Be Two Exciting Ultra-cool Brown Dwarfs_, Maruša Bradač, Chris Willott, Yoshihisa Asada, Loïc Albert, Gregor Rihtaršič, Anishya Harshan, Jon Judež, Nicholas S. Martis, Andrea Ferrara, **Abdurro’uf**, Joseph F. V. Allingham, Volker Bromm, John Chisholm, Dan Coe, Guillaume Desprez, Jose M. Diego, Andreas L. Faisst, Seiji Fujimoto, Tiger Yu-Yang Hsiao, Kohei Inayoshi, Anton M. Koekemoer, Brian C. Lemaux, Paulo A. A. Lopes, Danilo Marchesini, Vladan Markov, Gaël Noirot, Richard Pan, Scott W. Randall, Johan Richard, Luke Robbins, Ghassan T. E., Sarrouh, Marcin Sawicki, Tim Schrabback, Roberta Tripodi, Eros Vanzella, and Rogier A. Windhorst, 2026, submitted to ApJL. 
 
 **[62]** _BEACON: JWST NIRCam Pure-parallel Imaging Survey. III. Constraints on the UV LF and the Clustering of z ∼ 7 − 14 Galaxies_, Kimi C. Kreilgaard, Charlotte A. Mason, Takahiro Morishita, Yechi Zhang, Viola Gelli, Nicha Leethochawalit, Tommaso Treu, Michele Trenti, **Abdurro’uf**, Hakim Atek, Maruˇsa Bradaˇc, Larry D. Bradley, Andrew J. Bunker, Novan Saputra Haryana, Matthew J. Hayes, Zhaoran Liu, Vihang Mehta, Marc Rafelski, Guido Roberts-Borsani, Claudia Scarlata, Massimo Stiavelli, Ryo A. Sutanto, Kosuke Takahashi, Benedetta Vulcani, 2026, submitted to ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260417963K/abstract))
 
