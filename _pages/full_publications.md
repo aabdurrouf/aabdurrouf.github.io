@@ -61,7 +61,7 @@ P. Rinaldi, B. Rodriguez Del Pino, P. Santini, Y. Sugahara, T. Treu, A. Varo-O�
 
 **[43]** _VENUS: A Strongly Lensed Clumpy Galaxy at z ∼ 11 − 12 behind the Galaxy Cluster MACS J0257.1-2325_, M. Nakane, V. Kokorev, S. Fujimoto, et al. (incl. **Abdurro'uf**), 2025, under review in ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251114483N/abstract))
 
-**[42]** _VST-SMASH: VST Survey of Mass Assembly and Structural Hierarchy. I. Survey presentation and deep photometry of tracing the mass assembly in the challenging faintest-end regime_, R. Ragusa, C. Tortora, L. Hunt, M. Spavone, M. Baes, **Abdurro’uf**, M. Gatto, F. Annibali, N. Bellucco, A. Unni, E. Schinnerer, 2025, accepted by A&A.
+**[42]** _VST-SMASH: VST Survey of Mass Assembly and Structural Hierarchy. I. Survey presentation and deep photometry of tracing the mass assembly in the challenging faintest-end regime_, R. Ragusa, C. Tortora, L. Hunt, M. Spavone, M. Baes, **Abdurro’uf**, M. Gatto, F. Annibali, N. Bellucco, A. Unni, E. Schinnerer, 2025, accepted by A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260407083R/abstract))
 
 **[41]** _Stellar Mass Assembly History of Massive Quiescent Galaxies since z~4: Insights from Spatially Resolved SED Fitting with JWST Data_, Novan Saputra Haryana, Masayuki Akiyama, **Abdurro’uf**, Hesti Retno Tri Wulandari, Juan Pablo Alfonzo, Kianhong Lee, Naoki Matsumoto, Ryo Albert Sutanto, Muhammad Nur Ihsan Effendi, Itsna Khoirul Fitriana, Ibnu Nurul Huda, Anton Timur Jaelani, Sultan Hadi Kusuma, Lucky Puspitarini, and Dian Puspita Triani, 2025, ApJ, 994, 215. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250819170S/abstract))
 
