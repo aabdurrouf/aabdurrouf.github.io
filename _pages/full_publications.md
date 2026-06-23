@@ -49,11 +49,11 @@ P. Rinaldi, B. Rodriguez Del Pino, P. Santini, Y. Sugahara, T. Treu, A. Varo-O�
 
 **[49]** _Euclid Quick Data Release (Q1). A first view of the star-forming main sequence in the Euclid Deep Fields_, Euclid Collaboration: A. Enia, L. Pozzetti, M. Bolzonella, L. Bisigello, W. G. Hartley, C. Saulder, E. Daddi, M. Siudek, G. Zamorani, P. Cassata, F. Gentile, L. Wang, G. Rodighiero, V. Allevato, P. Corcho-Caballero, H. Domínguez Sánchez, C. Tortora, M. Baes, **Abdurro'uf**, A. Nersesian, 2026, A&A in press. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250315314E/abstract))
 
+**[48]** _VST-SMASH: VST Survey of Mass Assembly and Structural Hierarchy. II. Exploring dwarf galaxies in the vicinity of NGC 5068 and of the two galaxies NGC 5084 and NGC 5087 at the edges of the Virgo Supercluster_, C. Tortora, R. Ragusa, L. Hunt, A. Unni, M. Baes, **Abdurro'uf**, F. Annibali, M. Gatto, N. R. Napolitano, H. Su, A. Venhola, 2026, Accepted for publication in A&A. ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260621117T/abstract))
+
 
 2025
 ----
-
-**[48]** _VST-SMASH: VST Survey of Mass Assembly and Structural Hierarchy. II. Exploring dwarf galaxies in the vicinity of NGC 5068 and of the two galaxies NGC 5084 and NGC 5087 at the edges of the Virgo Supercluster_, C. Tortora, R. Ragusa, L. Hunt, A. Unni, M. Baes, **Abdurro'uf**, F. Annibali, M. Gatto, N. R. Napolitano, H. Su, A. Venhola, 2025, Accepted for publication in A&A.
 
 **[47]** _High-Redshift Galaxy Candidates at z > 6 Revealed by JWST Observations of MACS0647_, Keduse Worku, Tiger Yu-Yang Hsiao, Dan Coe, **Abdurro'uf**, Tom Resseguier, Rebecca Larson, Jacqueline Antwi-Danso, Gabriel Brammer, Vasily Kokorev, Larry Bradley, Lukas Furtak, Masamune Oguri, 2025, accepted by ApJ.([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251211985W/abstract))
 
