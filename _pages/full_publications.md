@@ -67,7 +67,7 @@ P. Rinaldi, B. Rodriguez Del Pino, P. Santini, Y. Sugahara, T. Treu, A. Varo-Oâ€
 2025
 ----
 
-**[45]** _Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z > 6 Galaxy, the Strongly Lensed Cosmic Spear at z = 6.2_, **Abdurro'uf**, Dan Coe, Tom Resseguier, Calla Murphy, Xinfeng Xu, Angela Adamo, Namrata Roy, Alaina Henry, et al., 2025, under review in ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251208054A/abstract))
+**[45]** _Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z > 6 Galaxy, the Strongly Lensed Cosmic Spear at z = 6.2_, **Abdurro'uf**, Dan Coe, Tom Resseguier, Calla Murphy, Xinfeng Xu, Angela Adamo, Namrata Roy, Alaina Henry, et al., 2025, accepted for publication in ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251208054A/abstract))
 
 **[44]** _Little red dot variability over a century reveals black hole envelope via a giant Einstein cross_, Zijian Zhang, Mingyu Li, Masamune Oguri, Xiaojing Lin, Kohei Inayoshi, (incl. **Abdurro'uf**), 2025, under review in Science. ([ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251205180Z/abstract))
 
