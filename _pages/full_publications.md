@@ -14,7 +14,7 @@ Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard
 2026
 ----
 
-**[71]** _SN HELIOS: A multiply imaged Type II Supernova opening time-delay cosmography beyond redshift of 3_, Seiji Fujimoto, Conor Larison, Justin D. R. Pierel, Lukas J. Furtak, Masamune Oguri, Adi Zitrin (incld. **Abdurro'uf**), et al., 2026, submitted to OJA.
+**[71]** _SN HELIOS: A multiply imaged Type II Supernova opening time-delay cosmography beyond redshift of 3_, Seiji Fujimoto, Conor Larison, Justin D. R. Pierel, Lukas J. Furtak, Masamune Oguri, Adi Zitrin (incld. **Abdurro'uf**), et al., 2026, submitted to OJA. ([ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260930440F/abstract))
 
 **[70]** _Euclid Quick Data Release (Q1). Exploring the complexity of quenching processes across time, environment, and mass through recently quenched galaxies_, Z. Mao, L. Pozzetti, A. Enia, S. Quai, W. G. Hartley, M. Bolzonella, F. Gentile, G. De Lucia, M. Moresco, N. Borghi, C. Saulder, M. Talia, P. Corcho-Caballero10, L. Gabarra, **Abdurro’uf**, L. Wang, et al., 2026, submitted to A&A. 
 
