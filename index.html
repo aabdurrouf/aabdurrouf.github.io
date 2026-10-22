@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dr. Abdurro’uf · Extragalactic Astrophysicist</title>
+  <meta name="description" content="Dr. Abdurro’uf: extragalactic astrophysicist working at the intersection of astrophysics and data science. Spatially resolved galaxy evolution with JWST, HST and Euclid; piXedfit, GalSyn and simulation-based inference.">
+  <meta name="author" content="Abdurro’uf">
+  <meta property="og:title" content="Dr. Abdurro’uf · Extragalactic Astrophysicist">
+  <meta property="og:description" content="Dr. Abdurro’uf: extragalactic astrophysicist working at the intersection of astrophysics and data science. Spatially resolved galaxy evolution with JWST, HST and Euclid; piXedfit, GalSyn and simulation-based inference.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://aabdurrouf.github.io/">
+  <meta property="og:image" content="https://aabdurrouf.github.io/assets/img/resolved-maps.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#04060d">
+  <link rel="canonical" href="https://aabdurrouf.github.io/">
+  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="alternate icon" href="/assets/img/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+<header class="nav">
+  <div class="container nav-inner">
+    <a class="brand" href="/" aria-label="Home"><span class="brand-mark"><span>A</span></span>Abdurro’uf</a>
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    <ul class="nav-links"><li><a href="/research/">Research</a></li><li><a href="/publications/">Publications</a></li><li><a href="/software/">Software</a></li><li><a href="/cv/">CV</a></li></ul>
+  </div>
+</header>
+<main>
+
+<section class="hero" id="top">
+  <canvas id="galaxy-canvas" aria-hidden="true"></canvas>
+  <div class="container">
+    <div class="hero-content">
+      <div class="eyebrow">Extragalactic Astrophysics × Data Science</div>
+      <h1>Dr. <span class="grad-text">Abdurro’uf</span></h1>
+      <div class="role"><b>Sullivan Prize Fellow</b> · Department of Astronomy · Indiana University</div>
+      <p class="tagline">I turn pixels into physics. I map the internal structure of galaxies across 12 billion years of cosmic time and connect telescope data to simulations through forward modeling and machine-learning inference.</p>
+      <div class="hero-meta">
+        <span class="chip violet">Resolved SED fitting</span>
+        <span class="chip magenta">Simulation-based inference</span>
+      </div>
+      <div class="btn-row">
+        <a class="btn btn-primary" href="/research/">Explore my research <span class="arrow">→</span></a>
+        <a class="btn" href="/publications/">Publications</a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-legend"><span class="sim">simulated particles</span><span class="obs">observed pixels</span></div>
+  <div class="scroll-cue">SCROLL</div>
+</section>
+
+<section id="about">
+  <div class="container about-grid">
+    <div class="reveal">
+      <div class="portrait"><img src="/assets/img/profile.webp" alt="Portrait of Abdurro’uf"></div>
+      <div class="portrait-caption"><b>Dr. Abdurro’uf</b>Sullivan Prize Fellow, Indiana University<br>Bloomington, IN, USA</div>
+      <div class="social ">
+      <a href="mailto:fnuabdur@iu.edu" aria-label="Email" title="Email"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></a>
+      <a href="https://github.com/aabdurrouf" target="_blank" rel="noopener" aria-label="GitHub" title="GitHub"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5a11.5 11.5 0 0 0-3.64 22.41c.58.1.79-.25.79-.56v-2c-3.2.7-3.88-1.37-3.88-1.37-.53-1.33-1.28-1.69-1.28-1.69-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.42-2.7 5.39-5.26 5.68.41.36.78 1.06.78 2.14v3.17c0 .31.21.67.8.56A11.5 11.5 0 0 0 12 .5Z"/></svg></a>
+      <a href="https://orcid.org/0000-0002-5258-8761" target="_blank" rel="noopener" aria-label="ORCID" title="ORCID"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24ZM8.1 17.6H6.6V7.5h1.5v10.1ZM7.35 6.6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm10.5 5.9c0 2.9-1.8 5.1-5.3 5.1H9.6V7.5h3c3.4 0 5.25 2.2 5.25 5Zm-6.75-3.6v7.3h1.4c2.4 0 3.75-1.4 3.75-3.7 0-2.1-1.2-3.6-3.75-3.6h-1.4Z"/></svg></a>
+      <a href="https://scixplorer.org/search?p=1&q=author:%22Abdurro%27uf%22&sort=entry_date+desc&sort=date+desc&d=general" target="_blank" rel="noopener" aria-label="SciX" title="Publications on SciX"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5V5a2 2 0 0 1 2-2h12v16H6a2 2 0 0 0-2 2Z"/><path d="M8 7h6M8 11h6"/></svg></a>
+      <a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Abdurro%27uf" target="_blank" rel="noopener" aria-label="arXiv" title="Papers on arXiv"><span style="font-family:var(--font-mono);font-size:.6rem;font-weight:700;letter-spacing:-.02em">arXiv</span></a>
+      <a href="https://scholar.google.com/citations?user=aotwEOkAAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="Google Scholar" title="Google Scholar"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3 1.5 9.5 12 16l8-4.95V17h2V9.5z"/><path d="M6 13.2v3.3c0 1.9 2.7 3.5 6 3.5s6-1.6 6-3.5v-3.3l-6 3.7z"/></svg></a>
+      <a href="https://drive.google.com/file/d/1M-F0Tlh15RFBuy9yM64ko_7d5pRf7XI1/view?usp=sharing" target="_blank" rel="noopener" aria-label="CV (PDF)" title="CV (PDF)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h6"/></svg></a>
+    </div>
+    </div>
+    <div class="reveal">
+      <div class="eyebrow">About</div>
+      <h2>Bridging observations, simulations, and machine learning</h2>
+      <p class="lead">Galaxies are not points. The processes that build and quench them, including gas inflow, compaction, stellar and black-hole feedback, mergers, and environment, act in specific places within galaxies and on specific timescales.</p>
+      <p>I am an extragalactic astrophysicist working at the intersection of <strong>astrophysics and data science</strong>. I map the <strong>spatially resolved</strong> physical properties of galaxies with imaging and spectroscopic data from various telescopes (including HST, JWST, and Euclid), and compare them with cosmological hydrodynamical simulations. I build the open-source tools that link the two: <a href="/software/#pixedfit"><strong>piXedfit</strong></a> for spatially resolved SED fitting, together with its successor <a href="/software/#pixedfit2"><strong>piXedfit2</strong></a> (in development), which combines traditional Bayesian SED fitting and machine-learning inference in one modular, interactive framework; <a href="/software/#galsyn"><strong>GalSyn</strong></a> for forward-modeling simulations into realistic observations; and <a href="/software/#galsyn-sbi"><strong>GalSyn-SBI</strong></a>, a set of simulation-based inference (SBI) networks that recover global and resolved galaxy properties in under a second. These tools are built for the coming flood of data from Euclid, Roman, and Rubin/LSST.</p>
+      <p>I was PI of JWST Cycle 2 program GO 4246 on the study of a merging galaxy at the cosmic dawn epoch, and I am an active member of the Euclid Consortium and the Roman Science Collaboration, and a co-investigator on more than a dozen JWST programs. Before Indiana, I was a postdoctoral fellow at Johns Hopkins University and ASIAA (Taiwan), and I earned my PhD at Tohoku University (Japan).</p>
+      <div class="pillars">
+        <div class="pillar"><h4>Observe</h4><p>Resolved maps of galaxies from z ~ 0 to the cosmic dawn epoch with JWST, HST, and Euclid.</p></div>
+        <div class="pillar"><h4>Simulate</h4><p>Forward-model TNG, EAGLE/FLARES, and SIMBA into realistic mock data.</p></div>
+        <div class="pillar"><h4>Infer</h4><p>Train calibrated SBI networks on mocks and apply them to millions of galaxies.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<section id="research">
+  <div class="container">
+    <div class="section-head reveal">
+      <div>
+        <div class="eyebrow">Research</div>
+        <h2>From pixels to physics</h2>
+        <p>One question drives my program: <em>how do galaxies assemble their internal structures and shut down their star formation across 12 billion years, and which physical processes set the routes they take?</em> I answer it with a closed loop between simulations and survey data.</p>
+      </div>
+      <a class="btn" href="/research/">Full research program <span class="arrow">→</span></a>
+    </div>
+    <div class="loop-wrap">
+      <div class="reveal"><svg class="loop-svg" viewBox="0 0 560 560" role="img" aria-label="Pixels to Physics research loop: simulations, GalSyn forward models, simulation-based inference, resolved maps, hypothesis tests, and constraints back on simulation physics">
+  <defs>
+    <linearGradient id="loopGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5ee7ff"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <radialGradient id="coreGlow"><stop offset="0" stop-color="rgba(167,139,250,.35)"/><stop offset="1" stop-color="rgba(167,139,250,0)"/></radialGradient>
+  </defs>
+  <circle cx="280" cy="280" r="250" class="ring"/>
+  <circle cx="280" cy="280" r="140" class="ring" stroke-dasharray="2 6"/>
+  <circle cx="280" cy="280" r="196" class="flow"/>
+  <circle cx="280" cy="280" r="120" fill="url(#coreGlow)"/>
+  <text class="center-sub" x="280" y="250" text-anchor="middle">RESEARCH LOOP</text>
+  <text class="center-title" x="280" y="282" text-anchor="middle">From Pixels</text>
+  <text class="center-title" x="280" y="310" text-anchor="middle">to Physics</text>
+  <g class="node"><rect class="node-bg" x="191.0" y="53.0" width="178" height="62" rx="12"/>
+<text class="node-num" x="203.0" y="76.0">01</text>
+<text class="node-title" x="227.0" y="78.0">Simulations</text>
+<text class="node-sub" x="203.0" y="99.0">TNG · EAGLE · SIMBA</text></g><g class="node"><rect class="node-bg" x="360.7" y="151.0" width="178" height="62" rx="12"/>
+<text class="node-num" x="372.7" y="174.0">02</text>
+<text class="node-title" x="396.7" y="176.0">GalSyn</text>
+<text class="node-sub" x="372.7" y="197.0">forward-modeled mocks</text></g><g class="node"><rect class="node-bg" x="360.7" y="347.0" width="178" height="62" rx="12"/>
+<text class="node-num" x="372.7" y="370.0">03</text>
+<text class="node-title" x="396.7" y="372.0">SBI networks</text>
+<text class="node-sub" x="372.7" y="393.0">GalSyn-SBI · amortized SBI</text></g><g class="node"><rect class="node-bg" x="191.0" y="445.0" width="178" height="62" rx="12"/>
+<text class="node-num" x="203.0" y="468.0">04</text>
+<text class="node-title" x="227.0" y="470.0">Resolved maps</text>
+<text class="node-sub" x="203.0" y="491.0">M*, SFR, age, Z, dust</text></g><g class="node"><rect class="node-bg" x="21.3" y="347.0" width="178" height="62" rx="12"/>
+<text class="node-num" x="33.3" y="370.0">05</text>
+<text class="node-title" x="57.3" y="372.0">Hypothesis tests</text>
+<text class="node-sub" x="33.3" y="393.0">quenching · assembly</text></g><g class="node"><rect class="node-bg" x="21.3" y="151.0" width="178" height="62" rx="12"/>
+<text class="node-num" x="33.3" y="174.0">06</text>
+<text class="node-title" x="57.3" y="176.0">Physics constraints</text>
+<text class="node-sub" x="33.3" y="197.0">feedback · dust · IMF</text></g>
+</svg></div>
+      <ol class="loop-steps reveal">
+        <li><b>Simulations</b> provide labeled ground truth: galaxies whose full history is known.</li>
+        <li><b>GalSyn</b> forward-models them into realistic synthetic data (HST, JWST, Euclid, Roman, and Rubin).</li>
+        <li><b>SBI networks</b> (GalSyn-SBI) trained on these mocks infer global and resolved properties in &lt;1 s per galaxy.</li>
+        <li>Applied to real surveys, they yield <b>resolved maps and SFHs</b> for 10<sup>5</sup>–10<sup>7</sup> galaxies.</li>
+        <li>These maps <b>test hypotheses</b> about quenching routes and structural assembly.</li>
+        <li>The results <b>constrain the physics</b> in the next generation of simulations.</li>
+      </ol>
+    </div>
+
+    <h3 class="reveal" style="margin-top:4.5rem">Research themes</h3>
+    <div class="grid-2" style="margin-top:1.4rem">
+      <a class="card theme-card glow-border reveal" href="/research/early-universe/">
+  <div class="theme-thumb"><img src="/assets/img/cosmic-spear.webp" alt="The Early Universe" loading="lazy"><span class="idx">THEME 01</span></div>
+  <div class="theme-body">
+    <h3>The Early Universe</h3>
+    <p>The first galaxies and their star clusters seen with JWST: ISM conditions at z > 10 and parsec-scale clumps in strongly lensed galaxies.</p>
+    <div style="display:flex;gap:.4rem;flex-wrap:wrap;margin-bottom:1rem"><span class="chip cyan">JWST</span><span class="chip violet">z > 6</span><span class="chip magenta">lensing</span></div>
+    <span class="more">Explore theme →</span>
+  </div>
+</a>
+<a class="card theme-card glow-border reveal" href="/research/structural-evolution/">
+  <div class="theme-thumb"><img src="/assets/img/maps-cosmic-time.webp" alt="Structural Evolution of Galaxies" loading="lazy"><span class="idx">THEME 02</span></div>
+  <div class="theme-body">
+    <h3>Structural Evolution of Galaxies</h3>
+    <p>How galaxies build bulges and disks and shut down star formation, inside-out, mapped pixel by pixel from the cosmic dawn epoch to today.</p>
+    <div style="display:flex;gap:.4rem;flex-wrap:wrap;margin-bottom:1rem"><span class="chip cyan">resolved SED fitting</span><span class="chip violet">quenching</span><span class="chip magenta">0 < z < 8</span></div>
+    <span class="more">Explore theme →</span>
+  </div>
+</a>
+<a class="card theme-card glow-border reveal" href="/research/forward-modeling/">
+  <div class="theme-thumb"><img src="/assets/img/galsyn-imaging.webp" alt="Forward Modeling of Simulations" loading="lazy"><span class="idx">THEME 03</span></div>
+  <div class="theme-body">
+    <h3>Forward Modeling of Simulations</h3>
+    <p>GalSyn turns hydrodynamical simulations into realistic telescope data with known ground truth, so observations and theory meet on equal footing.</p>
+    <div style="display:flex;gap:.4rem;flex-wrap:wrap;margin-bottom:1rem"><span class="chip cyan">GalSyn</span><span class="chip violet">IllustrisTNG</span><span class="chip magenta">mock surveys</span></div>
+    <span class="more">Explore theme →</span>
+  </div>
+</a>
+<a class="card theme-card glow-border reveal" href="/research/machine-learning/">
+  <div class="theme-thumb"><img src="/assets/img/sbi-tng50.webp" alt="Machine-Learning Inference" loading="lazy"><span class="idx">THEME 04</span></div>
+  <div class="theme-body">
+    <h3>Machine-Learning Inference</h3>
+    <p><strong>GalSyn-SBI</strong>: simulation-based inference that recovers global and resolved property maps and star-formation histories in under a second per galaxy.</p>
+    <div style="display:flex;gap:.4rem;flex-wrap:wrap;margin-bottom:1rem"><span class="chip cyan">GalSyn-SBI</span><span class="chip violet">SBI</span><span class="chip magenta">U-Net</span></div>
+    <span class="more">Explore theme →</span>
+  </div>
+</a>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<section id="publications">
+  <div class="container">
+    <div class="card pub-teaser reveal" style="grid-template-columns:1fr">
+      <div>
+        <div class="eyebrow">Publications</div>
+        <h2>72 papers on how galaxies form, grow, and quench</h2>
+        <p>My papers span spatially resolved stellar populations from the local Universe to cosmic dawn, JWST spectroscopy of galaxies within the first 500 Myr, Euclid survey results, and new methods in SED fitting, forward modeling, and machine learning.</p>
+        <div class="scope-list">
+          <span class="chip cyan">Resolved stellar populations</span>
+          <span class="chip violet">Galaxies at z &gt; 10</span>
+          <span class="chip magenta">Star clusters &amp; clumps</span>
+          <span class="chip amber">Quenching</span>
+          <span class="chip">Methods &amp; software</span>
+        </div>
+        <div class="btn-row">
+          <a class="btn btn-primary" href="/publications/">Browse publications <span class="arrow">→</span></a>
+          <a class="btn" href="https://scixplorer.org/search?p=1&q=author:%22Abdurro%27uf%22&sort=entry_date+desc&sort=date+desc&d=general" target="_blank" rel="noopener">SciX ↗</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="software" style="padding-top:20px">
+  <div class="container">
+    <div class="section-head reveal">
+      <div>
+        <div class="eyebrow">Software</div>
+        <h2>Open-source tools for the survey era</h2>
+        <p>Public, documented Python packages for resolved galaxy analysis and simulation forward modeling.</p>
+      </div>
+      <a class="btn" href="/software/">All software <span class="arrow">→</span></a>
+    </div>
+    <div class="grid-2">
+      <div class="card sw-card glow-border reveal">
+        <div class="sw-head"><div class="sw-logo"><img src="/assets/img/galsyn-logo.webp" alt="GalSyn logo"></div><div><h3>GalSyn</h3><div class="sub">Galaxy Synthesizer · ApJS 2026</div></div></div>
+        <p>Forward-models hydrodynamical simulations into realistic imaging and IFS data, together with the ground-truth property maps behind them.</p>
+        <div class="chips"><span class="chip cyan">forward modeling</span><span class="chip violet">mock observations</span></div>
+        <div class="links"><a href="https://github.com/aabdurrouf/GalSyn" target="_blank" rel="noopener">GitHub</a><a href="https://galsyn.readthedocs.io/en/latest/" target="_blank" rel="noopener">Docs</a><a href="https://scixplorer.org/abs/2026ApJS..286...60A/abstract" target="_blank" rel="noopener">Paper</a></div>
+      </div>
+      <div class="card sw-card glow-border reveal">
+        <div class="sw-head"><div class="sw-logo"><img src="/assets/img/pixedfit-logo.webp" alt="piXedfit logo"></div><div><h3>piXedfit</h3><div class="sub">Pixelized SED fitting · ApJS 2021</div></div></div>
+        <p>An end-to-end package for spatially resolved SED fitting: image processing, PSF matching, imaging–IFS combination, pixel binning, and Bayesian SED fitting.</p>
+        <div class="chips"><span class="chip cyan">resolved SED fitting</span><span class="chip violet">Bayesian</span></div>
+        <div class="links"><a href="https://github.com/aabdurrouf/piXedfit" target="_blank" rel="noopener">GitHub</a><a href="https://pixedfit.readthedocs.io/en/latest/" target="_blank" rel="noopener">Docs</a><a href="https://scixplorer.org/abs/2021ApJS..254...15A/abstract" target="_blank" rel="noopener">Paper</a></div>
+      </div>
+      <div class="card sw-card glow-border reveal">
+        <div class="sw-head"><div class="sw-logo dark"><img src="/assets/img/pixedfit2-logo.webp" alt="piXedfit2 logo"></div><div><h3>piXedfit2</h3><div class="sub">Next-generation piXedfit · in development</div></div></div>
+        <p>A modular, pythonic rewrite of piXedfit for interactive resolved SED analysis from survey mosaics, with five inference backends: RDSPS, MCMC, Dense Basis, Bagpipes, and SBI.</p>
+        <div class="chips"><span class="chip cyan">resolved SED fitting</span><span class="chip violet">SBI</span></div>
+        <div class="links"><a href="/software/#pixedfit2">Learn more</a></div>
+      </div>
+      <div class="card sw-card glow-border reveal">
+        <div class="sw-head"><div class="sw-logo dark"><img src="/assets/img/galsyn_sbi-logo.webp" alt="GalSyn-SBI logo"></div><div><h3>GalSyn-SBI</h3><div class="sub">Resolved galaxy inference · in development</div></div></div>
+        <p>Simulation-based inference that turns multiband images into calibrated maps of stellar mass, SFR, age, metallicity, and dust in under a second, using a U-Net and normalizing flows trained on GalSyn mocks.</p>
+        <div class="chips"><span class="chip cyan">normalizing flows</span><span class="chip violet">U-Net</span></div>
+        <div class="links"><a href="/software/#galsyn-sbi">Learn more</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<section id="cv">
+  <div class="container cv-teaser">
+    <div class="reveal">
+      <div class="eyebrow">Curriculum Vitae</div>
+      <h2>Career at a glance</h2>
+      <div class="timeline">
+        <div class="tl-item"><div class="tl-when">2025 – present</div><div class="tl-what"><h4>Sullivan Prize Fellow</h4><p>Department of Astronomy, Indiana University, USA</p></div></div>
+        <div class="tl-item"><div class="tl-when">2022 – 2025</div><div class="tl-what"><h4>Postdoctoral Fellow</h4><p>Johns Hopkins University, USA</p></div></div>
+        <div class="tl-item"><div class="tl-when">2018 – 2022</div><div class="tl-what"><h4>Postdoctoral Fellow</h4><p>Academia Sinica Institute of Astronomy and Astrophysics, Taiwan</p></div></div>
+        <div class="tl-item"><div class="tl-when">2013 – 2018</div><div class="tl-what"><h4>MSc &amp; PhD (Doctor of Science)</h4><p>Astronomical Institute, Tohoku University, Japan</p></div></div>
+        <div class="tl-item"><div class="tl-when">2009 – 2013</div><div class="tl-what"><h4>BSc in Physics</h4><p>Brawijaya University, Indonesia</p></div></div>
+      </div>
+      <div class="btn-row" style="margin-top:1.8rem">
+        <a class="btn btn-primary" href="/cv/">View CV <span class="arrow">→</span></a>
+        <a class="btn" href="https://drive.google.com/file/d/1M-F0Tlh15RFBuy9yM64ko_7d5pRf7XI1/view?usp=sharing" target="_blank" rel="noopener">Download PDF ↓</a>
+      </div>
+    </div>
+    <div class="reveal">
+      <div class="eyebrow">Highlights</div>
+      <h2>Recent news</h2>
+      <ul class="news">
+        <li><span class="d">2026</span><span><strong>GalSyn I</strong>, the forward-modeling framework and first data release from IllustrisTNG, is published in <a href="https://scixplorer.org/abs/2026ApJS..286...60A/abstract" target="_blank" rel="noopener">ApJS 286, 60</a>.</span></li>
+        <li><span class="d">2026</span><span>Joined the <strong>Roman Science Collaboration</strong>; co-I of Roman Cycle 1 GI program <strong>R-HIVE</strong>.</span></li>
+        <li><span class="d">2026</span><span>Our study of young star clusters and clumps in the lensed <strong>Cosmic Spear</strong> at z = 6.2 is <a href="https://scixplorer.org/abs/2025arXiv251208054A/abstract" target="_blank" rel="noopener">accepted in ApJ</a>.</span></li>
+        <li><span class="d">Aug 2025</span><span>Started as a <strong>Sullivan Prize Fellow</strong> at Indiana University.</span></li>
+        <li><span class="d">2025</span><span>Led <a href="https://scixplorer.org/abs/2025A%26A...702A..72E/abstract" target="_blank" rel="noopener">Euclid preparation LXXIII</a>, which tests resolved stellar populations of local galaxies with TNG50-based Euclid mocks.</span></li>
+        <li><span class="d">2024</span><span>First resolved [O II] doublet and direct electron-density measurement at z &gt; 10 (<a href="https://scixplorer.org/abs/2024ApJ...973...47A/abstract" target="_blank" rel="noopener">ApJ 973, 47</a>), from my JWST GO 4246 program.</span></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div class="container">
+    <div class="foot-grid">
+      <div>
+        <a class="brand" href="/"><span class="brand-mark"><span>A</span></span>Dr. Abdurro’uf</a>
+        <p style="margin-top:1rem;max-width:420px">Extragalactic astrophysicist working at the intersection of astrophysics and data science — from pixels to physics.</p>
+        <div class="social ">
+      <a href="mailto:fnuabdur@iu.edu" aria-label="Email" title="Email"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></a>
+      <a href="https://github.com/aabdurrouf" target="_blank" rel="noopener" aria-label="GitHub" title="GitHub"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5a11.5 11.5 0 0 0-3.64 22.41c.58.1.79-.25.79-.56v-2c-3.2.7-3.88-1.37-3.88-1.37-.53-1.33-1.28-1.69-1.28-1.69-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.42-2.7 5.39-5.26 5.68.41.36.78 1.06.78 2.14v3.17c0 .31.21.67.8.56A11.5 11.5 0 0 0 12 .5Z"/></svg></a>
+      <a href="https://orcid.org/0000-0002-5258-8761" target="_blank" rel="noopener" aria-label="ORCID" title="ORCID"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24ZM8.1 17.6H6.6V7.5h1.5v10.1ZM7.35 6.6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm10.5 5.9c0 2.9-1.8 5.1-5.3 5.1H9.6V7.5h3c3.4 0 5.25 2.2 5.25 5Zm-6.75-3.6v7.3h1.4c2.4 0 3.75-1.4 3.75-3.7 0-2.1-1.2-3.6-3.75-3.6h-1.4Z"/></svg></a>
+      <a href="https://scixplorer.org/search?p=1&q=author:%22Abdurro%27uf%22&sort=entry_date+desc&sort=date+desc&d=general" target="_blank" rel="noopener" aria-label="SciX" title="Publications on SciX"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5V5a2 2 0 0 1 2-2h12v16H6a2 2 0 0 0-2 2Z"/><path d="M8 7h6M8 11h6"/></svg></a>
+      <a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Abdurro%27uf" target="_blank" rel="noopener" aria-label="arXiv" title="Papers on arXiv"><span style="font-family:var(--font-mono);font-size:.6rem;font-weight:700;letter-spacing:-.02em">arXiv</span></a>
+      <a href="https://scholar.google.com/citations?user=aotwEOkAAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="Google Scholar" title="Google Scholar"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3 1.5 9.5 12 16l8-4.95V17h2V9.5z"/><path d="M6 13.2v3.3c0 1.9 2.7 3.5 6 3.5s6-1.6 6-3.5v-3.3l-6 3.7z"/></svg></a>
+      <a href="https://drive.google.com/file/d/1M-F0Tlh15RFBuy9yM64ko_7d5pRf7XI1/view?usp=sharing" target="_blank" rel="noopener" aria-label="CV (PDF)" title="CV (PDF)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h6"/></svg></a>
+    </div>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="/research/">Research</a></li>
+          <li><a href="/publications/">Publications</a></li>
+          <li><a href="/software/">Software</a></li>
+          <li><a href="/cv/">CV</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <p style="margin:0">Department of Astronomy<br>Indiana University<br>727 East 3rd Street, Swain West<br>Bloomington, IN 47405, USA<br><a href="mailto:fnuabdur@iu.edu">fnuabdur@iu.edu</a></p>
+      </div>
+    </div>
+    <div class="copyright">
+      <span>© <span class="js-year">2026</span> Abdurro’uf</span>
+      <span>Built with HTML/CSS/JS · Hosted on GitHub Pages</span>
+    </div>
+  </div>
+</footer>
+<script src="/assets/js/main.js" defer></script>
+</body>
+</html>

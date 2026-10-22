@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Software · Dr. Abdurro’uf</title>
+  <meta name="description" content="Open-source software by Dr. Abdurro’uf: GalSyn (forward modeling of simulations), piXedfit (resolved SED fitting), and simulation-based inference tools.">
+  <meta name="author" content="Abdurro’uf">
+  <meta property="og:title" content="Software · Dr. Abdurro’uf">
+  <meta property="og:description" content="Open-source software by Dr. Abdurro’uf: GalSyn (forward modeling of simulations), piXedfit (resolved SED fitting), and simulation-based inference tools.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://aabdurrouf.github.io/software/">
+  <meta property="og:image" content="https://aabdurrouf.github.io/assets/img/resolved-maps.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#04060d">
+  <link rel="canonical" href="https://aabdurrouf.github.io/software/">
+  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="alternate icon" href="/assets/img/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+<header class="nav">
+  <div class="container nav-inner">
+    <a class="brand" href="/" aria-label="Home"><span class="brand-mark"><span>A</span></span>Abdurro’uf</a>
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    <ul class="nav-links"><li><a href="/research/">Research</a></li><li><a href="/publications/">Publications</a></li><li><a href="/software/" class="active">Software</a></li><li><a href="/cv/">CV</a></li></ul>
+  </div>
+</header>
+<main>
+
+<section class="page-header">
+  <div class="container">
+    <div class="breadcrumb"><a href="/">Home</a><span>/</span>Software</div>
+    <div class="eyebrow">Software</div>
+    <h1>Open-source tools for <span class="grad-text">resolved galaxies</span></h1>
+    <p>I build public, documented Python packages that connect observations and theory: GalSyn simulates, GalSyn-SBI infers, and piXedfit and its successor piXedfit2 fit. They are designed for the volume of data from JWST, Euclid, Rubin, and Roman, and released through GitHub with full documentation.</p>
+  </div>
+</section>
+
+<section style="padding-top:10px" id="galsyn">
+  <div class="container">
+    <div class="card reveal" style="padding:2.2rem">
+      <div class="two-col" style="align-items:center;gap:2.5rem">
+        <div>
+          <div class="sw-head" style="margin-bottom:1.2rem"><div class="sw-logo" style="width:84px;height:84px"><img src="/assets/img/galsyn-logo.webp" alt="GalSyn logo"></div><div><h2 style="margin:0">GalSyn</h2><div class="sub mono" style="color:var(--muted);font-size:.8rem">Galaxy Synthesizer · forward modeling</div></div></div>
+          <p class="lead">A modular Python package for generating realistic synthetic observations of galaxies from hydrodynamical simulations.</p>
+          <p>GalSyn produces spectrophotometric data cubes of simulated galaxies, including <strong>broadband imaging and IFU spectroscopy</strong>, with flexible stellar population synthesis, IMF, nebular emission, and dust recipes, instrument PSFs, noise, and real sky backgrounds. Every mock comes with <strong>2D ground-truth maps</strong> of physical properties and star-formation histories, which makes it a natural training set for machine-learning inference. The first data release is built from IllustrisTNG.</p>
+          <div style="display:flex;gap:.4rem;flex-wrap:wrap;margin:1.2rem 0">
+            <span class="chip cyan">IllustrisTNG</span><span class="chip violet">HST · JWST · Euclid · LSST · Roman</span><span class="chip magenta">imaging · IFS</span><span class="chip">Python</span>
+          </div>
+          <div class="btn-row">
+            <a class="btn btn-primary" href="https://github.com/aabdurrouf/GalSyn" target="_blank" rel="noopener">GitHub ↗</a>
+            <a class="btn" href="https://galsyn.readthedocs.io/en/latest/" target="_blank" rel="noopener">Documentation ↗</a>
+            <a class="btn" href="https://scixplorer.org/abs/2026ApJS..286...60A/abstract" target="_blank" rel="noopener">Paper (ApJS 286, 60) ↗</a>
+          </div>
+        </div>
+        <div><figure class="figure dark reveal">
+  <img src="/assets/img/galsyn-imaging.webp" alt="A TNG50 galaxy rendered by GalSyn as seen by HST, JWST, LSST, and Roman." loading="lazy">
+  <figcaption><b>Fig. 1</b>A TNG50 galaxy rendered by GalSyn as seen by HST, JWST, LSST, and Roman.</figcaption>
+</figure>
+        <figure class="figure reveal">
+  <img src="/assets/img/galsyn-ifu.webp" alt="Synthetic NIRSpec IFU cube: emission-line maps and spectra." loading="lazy">
+  <figcaption><b>Fig. 2</b>Synthetic NIRSpec IFU cube: emission-line maps and spectra.</figcaption>
+</figure></div>
+      </div>
+      <figure class="figure reveal" style="margin:2.2rem 0 0">
+        <video poster="/assets/img/galsyn-rotation-poster.webp" autoplay loop muted playsinline preload="auto" aria-label="Animation of a GalSyn galaxy seen from changing viewing angles, with and without dust attenuation" style="width:100%;display:block;background:#fff"><source src="/assets/img/galsyn-rotation.webm" type="video/webm"><source src="/assets/img/galsyn-rotation.mp4" type="video/mp4"></video>
+        <figcaption><b>Fig. 3</b>A simulated galaxy rendered by GalSyn as the viewing angle changes from face-on to edge-on, with dust attenuation (left) and without it (right). Dust reddens and dims the star-forming regions, most strongly when the disk is seen edge-on.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section style="padding-top:10px" id="pixedfit">
+  <div class="container">
+    <div class="card reveal" style="padding:2.2rem">
+      <div style="max-width:900px">
+        <div>
+          <div class="sw-head" style="margin-bottom:1.2rem"><div class="sw-logo" style="width:84px;height:84px"><img src="/assets/img/pixedfit-logo.webp" alt="piXedfit logo"></div><div><h2 style="margin:0">piXedfit</h2><div class="sub mono" style="color:var(--muted);font-size:.8rem">Pixelized SED fitting</div></div></div>
+          <p class="lead">A Python package for analyzing spatially resolved spectral energy distributions of galaxies, from raw images to physical-property maps.</p>
+          <p>piXedfit provides an end-to-end workflow: <strong>image processing</strong> (background subtraction, PSF matching, registration), <strong>spatial matching between broadband imaging and IFS</strong> data, <strong>pixel binning</strong> to reach the required S/N, and <strong>Bayesian SED fitting</strong> with tools to analyze the results. It has been used to study galaxies from the local Universe (e.g., MaNGA, CALIFA, multiwavelength nearby galaxies) to JWST deep fields at z ~ 10.</p>
+          <div style="display:flex;gap:.4rem;flex-wrap:wrap;margin:1.2rem 0">
+            <span class="chip cyan">resolved SED fitting</span><span class="chip violet">imaging + IFS</span><span class="chip magenta">Bayesian inference</span><span class="chip">Python</span>
+          </div>
+          <div class="btn-row">
+            <a class="btn btn-primary" href="https://github.com/aabdurrouf/piXedfit" target="_blank" rel="noopener">GitHub ↗</a>
+            <a class="btn" href="https://pixedfit.readthedocs.io/en/latest/" target="_blank" rel="noopener">Documentation ↗</a>
+            <a class="btn" href="https://scixplorer.org/abs/2021ApJS..254...15A/abstract" target="_blank" rel="noopener">Paper (ApJS 254, 15) ↗</a>
+          </div>
+        </div>
+      </div>
+      <div class="eyebrow" style="margin:2.2rem 0 .4rem">Example workflow · a galaxy at z = 1.95</div>
+      <figure class="figure reveal" style="margin-top:.6rem">
+        <img src="/assets/img/pixedfit-demo-images.webp" alt="Color image of a galaxy at z = 1.95 and its PSF-matched images in 12 HST/ACS and JWST/NIRCam bands" loading="lazy">
+        <figcaption><b>Step 1</b>Image processing: a galaxy at z = 1.95 (left) and its PSF-matched, spatially aligned images in 12 bands, from HST/ACS F435W to JWST/NIRCam F444W.</figcaption>
+      </figure>
+      <div style="display:grid;grid-template-columns:1fr 2.5fr;gap:1.4rem;align-items:start" class="pxf-steps">
+        <figure class="figure reveal" style="margin:0">
+          <img src="/assets/img/pixedfit-demo-binmap.webp" alt="Pixel-binning map of the galaxy" loading="lazy">
+          <figcaption><b>Step 2</b>Pixel binning: pixels with similar SED shapes are grouped to reach the required S/N in every band.</figcaption>
+        </figure>
+        <figure class="figure reveal" style="margin:0">
+          <img src="/assets/img/pixedfit-demo-maps.webp" alt="Maps of stellar mass, SFR, dust attenuation, metallicity, mass-weighted age, and formation times t25, t50, t75" loading="lazy">
+          <figcaption><b>Step 3</b>SED fitting: maps of stellar mass and SFR surface density, dust attenuation (A<sub>V</sub>), metallicity, mass-weighted age, and the times at which 25%, 50%, and 75% of the stellar mass formed.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="padding-top:10px" id="pixedfit2">
+  <div class="container">
+    <div class="card reveal" style="padding:2.2rem">
+      <div class="two-col" style="align-items:start;gap:2.5rem">
+        <div>
+          <div class="sw-head" style="margin-bottom:1.2rem"><div class="sw-logo dark" style="width:84px;height:84px"><img src="/assets/img/pixedfit2-logo.webp" alt="piXedfit2 logo"></div><div><h2 style="margin:0">piXedfit2</h2><div class="sub mono" style="color:var(--muted);font-size:.8rem">The next generation of piXedfit · in development</div></div></div>
+          <p class="lead">A modular, pythonic rewrite of piXedfit for spatially resolved SED analysis, from survey mosaics to physical-property maps.</p>
+          <p>piXedfit2 keeps everything the original piXedfit does, but every step now runs <strong>in memory</strong> and can be used either as one automatic call in a script or <strong>step by step and interactively in a notebook</strong>. Instead of pre-cut images, it takes <strong>full survey mosaics plus a galaxy catalog</strong> and processes galaxies in batch.</p>
+          <p>For turning SEDs into property maps, it offers <strong>five inference backends</strong> behind one interface, and every backend writes the same property-map format.</p>
+          <div style="display:flex;gap:.4rem;flex-wrap:wrap;margin:1.2rem 0">
+            <span class="chip cyan">Bayesian RDSPS</span><span class="chip violet">MCMC (emcee)</span><span class="chip magenta">Dense Basis</span><span class="chip amber">Bagpipes</span><span class="chip green">SBI</span>
+          </div>
+          <div class="btn-row">
+            <a class="btn" href="#pixedfit">Original piXedfit ↑</a>
+            <span class="btn" style="cursor:default;opacity:.7">Code coming soon</span>
+          </div>
+        </div>
+        <div>
+          <div class="highlight-box" style="margin-top:0">
+            <h4>// what’s inside</h4>
+            <ul>
+              <li><strong>Image processing</strong>: mosaic cutouts, PSF matching, reprojection, and a single inverse-variance detection image for source segmentation, with flexible flux-unit handling for any survey.</li>
+              <li><strong>Spectrophotometry</strong>: combines IFU spectroscopy, including JWST/NIRSpec IFU, with multiband imaging.</li>
+              <li><strong>Pixel binning</strong>: a flexible region-growing binning engine based on SED-shape similarity.</li>
+              <li><strong>SED modeling</strong>: FSPS model generation with flexible SFHs, IGM attenuation, and redshift-binned model grids.</li>
+              <li><strong>Inference</strong>: Bayesian RDSPS, MCMC, Dense Basis (non-parametric SFH), Bagpipes, and SBI. The SBI backend applies pre-trained models to produce per-pixel maps and will connect to <a href="#galsyn-sbi">GalSyn-SBI</a>.</li>
+              <li><strong>Extras</strong>: aperture photometry (including NIRSpec MSA slits) and resolved photometric redshifts with EAZY.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="padding-top:10px" id="galsyn-sbi">
+  <div class="container">
+    <div class="card reveal" style="padding:2.2rem">
+      <div class="two-col" style="align-items:center;gap:2.5rem">
+        <div>
+          <div class="sw-head" style="margin-bottom:1.2rem"><div class="sw-logo dark" style="width:84px;height:84px"><img src="/assets/img/galsyn_sbi-logo.webp" alt="GalSyn-SBI logo"></div><div><h2 style="margin:0">GalSyn-SBI</h2><div class="sub mono" style="color:var(--muted);font-size:.8rem">Resolved galaxy inference · in development</div></div></div>
+          <p class="lead">Amortized simulation-based inference of resolved galaxy properties from multiband imaging.</p>
+          <p>GalSyn-SBI is trained on GalSyn synthetic images paired with their true property maps. A <strong>U-Net</strong> encodes each pixel together with its surroundings (PSF blending, galaxy structure), and a shared <strong>conditional normalizing flow</strong> returns a calibrated joint posterior of stellar mass, SFR, age, stellar and gas metallicity, and dust attenuation for every pixel. A companion global model infers integrated properties and star-formation histories. Both run in <strong>under a second per galaxy</strong>, more than 1000× faster than traditional resolved SED fitting, with piXedfit as the benchmark.</p>
+          <p>Pre-trained models will be released with standard validation: simulation-based calibration, posterior coverage tests, and out-of-distribution flags.</p>
+          <div style="display:flex;gap:.4rem;flex-wrap:wrap;margin:1.2rem 0">
+            <span class="chip cyan">SBI</span><span class="chip violet">U-Net</span><span class="chip magenta">normalizing flows</span><span class="chip">PyTorch · sbi</span>
+          </div>
+          <div class="btn-row">
+            <a class="btn btn-primary" href="/research/machine-learning/">Research theme <span class="arrow">→</span></a>
+            <span class="btn" style="cursor:default;opacity:.7">Code coming soon</span>
+          </div>
+        </div>
+        <div>
+          <figure class="figure dark reveal" style="background:#070b17;padding:2rem;display:flex;justify-content:center"><img src="/assets/img/galsyn_sbi-logo.webp" alt="GalSyn-SBI logo: a galaxy shown as raw multiband pixels on the left and as a smooth inferred property map on the right" style="max-width:260px;cursor:default"></figure>
+          <figure class="figure reveal"><img src="/assets/img/sbi-tng50.webp" alt="GalSyn-SBI recovery of ground truth on TNG50 mocks" loading="lazy"><figcaption><b>GalSyn-SBI</b>Preliminary validation on TNG50 mocks: global posteriors and SFHs (left) and resolved maps with pixel-level recovery (right).</figcaption></figure>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="padding-top:10px">
+  <div class="container">
+    <div class="section-head reveal"><div><div class="eyebrow">Beyond galaxies</div><h2>Other projects</h2></div></div>
+    <div class="grid-2">
+      <div class="card sw-card glow-border reveal" id="ahc">
+        <div class="sw-head"><div class="sw-logo"><img src="/assets/img/ahc-logo.webp" alt="AHC logo"></div><div><h3>Accurate Hijri Calculator (AHC)</h3><div class="sub">positional astronomy</div></div></div>
+        <p>Software for calculating the position and visibility map of the new crescent moon at sunset, which marks the beginning of a new month in the Islamic lunar calendar.</p>
+        <div class="chips"><span class="chip cyan">Skyfield</span><span class="chip violet">visibility maps</span></div>
+        <div class="links"><a href="https://accuhijri.github.io/" target="_blank" rel="noopener">Website</a><a href="https://github.com/accuhijri/ahc" target="_blank" rel="noopener">GitHub</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div class="container">
+    <div class="foot-grid">
+      <div>
+        <a class="brand" href="/"><span class="brand-mark"><span>A</span></span>Dr. Abdurro’uf</a>
+        <p style="margin-top:1rem;max-width:420px">Extragalactic astrophysicist working at the intersection of astrophysics and data science — from pixels to physics.</p>
+        <div class="social ">
+      <a href="mailto:fnuabdur@iu.edu" aria-label="Email" title="Email"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></a>
+      <a href="https://github.com/aabdurrouf" target="_blank" rel="noopener" aria-label="GitHub" title="GitHub"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5a11.5 11.5 0 0 0-3.64 22.41c.58.1.79-.25.79-.56v-2c-3.2.7-3.88-1.37-3.88-1.37-.53-1.33-1.28-1.69-1.28-1.69-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.42-2.7 5.39-5.26 5.68.41.36.78 1.06.78 2.14v3.17c0 .31.21.67.8.56A11.5 11.5 0 0 0 12 .5Z"/></svg></a>
+      <a href="https://orcid.org/0000-0002-5258-8761" target="_blank" rel="noopener" aria-label="ORCID" title="ORCID"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24ZM8.1 17.6H6.6V7.5h1.5v10.1ZM7.35 6.6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm10.5 5.9c0 2.9-1.8 5.1-5.3 5.1H9.6V7.5h3c3.4 0 5.25 2.2 5.25 5Zm-6.75-3.6v7.3h1.4c2.4 0 3.75-1.4 3.75-3.7 0-2.1-1.2-3.6-3.75-3.6h-1.4Z"/></svg></a>
+      <a href="https://scixplorer.org/search?p=1&q=author:%22Abdurro%27uf%22&sort=entry_date+desc&sort=date+desc&d=general" target="_blank" rel="noopener" aria-label="SciX" title="Publications on SciX"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5V5a2 2 0 0 1 2-2h12v16H6a2 2 0 0 0-2 2Z"/><path d="M8 7h6M8 11h6"/></svg></a>
+      <a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Abdurro%27uf" target="_blank" rel="noopener" aria-label="arXiv" title="Papers on arXiv"><span style="font-family:var(--font-mono);font-size:.6rem;font-weight:700;letter-spacing:-.02em">arXiv</span></a>
+      <a href="https://scholar.google.com/citations?user=aotwEOkAAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="Google Scholar" title="Google Scholar"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3 1.5 9.5 12 16l8-4.95V17h2V9.5z"/><path d="M6 13.2v3.3c0 1.9 2.7 3.5 6 3.5s6-1.6 6-3.5v-3.3l-6 3.7z"/></svg></a>
+      <a href="https://drive.google.com/file/d/1M-F0Tlh15RFBuy9yM64ko_7d5pRf7XI1/view?usp=sharing" target="_blank" rel="noopener" aria-label="CV (PDF)" title="CV (PDF)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h6"/></svg></a>
+    </div>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="/research/">Research</a></li>
+          <li><a href="/publications/">Publications</a></li>
+          <li><a href="/software/">Software</a></li>
+          <li><a href="/cv/">CV</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <p style="margin:0">Department of Astronomy<br>Indiana University<br>727 East 3rd Street, Swain West<br>Bloomington, IN 47405, USA<br><a href="mailto:fnuabdur@iu.edu">fnuabdur@iu.edu</a></p>
+      </div>
+    </div>
+    <div class="copyright">
+      <span>© <span class="js-year">2026</span> Abdurro’uf</span>
+      <span>Built with HTML/CSS/JS · Hosted on GitHub Pages</span>
+    </div>
+  </div>
+</footer>
+<script src="/assets/js/main.js" defer></script>
+</body>
+</html>

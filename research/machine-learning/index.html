@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Machine-Learning Inference · Dr. Abdurro’uf</title>
+  <meta name="description" content="Simulation-based inference that recovers global and resolved property maps and star-formation histories in under a second per galaxy.">
+  <meta name="author" content="Abdurro’uf">
+  <meta property="og:title" content="Machine-Learning Inference · Dr. Abdurro’uf">
+  <meta property="og:description" content="Simulation-based inference that recovers global and resolved property maps and star-formation histories in under a second per galaxy.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://aabdurrouf.github.io/research/machine-learning/">
+  <meta property="og:image" content="https://aabdurrouf.github.io/assets/img/resolved-maps.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#04060d">
+  <link rel="canonical" href="https://aabdurrouf.github.io/research/machine-learning/">
+  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="alternate icon" href="/assets/img/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+<header class="nav">
+  <div class="container nav-inner">
+    <a class="brand" href="/" aria-label="Home"><span class="brand-mark"><span>A</span></span>Abdurro’uf</a>
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    <ul class="nav-links"><li><a href="/research/" class="active">Research</a></li><li><a href="/publications/">Publications</a></li><li><a href="/software/">Software</a></li><li><a href="/cv/">CV</a></li></ul>
+  </div>
+</header>
+<main>
+
+<section class="theme-hero">
+  <div class="bg"><img src="/assets/img/sbi-tng50.webp" alt=""></div>
+  <div class="container">
+    <div class="breadcrumb"><a href="/">Home</a><span>/</span><a href="/research/">Research</a><span>/</span>Machine-Learning Inference</div>
+    <div class="eyebrow">Theme 04 · Machine-learning inference</div>
+    <h1 style="font-size:clamp(2.2rem,5vw,3.6rem)">From pixels to physics</h1>
+    <p class="lead" style="max-width:780px">Traditional spatially resolved SED fitting costs tens of CPU-minutes per galaxy, which is impossible for the 10<sup>6</sup>–10<sup>7</sup> galaxies Euclid and Roman will resolve. I develop <strong>GalSyn-SBI</strong>, an amortized simulation-based inference (SBI) code trained on GalSyn mocks, that recovers global and resolved property maps and star-formation histories with calibrated uncertainties, more than 1000× faster.</p>
+    <ul class="questions" style="max-width:820px"><li>Can we infer resolved galaxy properties for millions of galaxies with calibrated uncertainties?</li><li>How biased are standard measurements, for example through outshining by young stars?</li><li>How do we stay robust when real galaxies differ from every simulation?</li></ul>
+  </div>
+</section>
+<section style="padding-top:30px">
+  <div class="container">
+    <div class="prose">
+<div class="card reveal" style="display:flex;gap:1.4rem;align-items:center;margin:1rem 0 2rem;padding:1.4rem 1.6rem"><img src="/assets/img/galsyn_sbi-logo.webp" alt="GalSyn-SBI logo" style="width:92px;height:92px;flex-shrink:0"><div><h3 style="margin:0 0 .3rem">GalSyn-SBI</h3><p style="margin:0">From pixels to physics: the package that implements the methods on this page. Raw multiband pixels go in, and calibrated physical-property maps come out. <a href="/software/#galsyn-sbi">See the software page →</a></p></div></div>
+<h2>Two networks: global and resolved</h2>
+<p>Because GalSyn mocks come with known ground truth, I train neural posterior estimators directly on realistic, PSF-convolved, noise-added multiband image cubes. This extends amortized SED inference from integrated photometry to <strong>images</strong>.</p>
+<div class="two-col">
+  <div class="card reveal"><h4 style="color:var(--cyan);font-family:var(--font-mono);font-size:.85rem">GALSYN_SBI_GLOBAL</h4><p style="margin:0">A convolutional network compresses the whole image cube into a summary vector, which conditions a <strong>normalizing flow</strong> over integrated M<sub>*</sub>, SFR, Z<sub>*</sub>, age, A<sub>V</sub>, and the lookback times at which 25/50/75% of the mass formed. These are used to reconstruct the full star-formation history.</p></div>
+  <div class="card reveal"><h4 style="color:var(--magenta);font-family:var(--font-mono);font-size:.85rem">GALSYN_SBI_MAP</h4><p style="margin:0">A <strong>U-Net</strong> encoder–decoder produces a feature vector for every pixel that encodes its colors and its surroundings (PSF blending, structure). A shared conditional flow maps each vector to a joint posterior of M<sub>*</sub>, SFR, age, Z<sub>*</sub>, A<sub>V</sub>, and Z<sub>gas</sub> per pixel.</p></div>
+</div>
+
+<h2>Preliminary results</h2>
+<div class="metric-row">
+  <div class="metric"><div class="v">&lt;1 s</div><div class="l">per galaxy, global + resolved</div></div>
+  <div class="metric"><div class="v">&gt;1000×</div><div class="l">faster than traditional resolved SED fitting</div></div>
+  <div class="metric"><div class="v">0.1 dex</div><div class="l">scatter in stellar mass (−0.01 dex bias)</div></div>
+  <div class="metric"><div class="v">4.6M</div><div class="l">pixels validated across 1000 held-out galaxies</div></div>
+</div>
+<p>Trained on <strong>14,448 TNG50 synthetic cubes</strong>, the global model recovers stellar mass with −0.01 dex bias and 0.1 dex scatter, SFR to 0.24 dex, and the half-mass formation time to 0.29 Gyr. Its posterior SFHs separate fast quenchers from slow ones. The map model recovers pixel-level stellar masses over four decades and reproduces radial sSFR profiles.</p>
+<figure class="figure reveal">
+  <img src="/assets/img/sbi-tng50.webp" alt="SBI recovers ground truth on TNG50 mocks generated with GalSyn. Left (global): posteriors for one galaxy; SFHs and mass-assembly histories of a fast (red) and slow (blue) quencher; predicted vs. true M*, SFR and lbt50. Right (resolved): SBI-predicted stellar-mass and sSFR maps, radial sSFR profiles, and pixel-level recovery for 1000 held-out galaxies." loading="lazy">
+  <figcaption><b>Fig. 1</b>SBI recovers ground truth on TNG50 mocks generated with GalSyn. Left (global): posteriors for one galaxy; SFHs and mass-assembly histories of a fast (red) and slow (blue) quencher; predicted vs. true M*, SFR and lbt50. Right (resolved): SBI-predicted stellar-mass and sSFR maps, radial sSFR profiles, and pixel-level recovery for 1000 held-out galaxies.</figcaption>
+</figure>
+<p>On real data, SBI stellar masses for <strong>135 JADES galaxies</strong> agree with traditional fits to −0.07 dex (0.20 dex scatter). SBI maps of a z = 2.8 galaxy reproduce those from piXedfit in under one second instead of more than 30 CPU-minutes.</p>
+<figure class="figure reveal">
+  <img src="/assets/img/sbi-jades.webp" alt="Application to real JWST data. Left (global): SBI vs. Dense Basis stellar masses and SFRs for 135 JADES galaxies. Right (resolved): SBI stellar-mass and SFR maps of a z = 2.8 GOODS-S galaxy compared with piXedfit + Dense Basis." loading="lazy">
+  <figcaption><b>Fig. 2</b>Application to real JWST data. Left (global): SBI vs. Dense Basis stellar masses and SFRs for 135 JADES galaxies. Right (resolved): SBI stellar-mass and SFR maps of a z = 2.8 GOODS-S galaxy compared with piXedfit + Dense Basis.</figcaption>
+</figure>
+
+<h2>Trustworthy inference for the survey era</h2>
+<p>Survey-scale inference raises problems that must be solved before these data can be used:</p>
+<ul>
+  <li><strong>Domain shift</strong> between simulations and real galaxies: training on multiple simulations, out-of-distribution detection, domain adaptation, and an observed truth set built from the JWST archive.</li>
+  <li><strong>Blending</strong>: ML segmentation and SED-based deblending trained on GalSyn scenes.</li>
+  <li><strong>Photometric-redshift uncertainties</strong> and <strong>spatially varying PSFs and depths</strong> across surveys.</li>
+  <li><strong>Model misspecification</strong>: how to make inference robust where real galaxies differ from the simulations used for training, and how to detect and quantify such differences.</li>
+</ul>
+
+<div class="highlight-box reveal">
+  <h4>// what’s next</h4>
+  <ul>
+    <li>Apply SBI to all public JWST/NIRCam deep fields to deliver <strong>outshining-corrected stellar masses and SFHs</strong>, and public catalogs of resolved maps with pre-trained models.</li>
+    <li>Release <strong>GalSyn-SBI</strong> with <strong>calibrated, pre-trained SBI models</strong> with standard validation: simulation-based calibration, coverage tests, and OOD flags.</li>
+    <li>Test whether embeddings from <strong>astronomical foundation models</strong> (e.g., AstroCLIP), fine-tuned with SBI heads, improve robustness to domain shift.</li>
+    <li>Use <strong>anomaly detection</strong> in SBI latent space to find rare evolutionary phases.</li>
+  </ul>
+</div>
+</div>
+    <div class="card reveal" style="margin-top:3rem;max-width:860px">
+      <div class="eyebrow" style="margin-bottom:.4rem">Related papers</div>
+      <div class="paper-mini"><span class="y">prep</span><div><span>GalSyn-SBI: simulation-based inference of resolved galaxy properties from multiband imaging</span><span class="v">Abdurro’uf et al. · in preparation</span></div></div><div class="paper-mini"><span class="y">2026</span><div><a href="https://scixplorer.org/abs/2026ApJS..286...60A/abstract" target="_blank" rel="noopener">GalSyn I: a forward-modeling framework for synthetic galaxy observations (training-set generator)</a><span class="v">Abdurro’uf et al. · ApJS 286, 60</span></div></div><div class="paper-mini"><span class="y">2025</span><div><a href="https://scixplorer.org/abs/2025arXiv250114408E/abstract" target="_blank" rel="noopener">Euclid preparation LXVIII: extracting physical parameters from galaxies with machine learning</a><span class="v">Euclid Collaboration: Kovačić et al. · A&A 695, A284</span></div></div><div class="paper-mini"><span class="y">2021</span><div><a href="https://scixplorer.org/abs/2021ApJS..254...15A/abstract" target="_blank" rel="noopener">Introducing piXedfit: an SED fitting code designed for resolved sources (benchmark for SBI)</a><span class="v">Abdurro’uf et al. · ApJS 254, 15</span></div></div>
+      <div style="margin-top:1.2rem"><a class="btn" href="/publications/">All publications <span class="arrow">→</span></a></div>
+    </div>
+    <div class="next-nav">
+      <a href="/research/forward-modeling/"><small>← Previous theme</small>Forward Modeling of Simulations</a>
+      <a class="right" href="/research/early-universe/"><small>Next theme →</small>The Early Universe</a>
+    </div>
+  </div>
+</section>
+</main>
+<footer>
+  <div class="container">
+    <div class="foot-grid">
+      <div>
+        <a class="brand" href="/"><span class="brand-mark"><span>A</span></span>Dr. Abdurro’uf</a>
+        <p style="margin-top:1rem;max-width:420px">Extragalactic astrophysicist working at the intersection of astrophysics and data science — from pixels to physics.</p>
+        <div class="social ">
+      <a href="mailto:fnuabdur@iu.edu" aria-label="Email" title="Email"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></a>
+      <a href="https://github.com/aabdurrouf" target="_blank" rel="noopener" aria-label="GitHub" title="GitHub"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5a11.5 11.5 0 0 0-3.64 22.41c.58.1.79-.25.79-.56v-2c-3.2.7-3.88-1.37-3.88-1.37-.53-1.33-1.28-1.69-1.28-1.69-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.42-2.7 5.39-5.26 5.68.41.36.78 1.06.78 2.14v3.17c0 .31.21.67.8.56A11.5 11.5 0 0 0 12 .5Z"/></svg></a>
+      <a href="https://orcid.org/0000-0002-5258-8761" target="_blank" rel="noopener" aria-label="ORCID" title="ORCID"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24ZM8.1 17.6H6.6V7.5h1.5v10.1ZM7.35 6.6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm10.5 5.9c0 2.9-1.8 5.1-5.3 5.1H9.6V7.5h3c3.4 0 5.25 2.2 5.25 5Zm-6.75-3.6v7.3h1.4c2.4 0 3.75-1.4 3.75-3.7 0-2.1-1.2-3.6-3.75-3.6h-1.4Z"/></svg></a>
+      <a href="https://scixplorer.org/search?p=1&q=author:%22Abdurro%27uf%22&sort=entry_date+desc&sort=date+desc&d=general" target="_blank" rel="noopener" aria-label="SciX" title="Publications on SciX"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5V5a2 2 0 0 1 2-2h12v16H6a2 2 0 0 0-2 2Z"/><path d="M8 7h6M8 11h6"/></svg></a>
+      <a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Abdurro%27uf" target="_blank" rel="noopener" aria-label="arXiv" title="Papers on arXiv"><span style="font-family:var(--font-mono);font-size:.6rem;font-weight:700;letter-spacing:-.02em">arXiv</span></a>
+      <a href="https://scholar.google.com/citations?user=aotwEOkAAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="Google Scholar" title="Google Scholar"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3 1.5 9.5 12 16l8-4.95V17h2V9.5z"/><path d="M6 13.2v3.3c0 1.9 2.7 3.5 6 3.5s6-1.6 6-3.5v-3.3l-6 3.7z"/></svg></a>
+      <a href="https://drive.google.com/file/d/1M-F0Tlh15RFBuy9yM64ko_7d5pRf7XI1/view?usp=sharing" target="_blank" rel="noopener" aria-label="CV (PDF)" title="CV (PDF)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h6"/></svg></a>
+    </div>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="/research/">Research</a></li>
+          <li><a href="/publications/">Publications</a></li>
+          <li><a href="/software/">Software</a></li>
+          <li><a href="/cv/">CV</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <p style="margin:0">Department of Astronomy<br>Indiana University<br>727 East 3rd Street, Swain West<br>Bloomington, IN 47405, USA<br><a href="mailto:fnuabdur@iu.edu">fnuabdur@iu.edu</a></p>
+      </div>
+    </div>
+    <div class="copyright">
+      <span>© <span class="js-year">2026</span> Abdurro’uf</span>
+      <span>Built with HTML/CSS/JS · Hosted on GitHub Pages</span>
+    </div>
+  </div>
+</footer>
+<script src="/assets/js/main.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,729 @@
+{
+ "updated": "October 2026",
+ "stats": {
+  "total": 72,
+  "published": 58,
+  "in_press": 3,
+  "submitted": 11,
+  "citations": ">4800",
+  "h_index": 27
+ },
+ "links": {
+  "ads_all": "https://scixplorer.org/search?p=1&q=author:%22Abdurro%27uf%22&sort=entry_date+desc&sort=date+desc&d=general",
+  "ads_first_second": "https://scixplorer.org/public-libraries/QpjqT22WTLWoAr74NS9Rjw"
+ },
+ "papers": [
+  {
+   "category": "first",
+   "year": "2026",
+   "title": "Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z > 6 Galaxy, the Strongly Lensed Cosmic Spear at z = 6.2",
+   "authors": "Abdurro’uf, Dan Coe, Tom Resseguier, Calla Murphy, Xinfeng Xu, Angela Adamo, Namrata Roy, Alaina Henry, Vasily Kokorev, Gabriel Brammer, Seiji Fujimoto, Henry C. Ferguson, Amanda Pagul, Rogier A. Windhorst, Timothy Heckman, Jose M. Diego, Hollis B. Akins, Joseph Allingham, Ricardo O. Amorín, Danielle A. Berg, Maruša Bradač, Larry D. Bradley, Wenlei Chen, John Chisholm, Christopher J. Conselice, Pratika Dayal, Miroslava Dessauges-Zavadsky, Andreas L. Faisst, Steven L. Finkelstein, Yoshinobu Fudamoto, Lukas J. Furtak, Yuichi Harikane, Tiger Yu-Yang Hsiao, Yolanda Jimenez-Teja, Anton M. Koekemoer, Rebecca L. Larson, Ray A. Lucas, Matteo Messa, Lamiya Mowla, Minami Nakane, Gaël Noirot, Richard Pan, Massimo Pascale, Johan Richard, Massimo Ricotti, Luke Robbins, Daniel Schaerer, Fengwu Sun, Eros Vanzella, Brian Welch, Chris Willott, Adi Zitrin",
+   "venue": "ApJ in press",
+   "status": "in press",
+   "ads": "https://scixplorer.org/abs/2025arXiv251208054A/abstract"
+  },
+  {
+   "category": "first",
+   "year": "2026",
+   "title": "GalSyn I: A Forward-Modeling Framework for Synthetic Galaxy Observations from Hydrodynamical Simulations and First Data Release from IllustrisTNG",
+   "authors": "Abdurro’uf, Henry C. Ferguson, Samir Salim, Kartheik G. Iyer, Larry Bradley, Dan Coe, Novan Saputra Haryana, Sultan Hassan, Intae Jung, Gourav Khullar, Takahiro Morishita, Lamiya Mowla",
+   "venue": "ApJS, 286, 60",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2026ApJS..286...60A/abstract"
+  },
+  {
+   "category": "first",
+   "year": "2026",
+   "title": "Euclid preparation. LXXXI. The impact of nonparametric star-formation histories on spatially resolved galaxy property estimation using synthetic Euclid images",
+   "authors": "Euclid Collaboration: A. Nersesian, Abdurro’uf, M. Baes, C. Tortora, I. Kovačić, L. Bisigello, P. Corcho-Caballero, E. Durán-Camacho, L. K. Hunt, et al",
+   "venue": "A&A, 707, A231",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025arXiv251122399E/abstract"
+  },
+  {
+   "category": "first",
+   "year": "2025",
+   "title": "Euclid Preparation. LXXIII. Spatially Resolved Stellar Populations of Local Galaxies with Euclid: A proof of Concept using Synthetic Images with the TNG50 Simulation",
+   "authors": "Euclid Collaboration: Abdurro’uf, Crescenzo Tortora, Maarten Baes, et al.",
+   "venue": "A&A, 702, A72",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025A%26A...702A..72E/abstract"
+  },
+  {
+   "category": "first",
+   "year": "2024",
+   "title": "JWST NIRSpec High-resolution Spectroscopy of MACS0647-JD at z = 10.167: Resolved [OII] Doublet and Electron Density in an Early Galaxy",
+   "authors": "Abdurro’uf, Rebecca L. Larson, Dan Coe, Tiger Yu-Yang Hsiao, Javier Álvarez-Márquez, Alejandro Crespo Gómez, Angela Adamo, Rachana Bhatawdekar, Arjan Bik, Larry D. Bradley, Christopher J. Conselice, Pratika Dayal, Jose M. Diego, Seiji Fujimoto, Lukas J. Furtak, Taylor A. Hutchison, Intae Jung, Meghana Killi, Vasily Kokorev, Matilde Mingozzi, Colin Norman, Tom Resseguier, Massimo Ricotti, Jane R. Rigby, Eros Vanzella, Brian Welch, Rogier A. Windhorst, Xinfeng Xu, Adi Zitrin",
+   "venue": "ApJ, 973, 47",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv240416201A/abstract"
+  },
+  {
+   "category": "first",
+   "year": "2024",
+   "title": "JWST NIRSpec spectroscopy of the triply-lensed z = 10.17 galaxy MACS0647-JD",
+   "authors": "Tiger Yu-Yang Hsiao, Abdurro’uf, Dan Coe, Rebecca L. Larson, Intae Jung, Matilde Mingozzi, Pratika Dayal, Nimisha Kumari, Vasily Kokorev, Anton Vikaeus, Gabriel Brammer, Lukas J. Furtak, Angela Adamo, Felipe Andrade-Santos, Jacqueline Antwi-Danso, Marusa Bradac, Larry D. Bradley, Tom Broadhurst, Adam C. Carnall, Christopher J. Conselice, Jose M. Diego, Megan Donahue, Jan J. Eldridge, Seiji Fujimoto, Alaina Henry, Svea Hernandez, Taylor A. Hutchison, Bethan L. James, Colin Norman, Hyunbae Park, Norbert Pirzkal, Marc Postman, Massimo Ricotti, Jane R. Rigby, Eros Vanzella, Brian Welch, Stephen M. Wilkins, Rogier A. Windhorst, Xinfeng Xu, Erik Zackrisson, Adi Zitrin",
+   "venue": "ApJ, 973, 8",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2023arXiv230503042H/abstract",
+   "note": "Both lead authors contributed equally"
+  },
+  {
+   "category": "first",
+   "year": "2023",
+   "title": "Spatially Resolved Stellar Populations of 0.3 < z < 6.0 Galaxies in WHL0137-08 and MACS0647+70 Clusters as Revealed by JWST: How do Galaxies Grow and Quench Over Cosmic Time?",
+   "authors": "Abdurro’uf, Dan Coe, Intae Jung, Henry C. Ferguson, Gabriel Brammer, Kartheik G. Iyer, Larry D. Bradley, Pratika Dayal, Rogier A. Windhorst, Adi Zitrin, Ashish Kumar Meena, Masamune Oguri, Jose M. Diego, Vasily Kokorev, Paola Dimauro, Angela Adamo, Christopher J. Conselice, Brian Welch, Eros Vanzella, Tiger Yu-Yang Hsiao, Xinfeng Xu, Namrata Roy, Celia R. Mulcahey",
+   "venue": "ApJ, 945, 117",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2023ApJ...945..117A/abstract"
+  },
+  {
+   "category": "first",
+   "year": "2022",
+   "title": "Compact Dust Emission in a Gravitationally Lensed Massive Quiescent Galaxy at z = 2.15 Revealed in 130 pc Resolution Observations by the Atacama Large Millimeter/submillimeter Array",
+   "authors": "Takahiro Morishita, Abdurro’uf, Hiroyuki Hirashita, Andrew B. Newman, Massimo Stiavelli, Marco Chiaberge",
+   "venue": "ApJ, 938, 144",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2022ApJ...938..144M/abstract"
+  },
+  {
+   "category": "first",
+   "year": "2022",
+   "title": "Dissecting Nearby Galaxies with piXedfit: II. Spatially Resolved Scaling Relations Among the Stars, Dust, and Gas",
+   "authors": "Abdurro’uf, Yen-Ting Lin, Hiroyuki Hirashita, Takahiro Morishita, Sandro Tacchella, Po-Feng Wu, Masayuki Akiyama, Tsutomu T. Takeuchi",
+   "venue": "ApJ, 935, 98",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2022arXiv220708382A/abstract"
+  },
+  {
+   "category": "first",
+   "year": "2022",
+   "title": "Dissecting Nearby Galaxies with piXedfit: I. Spatially Resolved Properties of Stars, Dust, and Gas as Revealed by Panchromatic SED Fitting",
+   "authors": "Abdurro’uf, Yen-Ting Lin, Hiroyuki Hirashita, Takahiro Morishita, Sandro Tacchella, Masayuki Akiyama, Tsutomu T. Takeuchi, Po-Feng Wu",
+   "venue": "ApJ, 926, 81",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2021arXiv211003158A/abstract"
+  },
+  {
+   "category": "first",
+   "year": "2021",
+   "title": "Introducing piXedfit: A Spectral Energy Distribution Fitting Code Designed for Resolved Sources",
+   "authors": "Abdurro’uf, Yen-Ting Lin, Po-Feng Wu, and Masayuki Akiyama",
+   "venue": "ApJS, 254, 15",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2021ApJS..254...15A/abstract"
+  },
+  {
+   "category": "first",
+   "year": "2018",
+   "title": "Evolution of Spatially Resolved Star Formation Main Sequence and Surface Density Profiles in Massive Disc Galaxies at 0 < z < 1: Inside-out Stellar Mass Buildup and Quenching",
+   "authors": "Abdurro’uf & Masayuki Akiyama",
+   "venue": "MNRAS, 479, 5083",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2018MNRAS.479.5083A/abstract"
+  },
+  {
+   "category": "first",
+   "year": "2017",
+   "title": "Understanding the Scatter in the Spatially Resolved Star Formation Main Sequence of Local Massive Spiral Galaxies",
+   "authors": "Abdurro’uf & Masayuki Akiyama",
+   "venue": "MNRAS, 469, 2806",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2017MNRAS.469.2806A/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2026",
+   "title": "The Evolving Origin of Star-forming Clumps at 2 < z < 9: Merger- to Instability-Dominated Transition Revealed in JWST NIRCam Legacy Fields",
+   "authors": "Ryo Albert Sutanto, Itsna Khoirul Fitriana, Lucky Puspitarini, Abdurro’uf, Irham Taufik Andika, Muhammad Nur Ihsan Effendi, Novan Saputra Haryana, Ibnu Nurul Huda, Anton Timur Jaelani, Sultan Hadi Kusuma, Dian P. Triani, Hesti Retno Tri Wulandari, Mochamad Ikbal Arifyanto, Hakim Luthfi Malasan, Endang Soegiartini, and Yayan Sugianto",
+   "venue": "submitted to ApJ",
+   "status": "submitted",
+   "ads": null
+  },
+  {
+   "category": "sig",
+   "year": "2026",
+   "title": "Interplay of Compaction, Quenching, and Black Hole Growth in the Most Massive Galaxies since z ~5: Insights from JWST and Chandra Data",
+   "authors": "Novan Haryana, Masayuki Akiyama, Abdurro’uf, Suchetha Cooray, Itsna Fitriana, Dian Triani, Bovornpratch Vijarnwannaluk, Juan Alfonzo, Irham Andika, Muhammad Effendi, Ibnu Huda, Takumi Kakimoto, Anton Jaelani, Ronaldo Laishram, Naoki Matsumoto, Abdurrahman Naufal, Lucky Puspitarini, and Ryo Sutanto",
+   "venue": "ApJ, 1009, 106",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2026ApJ..1009..106H/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2026",
+   "title": "High-Redshift Galaxy Candidates at z > 6 Revealed by JWST Observations of MACS0647",
+   "authors": "Keduse Worku, Tiger Yu-Yang Hsiao, Dan Coe, Abdurro’uf, Tom Resseguier, Rebecca Larson, Jacqueline Antwi-Danso, Gabriel Brammer, Vasily Kokorev, Larry Bradley, Lukas Furtak, Masamune Oguri",
+   "venue": "ApJ, 1005, 11",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025arXiv251211985W/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2025",
+   "title": "Stellar Mass Assembly History of Massive Quiescent Galaxies since z ~4: Insights from Spatially Resolved SED Fitting with JWST Data",
+   "authors": "Novan Saputra Haryana, Masayuki Akiyama, Abdurro’uf, Hesti Retno Tri Wulandari, Juan Pablo Alfonzo, Kianhong Lee, Naoki Matsumoto, Ryo Albert Sutanto, Muhammad Nur Ihsan Effendi, Itsna Khoirul Fitriana, Ibnu Nurul Huda, Anton Timur Jaelani, Sultan Hadi Kusuma, Lucky Puspitarini, and Dian Puspita Triani",
+   "venue": "ApJ, 994, 215",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025arXiv250819170S/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2025",
+   "title": "Euclid preparation: LXVIII. Extracting physical parameters from galaxies with machine learning",
+   "authors": "Euclid Collaboration: I. Kovačić, M. Baes, A. Nersesian, N. Andreadis, L. Nemani, Abdurro’uf, et al.",
+   "venue": "A&A, 695, A284",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025arXiv250114408E/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2025",
+   "title": "No Evidence of a Dichotomy in the Elliptical Galaxy Population",
+   "authors": "Rogério Monteiro-Oliveira, Yen-Ting Lin, Wei-Huai Chen, Chen-Yu Chuang, Abdurro’uf, Po-Feng Wu",
+   "venue": "ApJ, 988, 138",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv240916349M/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2025",
+   "title": "First direct carbon abundance measured at z > 10 in the lensed galaxy MACS0647-JD",
+   "authors": "Tiger Yu-Yang Hsiao, Michael W. Topping, Dan Coe, John Chisholm, Danielle A. Berg, Abdurro’uf, Javier Álvarez-Márquez, Roberto Maiolino, Pratika Dayal, Lukas J. Furtak",
+   "venue": "ApJ, 993, 70",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv240904625H/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2025",
+   "title": "Unveiling the Cosmic Gems Arc at z ~10.2 with JWST",
+   "authors": "Larry D. Bradley, Angela Adamo, Eros Vanzella, Keren Sharon, Gabriel Brammer, Dan Coe, Jose M. Diego, Vasily Kokorev, Guillaume Mahler, Masamune Oguri, Abdurro’uf, Rachana Bhatawdekar, Lise Christensen, Seiji Fujimoto, Takuya Hashimoto, Tiger Y.-Y Hsiao, Akio K. Inoue, Yolanda Jiménez-Teja, Matteo Messa, Colin Norman, Massimo Ricotti, Yoichi Tamura, Rogier A. Windhorst, Xinfeng Xu, Adi Zitrin",
+   "venue": "ApJ, 991, 32",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv240410770B/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2024",
+   "title": "Bound star clusters observed in a lensed galaxy 460 Myr after the Big Bang",
+   "authors": "Angela Adamo, Larry D. Bradley, Eros Vanzella, Adélaïde Claeyssens, Brian Welch, Jose M Diego, Guillaume Mahler, Masamune Oguri, Keren Sharon, Abdurro’uf, Tiger Yu-Yang Hsiao, Matteo Messa, Erik Zackrisson, Gabriel Brammer, Dan Coe, Vasily Kokorev, Massimo Ricotti, Adi Zitrin, Seiji Fujimoto, Akio K. Inoue, Tom Resseguier, Jane R. Rigby, Yolanda Jiménez-Teja, Rogier A. Windhorst, Xinfeng Xu",
+   "venue": "Nature, 632, 513",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv240103224A/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2024",
+   "title": "A closer look at the host-galaxy environment of high-velocity Type Ia supernova",
+   "authors": "Han-Tang Lin, Yen-Chen Pan, Abdurro’uf",
+   "venue": "MNRAS, 531, 1988",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv240509082L/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2024",
+   "title": "The TNG50-SKIRT Atlas: Wavelength dependence of the effective radius",
+   "authors": "Maarten Baes, Aleksandr Mosenkov, Raymond Kelly, Abdurro’uf, Nick Andreadis, Sena Bokona Tulu, Peter Camps, Abdissa Tassama Emana, Jacopo Fritz, Andrea Gebek, Inja Kovačić, Antonio La Marca, Marco Martorano, Angelos Nersesian, Vicente Rodriguez-Gomez, Crescenzo Tortora, Ana Trčka, Bert Vander Meulen, Arjen van der Wel, and Lingyu Wang",
+   "venue": "A&A, 683, 182",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv240104225B/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2024",
+   "title": "The TNG50-SKIRT Atlas: post-processing methodology and first data release",
+   "authors": "Maarten Baes, Andrea Gebek, Ana Trčka, Peter Camps, Arjen van der Wel, Abdurro’uf, Nick Andreadis, Sena Bokona Tulu, Abdissa Tassama Emana, Jacopo Fritz, Raymond Kelly, Inja Kovačić, Antonio La Marca, Marco Martorano, Aleksandr Mosenkov, Angelos Nersesian, Vicente Rodriguez-Gomez, Crescenzo Tortora, Bert Vander Meulen, and Lingyu Wang",
+   "venue": "A&A, 683, 181",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv240104224B/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2023",
+   "title": "JWST reveals a possible z ~11 galaxy merger in triply-lensed MACS0647-JD",
+   "authors": "Tiger Yu-Yang Hsiao, Dan Coe, Abdurro’uf, Lily Whitler, Intae Jung, Gourav Khullar, Ashish Kumar Meena, Pratika Dayal, Kirk S. S. Barrow, Lillian Santos-Olmsted, Adam Casselman, Eros Vanzella, Mario Nonino, Yolanda Jimenez-Teja, Masamune Oguri, Daniel P. Stark, Lukas J. Furtak, Adi Zitrin, Angela Adamo, Gabriel Brammer, Larry Bradley, Jose M. Diego, Erik Zackrisson, Steven L. Finkelstein, Rogier A. Windhorst, Rachana Bhatawdekar, Taylor A. Hutchison, Tom Broadhurst, Paola Dimauro, Felipe Andrade-Santos, Jan J. Eldridge, Ana Acebron, Roberto J. Avila, Matthew B. Bayliss, Alex Benitez, Christian Binggeli, Patricia Bolan, Marusa Bradac, Adam C. Carnall, Christopher J. Conselice, Megan Donahue, Brenda Frye, Seiji Fujimoto, Alaina Henry, Bethan L. James, Susan Kassin, Lisa Kewley, Rebecca L. Larson, Tod Lauer, David Law, Guillaume Mahler, Ramesh Mainali, Stephan McCandliss, David Nicholls, Norbert Pirzkal, Marc Postman, Jane R. Rigby, Russell Ryan, Peter Senchyna, Keren Sharon, Ikko Shimizu, Victoria Strait, Mengtao Tang, Michele Trenti, Anton Vikaeus, Brian Welch",
+   "venue": "ApJL, 949, 34",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2022arXiv221014123Y/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2021",
+   "title": "Extremely Low Molecular Gas Content in the Vicinity of a Red Nugget Galaxy at z = 1.91",
+   "authors": "T. Morishita, Q. D’Amato, L. E. Abramson, Abdurro’uf, M. Stiavelli, R. A. Lucas",
+   "venue": "ApJ, 908, 163",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2021ApJ...908..163M/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "PRISMS/U13151. A Glimpse into the Earliest Phases of Galaxy Formation through an Ultra-Faint System ~500 Myr after the Big Bang",
+   "authors": "Pierluigi Rinaldi, Javier Álvarez-Márquez, Alejandro Crespo Gómez, Luis Colina, Stefano Carniani, Sarah Kendrew, Edoardo Iani, Angela Adamo, Abdurro’uf, Marianna Annunziatella, Stacey Alberts, Leindert Boogaard, Karina I. Caputi, Marco Castellano, Michele Catone, Rui Marques-Chaves, Ryan A. Cooper, Seiji Fujimoto, Mahmoud Hamed, Yuichi Harikane, Santosh Harish, Takuya Hashimoto, Jakob M. Helton, Tiger Y. Hsiao, Vasily Kokorev, Álvaro Labiano, Jens Melinder, Ikki Mitsuhashi, Goran Ostlin, Lorenzo Napolitano, Borja Perez-Diaz, Pablo Perez Gonzalez, Carlota Prieto-Jiménez, Giulia Rodighiero, Paola Santini, Ana Varo O’Ferrall, Jorge A. Zavala, Yongda Zhu",
+   "venue": "submitted to ApJ",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv261026560R/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "SN HELIOS: A multiply imaged Type II Supernova opening time-delay cosmography beyond redshift of 3",
+   "authors": "Seiji Fujimoto, Conor Larison, Justin D. R. Pierel, Lukas J. Furtak, Masamune Oguri, Adi Zitrin, Jose M. Diego, Keren Sharon, David A. Coulter, Gabriel Brammer, Vasily Kokorev, Chelsea Nash, Pedram Abedi, Christa DeCoursey, Armin Rest, Andreas L. Faisst, Brenda L. Frye, Tiger Yu-Yang Hsiao, Kohei Inayoshi, Kotaro Kohno, Jorryt Matthee, Matteo Messa, Yoshiaki Ono, Fengwu Sun, Eros Vanzella, Rogier A. Windhorst, Abdurro’uf, Aadya Agrawal, Joseph F. V. Allingham, Yoshihisa Asada, Hakim Atek, Maruša Bradač, Larry D. Bradley, Mateusz Bronikowski, Dan Coe, Christopher J. Conselice, Pratika Dayal, Eiichi Egami, Michael Engesser, Gavin Scott Farley, Qinyue Fei, Ori D. Fox, Yoshinobu Fudamoto, Miriam Golubchik, Yuichi Harikane, Gourav Khullar, Tomokazu Kiyota, Paulo A. A. Lopes, Ray A. Lucas, Guillaume Mahler, Ashish Kumar Meena, Rohan P. Naidu, Gautham Narayan, Gaël Noirot, Pascal A. Oesch, Masami Ouchi, José María Palencia, Massimo Pascale, Luke Robbins, M. R. Siebert, Roberta Tripodi, Francesco Valentino, Darach Watson, Hayley Williams, Hiroto Yanagisawa, Erik Zackrisson, Anita Zanella",
+   "venue": "submitted to OJA",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv260930440F/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Euclid Quick Data Release (Q1). Exploring the complexity of quenching processes across time, environment, and mass through recently quenched galaxies",
+   "authors": "Z. Mao, L. Pozzetti, A. Enia, S. Quai, W. G. Hartley, M. Bolzonella, F. Gentile, G. De Lucia, M. Moresco, N. Borghi, C. Saulder, M. Talia, P. Corcho-Caballero, L. Gabarra, Abdurro’uf, L. Wang, et al.",
+   "venue": "submitted to A&A",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv261008999E/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "PRISMS. GHZ1. A standard tale of galaxy evolution with atypical ionizing conditions at z = 9.878",
+   "authors": "Borja Pérez-Díaz, Marco Castellano, Javier Álvarez-Márquez, Luis Colina, Lorenzo Napolitano, Sarah Kendrew, Alejandro Crespo Gómez, Stefano Carniani, Shouyi Wang, Fan Zou, Abdurro’uf, Arjan Bik, Karina Caputi, Román Fernández-Aranda, Adriano Fontana, Yoshinobu Fudamoto, Macarena García-Marín, Mahmoud Hamed, Yuichi Harikane, Takuya Hashimoto, Jakob M. Helton, Tiger Y.-Y. Hsiao, Danial Langeroodi, Ruqiu Lin, Rui Marques-Chaves, Göran Östlin, Pablo G. Pérez-González, Enrico Piconcelli, Carlota Prieto-Jiménez, Pierluigi Rinaldi, Guido Roberts-Borsani, Bruno Rodríguez del Pino, Paola Santini, Tommaso Treu, Ana Varo-O’Ferrall, Jorge Zavala",
+   "venue": "submitted to A&A",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv260914574P/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Scrutinizing Young Barred Galaxies: Spatially Resolved SED Fitting Analysis of Barred Galaxies at z > 1",
+   "authors": "Yuchen Guo, Shardha Jogee, John Chisholm, Eden Wise, Letizia Scaloni, Dimitri A. Gadotti, Steven L. Finkelstein, Micaela B. Bagley, Abdurro’uf, Yingjie Cheng, Luca Costantin, Mauro Giavalisco, Michaela Hirschmann, Benne W. Holwerda, Anton M. Koekemoer, Ray A. Lucas, Fabio Pacucci, Natalia C. Villanueva, and L. Y. Aaron Yung",
+   "venue": "submitted to ApJ",
+   "status": "submitted",
+   "ads": null
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "VENUS: an ultra-faint galaxy hosting the metal-poor type II supernova at z = 5.13 Witnessing the initial metal enrichment with extremely frequent core-collapse supernovae",
+   "authors": "Yoshihisa Asada, Seiji Fujimoto, Joseph F. V. Allingham, David A. Coulter, Conor Larison, Matthew R. Siebert, Gabriel Brammer, Dan Coe, Pratika Dayal, Qinyue Fei, Lukas J. Furtak, Vasily Kokorev, Keiichi Maeda, Richard Pan, Johan Richard, Fengwu Sun, Abdurro’uf, Jacqueline Antwi-Danso, Franz E. Bauer, Maruša Bradač, Larry D. Bradley, Volker Bromm, John Chisholm, Christopher J. Conselice, Christa DeCoursey, Andreas L. Faisst, Brenda Frye, Mauro Gonzalez-Otero, Yuichi Harikane, Tiger Yu-Yang Hsiao, Kohei Inayoshi, Yolanda Jimenez-Teja, Anton M. Koekemoer, Kotaro Kohno, Paulo A. A. Lopes, Ray A. Lucas, Georgios E. Magdis, Vladan Markov, Nicholas Martis, Jorryt Matthee, Minami Nakane, Rohan P. Naidu, Gael Noirot, Masami Ouchi, Armin Rest, Massimo Ricotti, Louis-Gregory Strolger, Raffaella Schneider, Francesco Valentino, Eros Vanzella, Hayley Williams, Rogier A. Windhorst, and Adi Zitrin",
+   "venue": "submitted to ApJ",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv260714355A/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Deep Spectroscopic Follow-Up of Maisie’s Galaxy - A Typical Galaxy in the Early Universe",
+   "authors": "Rebecca L. Larson, Taylor A. Hutchison, Steven L. Finkelstein, Pablo Arrabal Haro, Casey Papovich, Weida Hu, Javier Álvarez-Márquez, Ruqiu Lin, Jorge A. Zavala, Volker Bromm, Nikko J. Cleri, Abdurro’uf, Brittany Vanderhoof, Bren E. Backhaus, Dan Coe, Henry C. Ferguson, Ananya Ganapathy, Norman A. Grogin, Michaela Hirschmann, Intae Jung, Jeyhan S. Kartaltepe, Anton M. Koekemoer, Dale D. Kocevski, Ray A. Lucas, Alexa M. Morales, Pablo G. Pérez-González, Nor Pirzkal, Jonathan R. Trump, And L. Y. Aaron Yung, The THRILS and C3PO Collaborations",
+   "venue": "submitted to ApJ",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv260708749L/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "PRISMS. UNCOVER-26185, a metal-poor SFG at z = 10.05 with no evidence for a X-ray-luminous AGN",
+   "authors": "J. Alvarez-Marquez, L. Colina, A. Crespo-Gomez, S. Kendrew, J. Zavala, R. Marques-Chaves, C. Prieto-Jimenez, Abdurro’uf, C. Blanco-Prieto, L. A. Boogaard, M. Castellano, A. Fontana, Y. Fudamoto, S. Fujimoto, M. Garcia-Marin, Y. Harikane, S. Harish, T. Hashimoto, T. Hsiao, E. Iani, A. K. Inoue, D. Langeroodi, R. Lin, J. Melinder, L. Napolitano, G. Östlin, P. G. Pérez-González, P. Rinaldi, B. Rodriguez Del Pino, P. Santini, Y. Sugahara, T. Treu, A. Varo-O’ferral, and G. Wright",
+   "venue": "accepted for publication in A&A",
+   "status": "in press",
+   "ads": "https://scixplorer.org/abs/2026arXiv260202323A/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "A spectroscopically confirmed, strongly lensed, metal-poor Type II supernova at z = 5.13",
+   "authors": "David A. Coulter, Conor Larison, Justin D. R. Pierel, Seiji Fujimoto, Vasily Kokorev, Joseph F. V. Allingham, Takashi J. Moriya, Matthew Siebert, Yoshihisa Asada, Rachel Bezanson, Maruša Bradač, Gabriel Brammer, John Chisholm, Dan Coe, Pratika Dayal, Michael Engesser, Steven L. Finkelstein, Ori D. Fox, Lukas J. Furtak, Anton M. Koekemoer, Thomas Moore, Minami Nakane, Masami Ouchi, Richard Pan, Robert Quimby, Armin Rest, Johan Richard, Luke Robbins, Louis-Gregory Strolger, Fengwu Sun, Tommaso Treu, Hiroto Yanagisawa, Abdurro’uf, Aadya Agrawal, Ricardo Amorín, Joseph P. Anderson, Rodrigo Angulo, Hakim Atek, Franz E. Bauer, Larry D. Bradley, Volker Bromm, Mateusz Bronikowski, Christopher J. Conselice, Christa DeCoursey, James M. DerKacy, Guillaume Desprez, Suhail Dhawan, Jose M. Diego, Eiichi Egami, Andreas Faisst, Brenda Frye, Sebastian Gomez, Mauro González-Otero, Massimo Griggio, Yuichi Harikane, Kohei Inayoshi, Saurabh W. Jha, Yolanda Jiménez-Teja, Jeyhan S. Kartaltepe, Patrick L. Kelly, Lindsey A. Kwok, Zachary G. Lane, Xiaolong Li, Ivo Lobbe, Ray A. Lucas, Georgios E. Magdis, Nicholas S. Martis, Jorryt Matthee, Ashish K. Meena, Rohan P. Naidu, Gaël Noirot, Masamune Oguri, Estefania Padilla Gonzalez, Massimo Pascale, Tanja Petrushevska, Massimo Ricotti, Daniel Schaerer, Stefan Schuldt, Melissa Shahbandeh, William Sheu, Koji Shukawa, Akiyoshi Tsujita, Eros Vanzella, Qinan Wang, John Weaver, Rogier Windhorst, Yi Xu, Yossef Zenati, Adi Zitrin",
+   "venue": "under review in Science",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv260104156C/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "BEACON: JWST NIRCam Pure-parallel Imaging Survey. II. Physical Properties of z = 7–14 Galaxies",
+   "authors": "Yechi Zhang, Takahiro Morishita, Kimi C. Kreilgaard, Charlotte A. Mason, Abdurro’uf, Hakim Atek, Marusa Bradac, Larry D. Bradley, Andrew J. Bunker, Viola Gelli, Novan Saputra Haryana, Matthew J. Hayes, George Helou, Nicha Leethochawalit, Zhaoran Liu, Marc Rafelski, Guido Roberts-Borsani, Michael J. Rutkowski, Claudia Scarlata, Massimo Stiavelli, Ryo A. Sutanto, Harry I. Teplitz, T. Treu, M. Trenti, Benedetta Vulcani, Xin Wang",
+   "venue": "under review in A&A",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv260102861Z/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Little red dot variability over a century reveals black hole envelope via a giant Einstein cross",
+   "authors": "Zijian Zhang, Mingyu Li, Masamune Oguri, Xiaojing Lin, Kohei Inayoshi, (incl. Abdurro’uf)",
+   "venue": "under review in Science",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2025arXiv251205180Z/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "The TNG50-SKIRT Atlas: spatially resolved synthetic galaxies from the ultraviolet to the submillimetre (DR2)",
+   "authors": "Maarten Baes, Paul Vauterin, Abdurro’uf, Nick Andreadis, Thiago Bueno-Dalpiaz, Sena Bokona Tulu, Peter Camps, Abdissa Tassama Emana, Jacopo Fritz, Andrea Gebek, Anand Utsav Kapoor, Inja Kovačić, Arno Lauwers, Kosei Matsumoto, Karín Menéndez- Delmestre, Aleksandr V. Mosenkov, Angelos Nersesian, Lara Pantoni, Mariana Rivas Sánchez, Waad Saftly, Samir Salim, Marko Stalevski, and Qi Zeng",
+   "venue": "A&A, 713, A262",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2026arXiv260801908B/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Two Exciting High-redshift Galaxy Candidates Turn Out to Be Two Exciting Brown Dwarfs",
+   "authors": "Maruša Bradač, Chris Willott, Yoshihisa Asada, Loïc Albert, Gregor Rihtaršič, Anishya Harshan, Jon Judež, Nicholas S. Martis, Andrea Ferrara, Abdurro’uf, Joseph F. V. Allingham, Volker Bromm, John Chisholm, Dan Coe, Guillaume Desprez, Jose M. Diego, Andreas L. Faisst, Seiji Fujimoto, Tiger Yu-Yang Hsiao, Kohei Inayoshi, Anton M. Koekemoer, Brian C. Lemaux, Paulo A. A. Lopes, Danilo Marchesini, Vladan Markov, Gaël Noirot, Richard Pan, Scott W. Randall, Johan Richard, Luke Robbins, Ghassan T. E. Sarrouh, Marcin Sawicki, Tim Schrabback, Roberta Tripodi, Eros Vanzella, and Rogier A. Windhorst",
+   "venue": "ApJL, 1010, L13",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2026arXiv260423668B/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "VENUS: A Strongly Lensed Clumpy Galaxy at z ~11 −12 behind the Galaxy Cluster MACS J0257.1-2325",
+   "authors": "Minami Nakane, Vasily Kokorev, Seiji Fujimoto, Masami Ouchi, Derek J. McLeod, Miriam Golubchik, Masamune Oguri, Adi Zitrin, Cecilia Bondestam, Callum T. Donnan, Gabriel Brammer, Steven L. Finkelstein, Chris Willott, Gregor Rihtarsic, Guillaume Desprez, Angela Adamo, Eros Vanzella, Maruša Bradač, Matteo Messa, Hiroto Yanagisawa, Fengwu Sun, Henry C. Ferguson, Ray A. Lucas, Dan Coe, Johan Richard, Abdurro’uf, Hollis B. Akins, Joseph F. V. Allingham, Ricardo O. Amorín, Yoshihisa Asada, Hakim Atek, Rachel Bezanson, Larry D. Bradley, John Chisholm, Christopher J. Conselice, Pratika Dayal, Miroslava Dessauges-Zavadsky, Jose M. Diego, Andreas L. Faisst, Gavin Farley, Qinyue Fei, Brenda L. Frye, Yoshinobu Fudamoto, Lukas J. Furtak, Yuichi Harikane, Tiger Yu-Yang Hsiao, Yolanda Jiménez-Teja, Jeyhan S. Kartaltepe, Tomokazu Kiyota, Anton M. Koekemoer, Claudia del P. Lagos, Georgios E. Magdis, Ashish Kumar Meena, Lamiya Mowla, Gaël Noirot, Pascal A. Oesch, Yoshiaki Ono, Rafael Ortiz III, Richard Pan, Casey Papovich, Justin D. Pierel, Massimo Ricotti, Luke Robbins, Daniel Schaerer, Raffaella Schneider, Tommaso Treu, Francesco Valentino, Rogier A. Windhorst, Franz E. Bauer, Volker Bromm, Eiichi Egami, Mauro González-Otero, Kotaro Kohno, Ivo Labbe, Jorryt Matthee, Marcie Mun, Rohan P. Naidu, Roberta Tripodi",
+   "venue": "accepted for publication in ApJ",
+   "status": "in press",
+   "ads": "https://scixplorer.org/abs/2025arXiv251114483N/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "BEACON: JWST NIRCam Pure-parallel Imaging Survey. III. Constraints on the UV LF and the Clustering of z ~7 −14 Galaxies",
+   "authors": "Kimi C. Kreilgaard, Charlotte A. Mason, Takahiro Morishita, Yechi Zhang, Viola Gelli, Nicha Leethochawalit, Tommaso Treu, Michele Trenti, Abdurro’uf, Hakim Atek, Maruša Bradač, Larry D. Bradley, Andrew J. Bunker, Novan Saputra Haryana, Matthew J. Hayes, Zhaoran Liu, Vihang Mehta, Marc Rafelski, Guido Roberts-Borsani, Claudia Scarlata, Massimo Stiavelli, Ryo A. Sutanto, Kosuke Takahashi, Benedetta Vulcani",
+   "venue": "ApJ, 1009, 134",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2026ApJ..1009..134K/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "VST-SMASH: VST Survey of Mass Assembly and Structural Hierarchy. II. Exploring dwarf galaxies in the vicinity of NGC 5068 and of the two galaxies NGC 5084 and NGC 5087 at the edges of the Virgo Supercluster",
+   "authors": "C. Tortora, R. Ragusa, L. Hunt, A. Unni, M. Baes, Abdurro’uf, F. Annibali, M. Gatto, N. R. Napolitano, H. Su, A. Venhola",
+   "venue": "A&A, 713, A152",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2026A%26A...713A.152T/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "PRISMS. U37126, a very blue, ISM-naked starburst at z = 10.255 with nearly 100% Lyman continuum escape fraction",
+   "authors": "R. Marques-Chaves, J. Álvarez-Márquez, L. Colina, S. Kendrew, Abdurro’uf, C. Blanco-Prieto, L. A. Boogaard, M. Castellano, K. I. Caputi, A. Crespo-Gomez, A. Fontana, Y. Fudamoto, S. Fujimoto, M. García-Marín, Y. Harikane, S. Harish, T. Hashimoto, T. Hsiao, E. Iani, A. K. Inoue, D. Langeroodi, R. Lin, J. Melinder, L. Napolitano, G. Ostlin, P. G. Pérez-González, C. Prieto-Jiménez, P. Rinaldi, B. Rodríguez Del Pino, P. Santini, Y. Sugahara, A. Varo-O’ferral, G. Wright, and J. Zavala",
+   "venue": "A&A, 711, A301",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2026arXiv260202322M/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Euclid: Early Release Observations – The extended stellar component of the IC10 dwarf galaxy",
+   "authors": "F. Annibali, A.M.N. Ferguson, P.M. Sanchez-Alarcon, P. Dimauro, L.K. Hunt, R. Pascale, M. Bellazzini, A. Lançon, P. Jablonka, J.M. Howell, K. Voggel, J.-C. Cuillandre, Abdurro’uf, G. Battaglia, L.R. BEDIN, Michele Cantiello, et al.",
+   "venue": "A&A, 712, A175",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2026arXiv260111997A/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "BEACON: JWST NIRCam Pure-parallel Imaging Survey. IV. A Systematic Search for Galaxy Overdensities and Evidence for Gas Accretion Mode Transition",
+   "authors": "Ryo A. Sutanto, Takahiro Morishita, Tadayuki Kodama, Abdurro’uf, Larry D. Bradley, Andrew J. Bunker, Nima Chartab, Nuo Chen, Matthew J. Hayes, George Helou, Novan S. Haryana, Nicha Leethochawalit, Zhaoran Liu, Charlotte A. Mason, Marc Rafelski, Michael J. Rutkowski, Massimo Stiavelli, Kosuke Takahashi, Harry I. Teplitz, Michele Trenti, Tommaso Treu, Benedetta Vulcani, Yechi Zhang",
+   "venue": "ApJ, 1007, 115",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2026arXiv260204333S/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Euclid Quick Data Release (Q1). XIV. A first view of the star-forming main sequence in the Euclid Deep Fields",
+   "authors": "Euclid Collaboration: A. Enia, L. Pozzetti, M. Bolzonella, L. Bisigello, W. G. Hartley, C. Saulder, E. Daddi, M. Siudek, G. Zamorani, P. Cassata, F. Gentile, L. Wang, G. Rodighiero, V. Allevato, P. Corcho-Caballero, H. Domínguez Sánchez, C. Tortora, M. Baes, Abdurro’uf, A. Nersesian, et al.",
+   "venue": "A&A, 711, A14",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025arXiv250315314E/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "VENUS: When Red meets Blue – A multiply imaged Little Red Dot with an apparent blue companion behind the galaxy cluster Abell 383",
+   "authors": "Miriam Golubchik, Lukas J. Furtak, Joseph F. V. Allingham, Adi Zitrin, Hollis B. Akins, Vasily Kokorev, Seiji Fujimoto, Abdurro’uf, Ricardo O. Amorín, Franz E. Bauer, Rachel Bezanson, et al.",
+   "venue": "A&A, 710, A226",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025arXiv251202117G/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "VST-SMASH: VST Survey of Mass Assembly and Structural Hierarchy. I. Survey presentation and deep photometry of tracing the mass assembly in the challenging faintest-end regime",
+   "authors": "R. Ragusa, C. Tortora, L. Hunt, M. Spavone, M. Baes, Abdurro’uf, M. Gatto, F. Annibali, N. Bellucco, A. Unni, E. Schinnerer",
+   "venue": "A&A, 710, A42",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2026A%26A...710A..42R/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "HELM’s deep: Highly Extincted Low-Mass galaxies seen by JWST",
+   "authors": "L. Bisigello, G. Gandolfi, A. Grazian, G. Rodighiero, G. Girardi, A. Renzini, A. Vietri, E. McGrath, B. Holwerda, Abdurro’uf, M. Castellano, M. Giulietti, C. Gruppioni, N. Hathi, A.M. Koekemoer, R. Lucas, F. Pacucci, P.G. Pérez-González, L.Y.A. Yung, P. Arrabal Haro, B.E. Backhaus, M. Bagley, M. Dickinson, S. Finkelstein, J. Kartaltepe, A. Kirkpatrick, C. Papovich, N. Pirzkal",
+   "venue": "A&A, 706, A363",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025arXiv251214822B/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "The z = 9.625 Cosmic Gems Galaxy was a “Compact Blue Monster” Propelled by Massive Star Clusters",
+   "authors": "E. Vanzella, M. Messa, A. Adamo, F. Loiacono, M. Oguri, K. Sharon, L. D. Bradley, P. Bergamini, M. Meneghetti, A. Claeyssens, B. Welch, M. Bradac, A. Zanella, A. Bolamperti, F. Calura, T. Y-Y. Hsiao, E. Zackrisson, M. Ricotti, L. Christensen, J. M. Diego, F. E. Bauer, X. Xu, S. Fujimoto, C. Grillo, M. Lombardi, P. Rosati, T. Resseguier, A. Zitrin, A. Bik, J. Richard, Abdurro’uf, R. Bhatawdekar, D. Coe, B. Frye, A. K. Inoue Y. Jimenez-Teja, C. Norman, J. R. Rigby, M. Trenti, T. Hashimoto",
+   "venue": "A&A, 705, A171",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2026A%26A...705A.171V/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "JWST Spectroscopic Confirmation of the Cosmic Gems Arc at z = 9.625. Insights into the small scale structure of a post-burst system",
+   "authors": "M. Messa, E. Vanzella, F. Loiacono, A. Adamo, M. Oguri, K. Sharon, L.D. Bradley, L. Christensen, A. Claeyssens, J. Richard, Abdurro’uf, F.E. Bauer, P. Bergamini, A. Bolamperti, M. Bradač, F. Calura, D. Coe, et al.",
+   "venue": "A&A, 705, A173",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025arXiv250718705M/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2025",
+   "title": "BEACON: JWST NIRCam Pure-parallel Imaging Survey. I. Survey Design and Initial Results",
+   "authors": "Takahiro Morishita, Charlotte A. Mason, Kimi C. Kreilgaard, Michele Trenti, Tommaso Treu, Benedetta Vulcani, Yechi Zhang, Abdurro’uf, Anahita Alavi, Hakim Atek, Yannick Bahe, Marusa Bradac, Larry D. Bradley, Andrew J. Bunker, Dan Coe, James Colbert, Viola Gelli, Matthew J. Hayes, Tucker Jones, Tadayuki Kodama, Nicha Leethochawalit, Zhaoran Liu, Matthew A. Malkan, Vihang Mehta, Benjamin Metha, Andrew B. Newman, Marc Rafelski, Guido Roberts-Borsani, Michael J. Rutkowski, Claudia Scarlata, Massimo Stiavelli, Ryo A. Sutanto, Kosuke Takahashi, Harry I. Teplitz, Xin Wang",
+   "venue": "ApJ, 983, 152",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv241204211M/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2025",
+   "title": "Implication of a galaxy-scale negative feedback by one of the most powerful multi-phase outflows in a hyper-luminous infrared galaxy at the intermediate redshift",
+   "authors": "Xiaoyang Chen, Masayuki Akiyama, Kohei Ichikawa, Yoshiki Toba, Toshihiro Kawaguchi, Takuma Izumi, Toshiki Saito, Daisuke Iono, Masatoshi Imanishi, Kianhong Lee, Hiroshi Nagai, Hirofumi Noda, Abdurro’uf, Mitsuru Kokubo, and Naoki Matsumoto",
+   "venue": "ApJ, 979, 32",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv241020842C/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2025",
+   "title": "Euclid preparation: LVIII. Detecting globular clusters in the Euclid survey",
+   "authors": "Euclid Collaboration: K. Voggel, A. Lançon, T. Saifollahi, S. S. Larsen, M. Cantiello, M. Rejkuba, J.-C. Cuillandre, P. Hudelot, A. A. Nucita, M. Urbano, E. Romelli, M. A. Raj, M. Schirmer, C. Tortora, Abdurro’uf, F. Annibali, M. Baes, P. Boldrini, R. Cabanac, D. Carollo, C. J. Conselice, P.-A. Duc, A. M. N. Ferguson, L. K. Hunt, J. H. Knapen, P. Lonare, F. R. Marleau, M. Paolillo, M. Poulain, R. Sánchez-Janssen, E. Sola, S. Andreon, N. Auricchio, C. Baccigalupi, M. Baldi, S. Bardelli, C. Bodendorf, D. Bonino, E. Branchini, M. Brescia, J. Brinchmann, S. Camera, V. Capobianco, C. Carbone, R. G. Carlberg, J. Carretero, S. Casas, M. Castellano, G. Castignani, S. Cavuoti, A. Cimatti, C. Colodro-Conde, G. Congedo, L. Conversi, Y. Copin, F. Courbin, H. M. Courtois, M. Cropper, A. Da Silva, H. Degaudenzi, G. De Lucia, A. M. Di Giorgio, J. Dinis, F. Dubath, X. Dupac, S. Dusini, M. Farina, S. Farrens, S. Ferriol, S. Fotopoulou, M. Frailis, E. Franceschi, M. Fumana, S. Galeotta, K. George, W. Gillard, B. Gillis, C. Giocoli, P. Gómez-Alvarez, A. Grazian, F. Grupp, S. V. H. Haugan, H. Hoekstra, W. Holmes, I. Hook, F. Hormuth, A. Hornstrup, K. Jahnke, E. Keihänen, S. Kermiche, A. Kiessling, M. Kilbinger, R. Kohley, B. Kubik, M. Kümmel, M. Kunz, H. Kurki-Suonio, R. Laureijs, P. Liebing, S. Ligori, P. B. Lilje, V. Lindholm, I. Lloro, D. Maino, E. Maiorano, O. Mansutti, O. Marggraf, K. Markovic, M. Martinelli, N. Martinet, F. Marulli, R. Massey, S. Maurogordato, E. Medinaceli, S. Mei, Y. Mellier, M. Meneghetti, E. Merlin, G. Meylan, M. Moresco, L. Moscardini, E. Munari, R. Nakajima, C. Neissner, R. C. Nichol, S.-M. Niemi, J. W. Nightingale, C. Padilla, S. Paltani, F. Pasian, K. Pedersen, V. Pettorino, S. Pires, G. Polenta, M. Poncet, L. A. Popa, L. Pozzetti, F. Raison, R. Rebolo, A. Renzi, J. Rhodes, G. Riccio, M. Roncarelli, E. Rossetti, R. Saglia, Z. Sakr, D. Sapone, B. Sartoris, R. Scaramella, P. Schneider, T. Schrabback, A. Secroun, E. Sefusatti, G. Seidel, S. Serrano, C. Sirignano, G. Sirri, L. Stanco, J. Steinwagner, C. Surace, P. Tallada-Crespí, H. I. Teplitz, I. Tereno, R. Toledo-Moreo, F. Torradeflot, I. Tutusaus, E. A. Valentijn, L. Valenziano, T. Vassallo, A. Veropalumbo, Y. Wang, J. Weller, G. Zamorani, E. Zucca, A. Biviano, M. Bolzonella, E. Bozzo, C. Burigana, M. Calabrese, D. Di Ferdinando, J. A. Escartin Vigo, R. Farinelli, J. Gracia-Carpio, N. Mauri, V. Scottez, M. Tenti, M. Viel, M. Wiesmann, Y. Akrami, V. Allevato, S. Anselmi, M. Ballardini, M. Bethermin, A. Blanchard, L. Blot, S. Borgani, A. S. Borlaff, S. Bruton, A. Calabro, G. Canas-Herrera, A. Cappi, C. S. Carvalho, T. Castro, K. C. Chambers, S. Contarini, A. R. Cooray, B. De Caro, G. Desprez, A. Díaz-Sánchez, S. Di Domizio, H. Dole, S. Escoffier, I. Ferrero, F. Finelli, F. Fornari, L. Gabarra, K. Ganga, J. García-Bellido, V. Gautard, E. Gaztanaga, F. Giacomini, G. Gozaliasl, A. Hall, H. Hildebrandt, J. Hjorth, O. Ilbert, J. J. E. Kajava, V. Kansal, D. Karagiannis, C. C. Kirkpatrick, L. Legrand, G. Libet, A. Loureiro, J. Macias-Perez, G. Maggio, M. Magliocchetti, F. Mannucci, R. Maoli, C. J. A. P. Martins, S. Matthew, L. Maurin, R. B. Metcalf, P. Monaco, C. Moretti, G. Morgante, Nicholas A. Walton, L. Patrizii, A. Pezzotta, M. Pöntinen, V. Popa, C. Porciani, D. Potter, P. Reimberg, I. Risso, P.-F. Rocci, M. Sahlén, A. Schneider, M. Sereno, P. Simon, A. Spurio Mancini, G. Testera, R. Teyssier, S. Toft, S. Tosi, A. Troja, M. Tucci, J. Valiviita, D. Vergani, G. Verza, I. A. Zinchenko, G. A. Mamon, D. Scott",
+   "venue": "A&A, 693, A251",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025A%26A...693A.251E/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2025",
+   "title": "Euclid: Early Release Observations – Overview of the Perseus cluster and analysis of its luminosity and stellar mass functions",
+   "authors": "J.-C. Cuillandre, M. Bolzonella, A. Boselli, F. R. Marleau, M. Mondelin, J. G. Sorce, C. Stone, F. Buitrago, Michele Cantiello, K. George, N. A. Hatch, L. Quilley, F. Mannucci, T. Saifollahi, R. Sánchez-Janssen, F. Tarsitano, C. Tortora, X. Xu, H. Bouy, S. Gwyn, M. Kluge, A. Lançon, R. Laureijs, M. Schirmer, Abdurro’uf, P. Awad, M. Baes, F. Bournaud, D. Carollo, S. Codis, C. J. Conselice, V. De Lapparent, P.-A. Duc, A. Ferré-Mateu, W. Gillard, J. B. Golden-Marx, P. Jablonka, R. Habas, L. K. Hunt, S. Mei, M.-A. Miville-Deschênes, M. Montes, A. Nersesian, R. F. Peletier, M. Poulain, R. Scaramella, M. Scialpi, E. Sola, J. Stephan, L. Ulivi, M. Urbano, R. Zöller, N. Aghanim, B. Altieri, A. Amara, S. Andreon, N. Auricchio, M. Baldi, A. Balestra, S. Bardelli, R. Bender, C. Bodendorf, D. Bonino, E. Branchini, M. Brescia, J. Brinchmann, S. Camera, V. Capobianco, C. Carbone, J. Carretero, S. Casas, F. J. Castander, M. Castellano, S. Cavuoti, A. Cimatti, G. Congedo, L. Conversi, Y. Copin, F. Courbin, H. M. Courtois, M. Cropper, A. Da Silva, H. Degaudenzi, A. M. Di Giorgio, J. Dinis, M. Douspis, F. Dubath, C. A. J. Duncan, X. Dupac, S. Dusini, M. Farina, S. Farrens, S. Ferriol, S. Fotopoulou, M. Frailis, E. Franceschi, S. Galeotta, B. Gillis, C. Giocoli, P. Gómez-Alvarez, A. Grazian, F. Grupp, L. Guzzo, S. V. H. Haugan, J. Hoar, H. Hoekstra, W. Holmes, I. Hook, F. Hormuth, A. Hornstrup, P. Hudelot, K. Jahnke, M. Jhabvala, E. Keihänen, S. Kermiche, A. Kiessling, M. Kilbinger, T. Kitching, R. Kohley, B. Kubik, K. Kuijken, M. Kümmel, M. Kunz, H. Kurki-Suonio, O. Lahav, D. Le Mignant, S. Ligori, P. B. Lilje, V. Lindholm, I. Lloro, D. Maino, E. Maiorano, O. Mansutti, O. Marggraf, K. Markovic, N. Martinet, F. Marulli, R. Massey, S. Maurogordato, H. J. McCracken, E. Medinaceli, M. Melchior, Y. Mellier, M. Meneghetti, E. Merlin, G. Meylan, J. J. Mohr, M. Moresco, L. Moscardini, R. Nakajima, R. C. Nichol, S.-M. Niemi, C. Padilla, S. Paltani, F. Pasian, K. Pedersen, W. J. Percival, V. Pettorino, S. Pires, G. Polenta, M. Poncet, L. A. Popa, L. Pozzetti, F. Raison, A. Renzi, J. Rhodes, G. Riccio, E. Romelli, M. Roncarelli, R. Saglia, D. Sapone, P. Schneider, T. Schrabback, A. Secroun, G. Seidel, S. Serrano, C. Sirignano, G. Sirri, J. Skottfelt, L. Stanco, P. Tallada-Crespí, A. N. Taylor, H. I. Teplitz, I. Tereno, R. Toledo-Moreo, I. Tutusaus, E. A. Valentijn, L. Valenziano, T. Vassallo, G. Verdoes Kleijn, Y. Wang, J. Weller, E. Zucca, A. Biviano, C. Burigana, G. Castignani, G. De Lucia, V. Scottez, A. Mora, P. Simon, J. Martín-Fleitas, D. Scott",
+   "venue": "A&A, 697, A11",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025A%26A...697A..11C/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2025",
+   "title": "Euclid: Early Release Observations – Globular clusters in the Fornax galaxy cluster, from dwarf galaxies to the intracluster field",
+   "authors": "T. Saifollahi, K. Voggel, A. Lançon, Michele Cantiello, M. A. Raj, J.-C. Cuillandre, S. S. Larsen, F. R. Marleau, A. Venhola, M. Schirmer, D. Carollo, P.-A. Duc, A. M. N. Ferguson, L. K. Hunt, M. Kümmel, R. Laureijs, O. Marchal, A. A. Nucita, R. F. Peletier, M. Poulain, M. Rejkuba, R. Sánchez-Janssen, M. Urbano, Abdurro’uf, B. Altieri, M. Baes, M. Bolzonella, C. J. Conselice, P. Cote, P. Dimauro, A. H. Gonzalez, R. Habas, P. Hudelot, M. Kluge, P. Lonare, D. Massari, E. Romelli, R. Scaramella, E. Sola, C. Stone, C. Tortora, S. E. van Mierlo, J. H. Knapen, J. Martín-Fleitas, A. Mora, J. Román, N. Aghanim, A. Amara, S. Andreon, N. Auricchio, M. Baldi, A. Balestra, S. Bardelli, A. Basset, R. Bender, D. Bonino, E. Branchini, M. Brescia, J. Brinchmann, S. Camera, V. Capobianco, C. Carbone, J. Carretero, S. Casas, M. Castellano, S. Cavuoti, A. Cimatti, G. Congedo, L. Conversi, Y. Copin, F. Courbin, H. M. Courtois, M. Cropper, A. Da Silva, H. Degaudenzi, A. M. Di Giorgio, J. Dinis, F. Dubath, X. Dupac, S. Dusini, M. Fabricius, M. Farina, S. Farrens, S. Ferriol, P. Fosalba, M. Frailis, E. Franceschi, M. Fumana, S. Galeotta, B. Garilli, W. Gillard, B. Gillis, C. Giocoli, P. Gómez-Alvarez, B. R. Granett, A. Grazian, F. Grupp, L. Guzzo, S. V. H. Haugan, J. Hoar, H. Hoekstra, W. Holmes, I. Hook, F. Hormuth, A. Hornstrup, K. Jahnke, M. Jhabvala, E. Keihänen, S. Kermiche, A. Kiessling, T. Kitching, R. Kohley, B. Kubik, K. Kuijken, M. Kunz, H. Kurki-Suonio, O. Lahav, D. Le Mignant, S. Ligori, P. B. Lilje, V. Lindholm, I. Lloro, D. Maino, E. Maiorano, O. Mansutti, O. Marggraf, K. Markovic, N. Martinet, F. Marulli, R. Massey, S. Maurogordato, H. J. McCracken, E. Medinaceli, S. Mei, M. Melchior, Y. Mellier, M. Meneghetti, G. Meylan, M. Moresco, L. Moscardini, E. Munari, R. Nakajima, R. C. Nichol, S.-M. Niemi, C. Padilla, S. Paltani, F. Pasian, K. Pedersen, W. J. Percival, V. Pettorino, S. Pires, G. Polenta, M. Poncet, L. A. Popa, L. Pozzetti, G. D. Racca, F. Raison, R. Rebolo, A. Refregier, A. Renzi, J. Rhodes, G. Riccio, M. Roncarelli, E. Rossetti, R. Saglia, D. Sapone, B. Sartoris, P. Schneider, T. Schrabback, A. Secroun, G. Seidel, S. Serrano, C. Sirignano, G. Sirri, L. Stanco, P. Tallada-Crespí, A. N. Taylor, H. I. Teplitz, I. Tereno, R. Toledo-Moreo, F. Torradeflot, A. Tsyganov, I. Tutusaus, E. A. Valentijn, L. Valenziano, T. Vassallo, G. Verdoes Kleijn, A. Veropalumbo, Y. Wang, J. Weller, O. R. Williams, G. Zamorani, E. Zucca, A. Biviano, C. Burigana, V. Scottez, P. Simon, M. Balogh, D. Scott",
+   "venue": "A&A, 697, A10",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025A%26A...697A..10S/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2025",
+   "title": "Euclid: Early Release Observations – Programme overview and pipeline for compact- and diffuse-emission photometry",
+   "authors": "J.-C. Cuillandre, E. Bertin, M. Bolzonella, H. Bouy, S. Gwyn, S. Isani, M. Kluge, O. Lai, A. Lançon, D. A. Lang, R. Laureijs, T. Saifollahi, M. Schirmer, C. Stone, Abdurro’uf, N. Aghanim, B. Altieri, F. Annibali, H. Atek, P. Awad, M. Baes, E. Bañados, D. Barrado, S. Belladitta, V. Belokurov, A. Boselli, F. Bournaud, J. Bovy, R. A. A. Bowler, G. Buenadicha, F. Buitrago, M. Cantiello, D. Carollo, S. Codis, M. L. M. Collins, G. Congedo, E. Dalessandro, V. de Lapparent, F. De Paolis, J. M. Diego, P. Dimauro, J. Dinis, H. Dole, P.-A. Duc, D. Erkal, M. Ezziati, A. M. N. Ferguson, A. Ferré-Mateu, A. Franco, R. Gavazzi, K. George, W. Gillard, J. B. Golden-Marx, B. Goldman, A. H. Gonzalez, R. Habas, W. G. Hartley, N. A. Hatch, R. Kohley, J. Hoar, J. M. Howell, L. K. Hunt, P. Jablonka, M. Jauzac, Y. Kang, J. H. Knapen, J.-P. Kneib, R. Kohley, P. B. Kuzma, S. S. Larsen, O. Marchal, J. Martín-Fleitas, P. Marcos-Arenal, F. R. Marleau, E. L. Martín, D. Massari, A. W. McConnachie, M. Meneghetti, M. Miluzio, J. Miro Carretero, H. Miyatake, M. Mondelin, M. Montes, A. Mora, O. Müller, C. Nally, K. Noeske, A. A. Nucita, P. A. Oesch, M. Oguri, R. F. Peletier, M. Poulain, L. Quilley, G. D. Racca, M. Rejkuba, J. Rhodes, P.-F. Rocci, J. Román, S. Sacquegna, E. Saremi, R. Scaramella, E. Schinnerer, S. Serjeant, E. Sola, J. G. Sorce, F. Tarsitano, I. Tereno, S. Toft, C. Tortora, M. Urbano, A. Venhola, K. Voggel, J. R. Weaver, X. Xu, M. Žerjal, R. Zöller, S. Andreon, N. Auricchio, M. Baldi, A. Balestra, S. Bardelli, A. Basset, R. Bender, C. Bodendorf, E. Branchini, S. Brau-Nogue, M. Brescia, J. Brinchmann, S. Camera, V. Capobianco, C. Carbone, J. Carretero, S. Casas, F. J. Castander, M. Castellano, S. Cavuoti, A. Cimatti, C. J. Conselice, L. Conversi, Y. Copin, F. Courbin, H. M. Courtois, M. Cropper, J.-G. Cuby, A. Da Silva, H. Degaudenzi, A. M. Di Giorgio, M. Douspis, C. A. J. Duncan, X. Dupac, S. Dusini, M. Fabricius, M. Farina, S. Farrens, S. Ferriol, S. Fotopoulou, M. Frailis, E. Franceschi, S. Galeotta, B. Garilli, B. Gillis, C. Giocoli, P. Gómez-Alvarez, A. Grazian, F. Grupp, L. Guzzo, S. V. H. Haugan, J. Hoar, H. Hoekstra, W. Holmes, I. Hook, F. Hormuth, A. Hornstrup, P. Hudelot, K. Jahnke, M. Jhabvala, E. Keihänen, S. Kermiche, A. Kiessling, M. Kilbinger, T. Kitching, B. Kubik, K. Kuijken, M. Kümmel, M. Kunz, H. Kurki-Suonio, O. Lahav, S. Ligori, P. B. Lilje, V. Lindholm, I. Lloro, D. Maino, E. Maiorano, O. Mansutti, O. Marggraf, K. Markovic, N. Martinet, F. Marulli, R. Massey, S. Maurogordato, H. J. McCracken, E. Medinaceli, Y. Mellier, G. Meylan, J. J. Mohr, M. Moresco, L. Moscardini, E. Munari, R. Nakajima, R. C. Nichol, S.-M. Niemi, C. Padilla, S. Paltani, F. Pasian, J. A. Peacock, K. Pedersen, W. J. Percival, V. Pettorino, S. Pires, G. Polenta, M. Poncet, L. A. Popa, L. Pozzetti, F. Raison, R. Rebolo, A. Refregier, A. Renzi, G. Riccio, Hans-Walter Rix, E. Romelli, M. Roncarelli, E. Rossetti, R. Saglia, D. Sapone, P. Schneider, T. Schrabback, A. Secroun, G. Seidel, S. Serrano, C. Sirignano, G. Sirri, J. Skottfelt, L. Stanco, P. Tallada-Crespí, A. N. Taylor, H. I. Teplitz, R. Toledo-Moreo, A. Tsyganov, I. Tutusaus, E. A. Valentijn, L. Valenziano, T. Vassallo, G. Verdoes Kleijn, Y. Wang, J. Weller, O. R. Williams, G. Zamorani, E. Zucca, C. Baccigalupi, C. Burigana, P. Casenove, P. Liebing, V. Scottez, P. Simon, D. Scott",
+   "venue": "A&A, 697, A6",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025A%26A...697A...6C/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2025",
+   "title": "Euclid. I. Overview of the Euclid mission",
+   "authors": "Euclid Collaboration: Y. Mellier, Abdurro’uf, J. A. Acevedo Barroso, A. Achúcarro, J. Adamek, R. Adam, G. E. Addison, N. Aghanim, M. Aguena, V. Ajani, Y. Akrami, A. Al-Bahlawan, A. Alavi, I. S. Albuquerque, G. Alestas, G. Alguero, A. Allaoui, S. W. Allen, V. Allevato, A. V. Alonso-Tetilla, B. Altieri, A. Alvarez-Candal, S. Alvi, A. Amara, L. Amendola, J. Amiaux, I. T. Andika, S. Andreon, A. Andrews, G. Angora, R. E. Angulo, F. Annibali, A. Anselmi, S. Anselmi, S. Arcari, M. Archidiacono, G. Aricò, M. Arnaud, S. Arnouts, M. Asgari, J. Asorey, L. Atayde, H. Atek, F. Atrio-Barandela, M. Aubert, E. Aubourg, T. Auphan, N. Auricchio, B. Aussel, H. Aussel, P. P. Avelino, A. Avgoustidis, S. Avila, S. Awan, R. Azzollini, C. Baccigalupi, E. Bachelet, D. Bacon, M. Baes, M. B. Bagley, B. Bahr-Kalus, A. Balaguera-Antolinez, E. Balbinot, M. Balcells, M. Baldi, I. Baldry, A. Balestra, M. Ballardini, O. Ballester, M. Balogh, E. Bañados, R. Barbier, S. Bardelli, M. Baron, T. Barreiro, R. Barrena, J.-C. Barriere, B. J. Barros, A. Barthelemy, N. Bartolo, A. Basset, P. Battaglia, A. J. Battisti, C. M. Baugh, L. Baumont, L. Bazzanini, J.-P. Beaulieu, V. Beckmann, A. N. Belikov, J. Bel, F. Bellagamba, M. Bella, E. Bellini, K. Benabed, R. Bender, G. Benevento, C. L. Bennett, K. Benson, P. Bergamini et al. (1040 additional authors not shown)",
+   "venue": "A&A, 697, A1",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2025A%26A...697A...1E/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2024",
+   "title": "JWST MIRI detections of Hα and [OIII] and direct metallicity measurement of the z = 10.17 lensed galaxy MACS0647-JD",
+   "authors": "Tiger Yu-Yang Hsiao, Javier Álvarez-Márquez, Dan Coe, Alejandro Crespo Gómez, Abdurro’uf, Pratika Dayal, Rebecca L. Larson, Arjan Bik, Carmen Blanco-Prieto, Luis Colina, Pablo Guillermo Pérez-González, Luca Costantin, Carlota Prieto- Jiménez, Angela Adamo, Larry D. Bradley, Christopher J. Conselice, Seiji Fujimoto, Lukas J. Furtak, Taylor A. Hutchison, Bethan L. James, Yolanda Jiménez-Teja, Intae Jung, Vasily Kokorev, Matilde Mingozzi, Colin Norman, Massimo Ricotti, Jane R. Rigby, Keren Sharon, Eros Vanzella, Brian Welch, Xinfeng Xu, Erik Zackrisson, Adi Zitrin",
+   "venue": "ApJ, 973, 81",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv240416200H/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2025",
+   "title": "The JWST-PRIMAL archival survey. A JWST/NIRSpec reference sample for the physical properties and Lyman-α absorption and emission of ~600 galaxies at z = 5.0–13.4",
+   "authors": "K. E. Heintz, G. B. Brammer, D. Watson, P. A. Oesch, L. C. Keating, M. J. Hayes, Abdurro’uf, K. Z. Arellano-Córdova, A. C. Carnall, C. R. Christiansen, F. Cullen, R. Davé, P. Dayal, A. Ferrara, K. Finlator, J. P. U. Fynbo, S. R. Flury, V. Gelli, S. Gillman, R. Gottumukkala, K. Gould, T. R. Greve, S. E. Hardin, T. Y.-Y Hsiao, A. Hutter, P. Jakobsson, M. Killi, N. Khosravaninezhad, P. Laursen, M. M. Lee, G. E. Magdis, J. Matthee, R. P. Naidu, D. Narayanan, C. Pollock, M. Prescott, V. Rusakov, M. Shuntov, A. Sneppen, R. Smit, N. R. Tanvir, C. Terp, S. Toft, F. Valentino, A. P. Vijayan, J. R. Weaver, J. H. Wise, J. Witstok",
+   "venue": "A&A, 693, A60",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv240402211H/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2024",
+   "title": "The miniJPAS Survey: The Radial Distribution of Star Formation Rate in Faint X-ray AGN",
+   "authors": "Nischal Acharya, Silvia Bonoli, Mara Salvato, Ariana Cortesi, Rosa M. González Delgado, Ivan Ezequiel Lopez, Isabel Marquez, Ginés Martínez-Solaeche, Abdurro’uf, David Alexander, Marcella Brusa, Jonás Chaves-Montero, Juan Antonio Fernández Ontiveros, Brivael Laloux, Andrea Lapi, George Mountrichas, Cristina Ramos Almeida, Julio Esteban Rodríguez Martín, Francesco Shankar, Roberto Soria, José M. Vilchez, Raul Abramo, Jailson Alcaniz, Narciso Benitez, Saulo Carneiro, Javier Cenarro, David Cristóbal- Hornillos, Renato Dupke, Alessandro Ederoclite, A. Hernán-Caballero, Carlos López-Sanjuan, Antonio Marín-Franch, Caludia Mendes de Oliveira, Mariano Moles, Laerte Sodré Jr., Keith Taylor, Jesús Varela, and Héctor Vázquez Ramió",
+   "venue": "A&A, 687, 285",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv240506010A/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2024",
+   "title": "Strong damped Lyman-α absorption in young star-forming galaxies at redshifts 9 to 11",
+   "authors": "Kasper E. Heintz, Darach Watson, Gabriel Brammer, Simone Vejlgaard, Anne Hutter, Victoria B. Strait, Jorryt Matthee, Pascal A. Oesch, Páll Jakobsson, Nial R. Tanvir, Peter Laursen, Rohan P. Naidu, Charlotte A. Mason, Meghana Killi, Intae Jung, Tiger Yu-Yang Hsiao, Abdurro’uf, Dan Coe, Pablo Arrabal Haro, Steven L. Finkelstein, Sune Toft",
+   "venue": "Science, 384, 890",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024Sci...384..890H/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2024",
+   "title": "To be, or not to be: Balmer breaks in high-z galaxies with JWST",
+   "authors": "Anton Vikaeus, Erik Zackrisson, Stephen Wilkins, Armin Nabizadeh, Vasily Kokorev, Abdurro’uf, Larry D. Bradley, Dan Coe, Pratika Dayal, Massimo Ricotti",
+   "venue": "MNRAS, 529, 1299",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2023arXiv230902504V/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2024",
+   "title": "Reaching for the stars – JWST/NIRSpec spectroscopy of a lensed star candidate at z = 4.76",
+   "authors": "Lukas J. Furtak, Ashish K. Meena, Erik Zackrisson, Adi Zitrin, Gabriel B. Brammer, Dan Coe, José M. Diego, Jan J. Eldridge, Yolanda Jiménez-Teja, Vasily Kokorev, Massimo Ricotti, Brian Welch, Rogier A. Windhorst, Abdurro’uf, Felipe Andrade-Santos, Rachana Bhatawdekar, Larry D. Bradley, Tom Broadhurst, Wenlei Chen, Christopher J. Conselice, Pratika Dayal, Brenda L. Frye, Seiji Fujimoto, Tiger Y.-Y. Hsiao, Patrick L. Kelly, Guillaume Mahler, Nir Mandelker, Colin Norman, Masamune Oguri, Norbert Pirzkal, Marc Postman, Swara Ravindranath, Eros Vanzella, and Stephen M. Wilkins",
+   "venue": "MNRAS, 527, L7",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2023arXiv230800042F/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2023",
+   "title": "JWST/NIRCam Probes Young Star Clusters in the Reionization Era Sunrise Arc",
+   "authors": "E. Vanzella, A. Claeyssens, B. Welch, A. Adamo, D. Coe, J. M. Diego, G. Mahler, G. Khullar, V. Kokorev, M. Oguri, S. Ravindranath, L. J. Furtak, T. Yu-Yang Hsiao, Abdurro’uf, N. Mandelker, G. Brammer, L. D. Bradley, M. Bradac, C. J. Conselice, P. Dayal, M. Nonino, F. Andrade-Santos, R. A. Windhorst, N. Pirzkal, K. Sharon, S. E. de Mink, S. Fujimoto, A. Zitrin, J. J. Eldridge, C. Norman",
+   "venue": "ApJ, 945, 53",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2022arXiv221109839V/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2023",
+   "title": "Two lensed star candidates at z = 4.8 behind the galaxy cluster MACS J0647.7+7015",
+   "authors": "Ashish Kumar Meena, Adi Zitrin, Yolanda Jiménez-Teja, Erik Zackrisson, Wenlei Chen, Dan Coe, Jose M. Diego, Paola Dimauro, Lukas J. Furtak, Patrick L. Kelly, Masamune Oguri, Brian Welch, Abdurro’uf, Felipe Andrade-Santos, Angela Adamo, Rachana Bhatawdekar, Maruša Bradač, Larry D. Bradley, Pratika Dayal, Megan Donahue, Brenda L. Frye, Seiji Fujimoto, Tiger Yu-Yang Hsiao, Vasily Kokorev, Guillaume Mahler, Eros Vanzella, Rogier A. Windhorst",
+   "venue": "ApJL, 944, 6",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2022arXiv221113334M/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2022",
+   "title": "JWST Imaging of Earendel, the Extremely Magnified Star at Redshift z = 6.2",
+   "authors": "Brian Welch, Dan Coe, Erik Zackrisson, S.E. de Mink, Swara Ravindranath, Jay Anderson, Gabriel Brammer, Larry Bradley, Jinmi Yoon, Patrick Kelly, Jose M. Diego, Rogier Windhorst, Adi Zitrin, Paola Dimauro, Yolanda Jimenez-Teja, Abdurro’uf, Mario Nonino, Ana Acebron, Felipe Andrade-Santos, Roberto J. Avila, Matthew B. Bayliss, Alex Benitez, Tom Broadhurst, Rachana Bhatawdekar, Marusa Bradac, Gabriel Caminha, Wenlei Chen, Jan Eldridge, Ebraheem Farag, Michael Florian, Brenda Frye, Seiji Fujimoto, Sebastian Gomez, Alaina Henry, Tiger Y.-Y Hsiao, Taylor A. Hutchison, Bethan L. James, Meridith Joyce, Intae Jung, Gourav Khullar, Rebecca L. Larson, Guillaume Mahler, Nir Mandelker, Stephan McCandliss, Takahiro Morishita, Rosa Newshore, Colin Norman, Kyle O’Connor, Pascal A. Oesch, Masamune Oguri, Masami Ouichi, Marc Postman, Jane R. Rigby, Russell E. Ryan Jr., Soniya Sharma, Keren Sharon, Victoria Strait, Louis-Gregory Strolger, F.X. Timmes, Sune Toft, Michele Trenti, Eros Vanzella, Anton Vikaeus",
+   "venue": "ApJL, 940, 1",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2022ApJ...940L...1W/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2022",
+   "title": "A Multiwavelength view of IC 860: What Is in Action inside Quenching Galaxies",
+   "authors": "Yuanze Luo, Kate Rowlands, Katherine Alatalo, Elizaveta Sazonova, Abdurro’uf, Timothy Heckman, Anne M. Medling, Susana E. Deustua, Kristina Nyland, Lauranne Lanz, Andreea O. Petric, Justin A. Otter, Susanne Aalto, Sabrina Dimassimo, K. Decker French, John S. Gallagher III, Joel C. Roediger, Sofia Stepanoff",
+   "venue": "ApJ, 938, 63",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2022ApJ...938...63L/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2022",
+   "title": "The Seventeenth Data Release of the Sloan Digital Sky Surveys: Complete Release of MaNGA, MaStar and APOGEE-2 Data",
+   "authors": "Abdurro’uf et al.",
+   "venue": "ApJS, 259, 35",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2021arXiv211202026A/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2020",
+   "title": "Tracing the Coevolution Path of Supermassive Black Holes and Spheroids with AKARI-selected Ultraluminous IR Galaxies at Intermediate Redshifts",
+   "authors": "Xiaoyang Chen, Masayuki Akiyama, Kohei Ichikawa, Hirofumi Noda, Yoshiki Toba, Issei Yamamura, Toshihiro Kawaguchi, Abdurro’uf, Mitsuru Kokubo",
+   "venue": "ApJ, 900, 51",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2020ApJ...900...51C/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2019",
+   "title": "Discovery of a strong ionized-gas outflow in an AKARI-selected ultra-luminous infrared galaxy at z = 0.5",
+   "authors": "Xiaoyang Chen, Masayuki Akiyama, Hirofumi Noda, Abdurro’uf, Yoshiki Toba, Issei Yamamura, Toshihiro Kawaguchi, Mitsuru Kokubo, Kohei Ichikawa",
+   "venue": "PASJ, 71, 29",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2019PASJ...71...29C/abstract"
+  },
+  {
+   "category": "nonref",
+   "year": "2024",
+   "title": "Spatially Resolved Stellar Populations of z = 3–6 Lyα-emitting Galaxies with CEERS JWST NIRCam Imaging",
+   "authors": "Turaba Rahman, Intae Jung, Abdurro’uf, Henry C. Ferguson, Fabio Pacucci, Nimish P. Hathi, and Anton M. Koekemoer",
+   "venue": "Research Notes AAS, 8, 297",
+   "status": "published",
+   "ads": "https://iopscience.iop.org/article/10.3847/2515-5172/ad99d7"
+  },
+  {
+   "category": "nonref",
+   "year": "2024",
+   "title": "VST-SMASH: the VST Survey of Mass Assembly and Structural Hierarchy",
+   "authors": "Crescenzo Tortora, Rossella Ragusa, Massimiliano Gatto, Marilena Spavone, Leslie Hunt, Vincenzo Ripepi, Massimo Dall’Ora, Abdurro’uf, Francesca Annibali, Maarten Baes, Francesco Michel Concetto Belfiore, Nicola Bellucco, Micol Bolzonella, Michele Cantiello, Paola Dimauro, Mathias Kluge, Federico Lelli, Nicola R. Napolitano, Achille Nucita, Mario Radovich, Roberto Scaramella, Eva Schinnerer, Vincenzo Testa, Aiswarya Unni",
+   "venue": "ESO Messenger 193",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2024arXiv241109608T/abstract"
+  },
+  {
+   "category": "nonref",
+   "year": "2020",
+   "title": "Spatially Resolved stellar mass buildup and quenching in massive disk galaxies over the last 10 Gyr revealed with spatially resolved SED fitting",
+   "authors": "Abdurro’uf & Masayuki Akiyama",
+   "venue": "Challenges in Panchromatic Modelling with Next Generation Facilities. Proceedings of the International Astronomical Union, 341, 55",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2020IAUS..341...55A/abstract"
+  },
+  {
+   "category": "prep",
+   "year": null,
+   "title": "Euclid: Constraining the bulge-bar stellar mass normalisation of a face-on spiral strong lens",
+   "authors": "W. J. R. Enzi, Abdurro’uf, C. Storfer, N. E. P. Lines, C. Tortora, L. Quilley, T. E. Collett, G. Despali, C. Scarlata, et al.",
+   "venue": "in prep.",
+   "status": "in prep",
+   "ads": null
+  },
+  {
+   "category": "prep",
+   "year": null,
+   "title": "Euclid: Tracing galaxy accretion and quenching through spatially-resolved colour, mass, and SFR maps of ~6200 local galaxies",
+   "authors": "C. Tortora, Abdurro’uf, et al.",
+   "venue": "in prep.",
+   "status": "in prep",
+   "ads": null
+  },
+  {
+   "category": "prep",
+   "year": null,
+   "title": "Spatially resolved star formation in dusty merging galaxies at the Cosmic noon epoch with JWST",
+   "authors": "Ðinh Trung Quốc Anh, Abdurro’uf",
+   "venue": "in prep.",
+   "status": "in prep",
+   "ads": null
+  },
+  {
+   "category": "prep",
+   "year": null,
+   "title": "Spatially resolved quenching in massive galaxies and the role of AGN in the TNG50 simulation",
+   "authors": "Hemani Ambelal, Abdurro’uf",
+   "venue": "in prep.",
+   "status": "in prep",
+   "ads": null
+  }
+ ]
+}
