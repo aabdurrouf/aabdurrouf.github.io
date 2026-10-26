@@ -1,10 +1,10 @@
 {
  "updated": "October 2026",
  "stats": {
-  "total": 72,
+  "total": 74,
   "published": 58,
   "in_press": 3,
-  "submitted": 11,
+  "submitted": 13,
   "citations": ">4800",
   "h_index": 27
  },
@@ -134,6 +134,15 @@
   {
    "category": "sig",
    "year": "2026",
+   "title": "Feedback in Action at Cosmic Dawn: Spatially Resolved Galactic Outflows at z = 6.2",
+   "authors": "Xinfeng Xu, Alaina Henry, Timothy Heckman, Abdurro’uf, Namrata Roy, Tom Resseguier, Allison Strom, Dan Coe, Angela Adamo, Danielle Berg, Rachana Bhatawdekar, Larry D. Bradley, Thomas J. Broadhurst, Wenlei Chen, John Chisholm, Christopher J. Conselice, Pratika Dayal, Jose M. Diego, Megan Donahue, Yoshinobu Fudamoto, Seiji Fujimoto, Lukas Jonathan Furtak, Brian Welch, Bethan Lesley James, Yolanda Jimenez-Teja, Tucker Jones, Xi Kang, Vasily Kokorev, Matilde Mingozzi, Pascal Oesch, Massimo Ricotti, Jane R. Rigby, Daniel P. Stark, Sune Toft, Eros Vanzella, Keerthi Vasan G. C., Rogier A. Windhorst, Erik Zackrisson, Adi Zitrin",
+   "venue": "submitted to Nature Astronomy",
+   "status": "submitted",
+   "ads": null
+  },
+  {
+   "category": "sig",
+   "year": "2026",
    "title": "The Evolving Origin of Star-forming Clumps at 2 < z < 9: Merger- to Instability-Dominated Transition Revealed in JWST NIRCam Legacy Fields",
    "authors": "Ryo Albert Sutanto, Itsna Khoirul Fitriana, Lucky Puspitarini, Abdurro’uf, Irham Taufik Andika, Muhammad Nur Ihsan Effendi, Novan Saputra Haryana, Ibnu Nurul Huda, Anton Timur Jaelani, Sultan Hadi Kusuma, Dian P. Triani, Hesti Retno Tri Wulandari, Mochamad Ikbal Arifyanto, Hakim Luthfi Malasan, Endang Soegiartini, and Yayan Sugianto",
    "venue": "submitted to ApJ",
@@ -256,6 +265,15 @@
    "venue": "ApJ, 908, 163",
    "status": "published",
    "ads": "https://scixplorer.org/abs/2021ApJ...908..163M/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "SN Ares: A Strongly Lensed Type IIb Supernova at z = 1.276 with a Predicted 70-Year Time Delay",
+   "authors": "Conor Larison, Justin Pierel, Matthew R. Siebert, Tom Resseguier, Lukas J. Furtak, Masamune Oguri, Gavin Farley, Hollis B. Akins, Yoshihisa Asada, Rachel Bezanson, Maruša Bradač, Gabriel B. Brammer, John Chisholm, Dan Coe, Pratika Dayal, Henry C. Ferguson, Steven L. Finkelstein, Seiji Fujimoto, Tomokazu Kiyota, Anton M. Koekemoer, Vasily Kokorev, Minami Nakane, Masami Ouchi, Richard Pan, Casey Papovich, Johan Richard, Luke Robbins, Fengwu Sun, Kana Takechi, Tommaso Treu, Christopher J. Willott, Hiroto Yanagisawa, Abdurro’uf, Joseph F. Allingham, Ricardo Amorín, Franz E. Bauer, Larry D. Bradley, Mateusz Bronikowski, Christopher J. Conselice, David A. Coulter, James M. DerKacy, Jose Diego, Eiichi Egami, Andreas L. Faisst, Ori D. Fox, Brenda Frye, Yoshinobu Fudamoto, Mauro González-Otero, Massimo Griggio, Nimish P. Hathi, Tiger Y. Hsiao, Saurabh W. Jha, Yolanda Jimenez-Teja, Jeyhan S. Kartaltepe, Gourav Khullar, Zachary G. Lane, Paulo A. Lopes, Ray A. Lucas, Georgios Magdis, Matteo Messa, Rohan Naidu, Rafael Ortiz III, Massimo Pascale, Armin Rest, Massimo Ricotti, Melissa Shahbandeh, William Sheu, Koji Shukawa, Rogier A. Windhorst, Anita Zanella, Yossef Zenati, Adi Zitrin",
+   "venue": "submitted to ApJ",
+   "status": "submitted",
+   "ads": null
   },
   {
    "category": "other",
