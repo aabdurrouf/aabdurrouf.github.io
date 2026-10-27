@@ -2,8 +2,8 @@
  "updated": "October 2026",
  "stats": {
   "total": 74,
-  "published": 58,
-  "in_press": 3,
+  "published": 59,
+  "in_press": 2,
   "submitted": 13,
   "citations": ">4800",
   "h_index": 27
@@ -273,7 +273,7 @@
    "authors": "Conor Larison, Justin Pierel, Matthew R. Siebert, Tom Resseguier, Lukas J. Furtak, Masamune Oguri, Gavin Farley, Hollis B. Akins, Yoshihisa Asada, Rachel Bezanson, Maruša Bradač, Gabriel B. Brammer, John Chisholm, Dan Coe, Pratika Dayal, Henry C. Ferguson, Steven L. Finkelstein, Seiji Fujimoto, Tomokazu Kiyota, Anton M. Koekemoer, Vasily Kokorev, Minami Nakane, Masami Ouchi, Richard Pan, Casey Papovich, Johan Richard, Luke Robbins, Fengwu Sun, Kana Takechi, Tommaso Treu, Christopher J. Willott, Hiroto Yanagisawa, Abdurro’uf, Joseph F. Allingham, Ricardo Amorín, Franz E. Bauer, Larry D. Bradley, Mateusz Bronikowski, Christopher J. Conselice, David A. Coulter, James M. DerKacy, Jose Diego, Eiichi Egami, Andreas L. Faisst, Ori D. Fox, Brenda Frye, Yoshinobu Fudamoto, Mauro González-Otero, Massimo Griggio, Nimish P. Hathi, Tiger Y. Hsiao, Saurabh W. Jha, Yolanda Jimenez-Teja, Jeyhan S. Kartaltepe, Gourav Khullar, Zachary G. Lane, Paulo A. Lopes, Ray A. Lucas, Georgios Magdis, Matteo Messa, Rohan Naidu, Rafael Ortiz III, Massimo Pascale, Armin Rest, Massimo Ricotti, Melissa Shahbandeh, William Sheu, Koji Shukawa, Rogier A. Windhorst, Anita Zanella, Yossef Zenati, Adi Zitrin",
    "venue": "submitted to ApJ",
    "status": "submitted",
-   "ads": null
+   "ads": "https://scixplorer.org/abs/2026arXiv261033161L/abstract"
   },
   {
    "category": "other",
@@ -397,9 +397,9 @@
    "year": "2026",
    "title": "VENUS: A Strongly Lensed Clumpy Galaxy at z ~11 −12 behind the Galaxy Cluster MACS J0257.1-2325",
    "authors": "Minami Nakane, Vasily Kokorev, Seiji Fujimoto, Masami Ouchi, Derek J. McLeod, Miriam Golubchik, Masamune Oguri, Adi Zitrin, Cecilia Bondestam, Callum T. Donnan, Gabriel Brammer, Steven L. Finkelstein, Chris Willott, Gregor Rihtarsic, Guillaume Desprez, Angela Adamo, Eros Vanzella, Maruša Bradač, Matteo Messa, Hiroto Yanagisawa, Fengwu Sun, Henry C. Ferguson, Ray A. Lucas, Dan Coe, Johan Richard, Abdurro’uf, Hollis B. Akins, Joseph F. V. Allingham, Ricardo O. Amorín, Yoshihisa Asada, Hakim Atek, Rachel Bezanson, Larry D. Bradley, John Chisholm, Christopher J. Conselice, Pratika Dayal, Miroslava Dessauges-Zavadsky, Jose M. Diego, Andreas L. Faisst, Gavin Farley, Qinyue Fei, Brenda L. Frye, Yoshinobu Fudamoto, Lukas J. Furtak, Yuichi Harikane, Tiger Yu-Yang Hsiao, Yolanda Jiménez-Teja, Jeyhan S. Kartaltepe, Tomokazu Kiyota, Anton M. Koekemoer, Claudia del P. Lagos, Georgios E. Magdis, Ashish Kumar Meena, Lamiya Mowla, Gaël Noirot, Pascal A. Oesch, Yoshiaki Ono, Rafael Ortiz III, Richard Pan, Casey Papovich, Justin D. Pierel, Massimo Ricotti, Luke Robbins, Daniel Schaerer, Raffaella Schneider, Tommaso Treu, Francesco Valentino, Rogier A. Windhorst, Franz E. Bauer, Volker Bromm, Eiichi Egami, Mauro González-Otero, Kotaro Kohno, Ivo Labbe, Jorryt Matthee, Marcie Mun, Rohan P. Naidu, Roberta Tripodi",
-   "venue": "accepted for publication in ApJ",
-   "status": "in press",
-   "ads": "https://scixplorer.org/abs/2025arXiv251114483N/abstract"
+   "venue": "ApJ, 1010, 237",
+   "status": "published",
+   "ads": "https://scixplorer.org/abs/2026ApJ..1010..237N/abstract"
   },
   {
    "category": "other",
