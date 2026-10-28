@@ -1,11 +1,11 @@
 {
  "updated": "October 2026",
  "stats": {
-  "total": 74,
+  "total": 75,
   "published": 59,
   "in_press": 2,
-  "submitted": 13,
-  "citations": ">4800",
+  "submitted": 14,
+  "citations": ">5300",
   "h_index": 27
  },
  "links": {
@@ -265,6 +265,14 @@
    "venue": "ApJ, 908, 163",
    "status": "published",
    "ads": "https://scixplorer.org/abs/2021ApJ...908..163M/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "PRISMS GHZ8: Evidence for a Young Burst and Potential Merger Activity at z=10.23",
+   "authors": "Ruqiu Lin, Jorge Zavala, Javier Álvarez-Márquez, Luis Colina, Marco Castellano, Adriano Fontana, Paola Santini, Lorenzo Napolitano, Sarah Kendrew, Alejandro Crespo Gómez, Victoria Salazar, Abdurro’uf, Stefano Carniani, Tiger Y. Hsiao, Yuichi Harikane, Mahmoud Hamed, Takuya Hashimoto, Akio K. Inoue, Danial Langeroodi, Rui Marques-Chaves, Ikki Mitsuhashi, Yurina Nakazato, Borja Perez-Diaz, Pierluigi Rinaldi, Carlota Prieto-Jiménez, Ana Varo O’Ferrall, Fang-Ting Yuan, Shuairu Zhu, Zhen-Ya Zheng",
+   "venue": "submitted to ApJ",
+   "status": "submitted"
   },
   {
    "category": "other",
