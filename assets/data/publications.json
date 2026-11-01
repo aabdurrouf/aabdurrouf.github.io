@@ -1,10 +1,10 @@
 {
- "updated": "October 2026",
+ "updated": "November 2026",
  "stats": {
-  "total": 75,
+  "total": 76,
   "published": 59,
   "in_press": 2,
-  "submitted": 14,
+  "submitted": 15,
   "citations": ">5300",
   "h_index": 29
  },
@@ -130,6 +130,15 @@
    "venue": "MNRAS, 469, 2806",
    "status": "published",
    "ads": "https://scixplorer.org/abs/2017MNRAS.469.2806A/abstract"
+  },
+  {
+   "category": "sig",
+   "year": "2026",
+   "title": "Is Morphology All You Need? Quantifying Imprints of Past Star Formation in the Present-Day Morphologies of Galaxies",
+   "authors": "Juan P. Alfonzo, Kartheik G. Iyer, Masayuki Akiyama, Camilla Pacifici, Abdurro’uf, Suchetha Cooray, Novan S. Haryana, Marc Huertas-Company, Christopher C. Lovell, Rachel S. Somerville, Joshua S. Speagle, John F. Wu, Mikaeel Yunus",
+   "venue": "submitted to ApJ",
+   "status": "submitted",
+   "ads": null
   },
   {
    "category": "sig",
