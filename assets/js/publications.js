@@ -33,9 +33,11 @@
   function item(p, i, opts) {
     const id = `p${opts.prefix}${i}`;
     const star = opts.markFirst && p.category === "first" ? `<span class="chip cyan" title="First- or second-author">★ lead</span>` : "";
-    const link = p.ads
-      ? `<a class="pub-link" href="${esc(p.ads)}" target="_blank" rel="noopener">SciX ↗</a>`
-      : `<span></span>`;
+    const links = [
+      p.journal ? `<a class="pub-link" href="${esc(p.journal)}" target="_blank" rel="noopener">Journal ↗</a>` : "",
+      p.ads ? `<a class="pub-link" href="${esc(p.ads)}" target="_blank" rel="noopener">SciX ↗</a>` : ""
+    ].join("");
+    const link = links ? `<div class="pub-links">${links}</div>` : `<span></span>`;
     return `<li class="pub" data-search="${esc((p.title + " " + p.authors + " " + p.venue + " " + (p.year || "")).toLowerCase())}">
       <div class="pub-year">${esc(p.year || "—")}</div>
       <div>

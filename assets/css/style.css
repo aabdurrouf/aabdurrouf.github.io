@@ -397,9 +397,11 @@ section { padding: 90px 0; position: relative; }
   border: 1px solid rgba(94,231,255,.35); color: var(--cyan); white-space: nowrap;
 }
 .pub-link:hover { background: rgba(94,231,255,.12); color: #fff; }
+.pub-links { display: flex; flex-direction: column; gap: .45rem; align-items: stretch; text-align: center; }
 @media (max-width: 640px) {
   .pub { grid-template-columns: 1fr; gap: .4rem; padding: 1rem .4rem; }
   .pub-link { justify-self: start; }
+  .pub-links { flex-direction: row; justify-self: start; }
 }
 .ads-banner { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap; padding: 1.4rem 1.6rem; margin-bottom: 2.5rem; }
 .ads-banner p { margin: 0; }
