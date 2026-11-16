@@ -1,11 +1,11 @@
 {
  "updated": "November 2026",
  "stats": {
-  "total": 77,
+  "total": 83,
   "published": 60,
   "in_press": 1,
-  "submitted": 16,
-  "citations": ">5300",
+  "submitted": 22,
+  "citations": ">5400",
   "h_index": 29
  },
  "links": {
@@ -275,6 +275,60 @@
    "venue": "ApJ, 908, 163",
    "status": "published",
    "ads": "https://scixplorer.org/abs/2021ApJ...908..163M/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Euclid Data Release 1 (DR1): Performance of the redshift measurement and spectroscopic analysis",
+   "authors": "Euclid Collaboration: V. Le Brun, M. Moresco, M. Bethermin, …, Abdurro’uf, et al.",
+   "venue": "submitted to A&A",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv261117960E/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Euclid Data Release 1 (DR1): Enhancing deep-learning models: the impact of image processing and training data selection for strong-lens detection",
+   "authors": "Euclid Collaboration: M. Fogliardi, P. Holloway, S. Schuldt, …, Abdurro’uf, et al.",
+   "venue": "submitted to A&A",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv261117420E/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Euclid Data Release 1 (DR1): Multi-band photometry validation on COSMOS extragalactic sources",
+   "authors": "Euclid Collaboration: T. Gasparetto, E. Merlin, M. Castellano, …, Abdurro’uf, et al.",
+   "venue": "submitted to A&A",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv261116825E/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Euclid Data Release 1 (DR1): Euclid photometric masks",
+   "authors": "Euclid Collaboration: J. Odier, J. F. Macias-Perez, G. Alguero, …, Abdurro’uf, et al.",
+   "venue": "submitted to A&A",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv261116602E/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Euclid Data Release 1 (DR1): Spacecraft performance in the L2 environment",
+   "authors": "Euclid Collaboration: M. Schirmer, K. Paterson, B. Altieri, …, Abdurro’uf, et al.",
+   "venue": "submitted to A&A",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv261116548E/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Euclid Data Release 1 (DR1): Photometric-redshift pipeline overview and validation",
+   "authors": "Euclid Collaboration: W. G. Hartley, S. Paltani, F. Dubath, …, Abdurro’uf, et al.",
+   "venue": "submitted to A&A",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv261115987E/abstract"
   },
   {
    "category": "other",
