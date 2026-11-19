@@ -1,10 +1,10 @@
 {
  "updated": "November 2026",
  "stats": {
-  "total": 83,
+  "total": 84,
   "published": 60,
   "in_press": 1,
-  "submitted": 22,
+  "submitted": 23,
   "citations": ">5400",
   "h_index": 29
  },
@@ -275,6 +275,15 @@
    "venue": "ApJ, 908, 163",
    "status": "published",
    "ads": "https://scixplorer.org/abs/2021ApJ...908..163M/abstract"
+  },
+  {
+   "category": "other",
+   "year": "2026",
+   "title": "Euclid Data Release 1 (DR1): Double-source-plane lens candidates",
+   "authors": "Euclid Collaboration: T. Li, N. E. P. Lines, P. Holloway, T. E. Collett, …, Abdurro’uf, et al.",
+   "venue": "submitted to A&A",
+   "status": "submitted",
+   "ads": "https://scixplorer.org/abs/2026arXiv261120166E/abstract"
   },
   {
    "category": "other",
